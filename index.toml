@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".editorconfig"
+hash = "92aeb00d03c5c0accbe484fdd4d0593d18fa42dc582f0b108e24d4b9a23ad003"
+
+[[files]]
+file = ".packwizignore copy"
+hash = "4a7543db207813148a18e168bb6cd38925dac833d9f403607fb8c5653f7264a8"
+
+[[files]]
+file = ".pre-commit-config.yaml"
+hash = "077568568856cefb1c45d9cb6363dc8246c06ff8c13ad0d95d2bae1e383200a3"
+
+[[files]]
+file = ".prettierrc"
+hash = "7615170cfaac3ea43d948c4a08bd3e5b4432d07e3106125b7f3034d276d02ede"
+
+[[files]]
+file = "Makefile"
+hash = "5183fca6554846d549cd1df9e7d68888cd808d922868deb7729077a8406295f2"
+
+[[files]]
+file = "README.md"
+hash = "2cec7bc79e962241607c0bb41a48ce3d92e59d6102f8a25123a29c99640da302"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -326,5 +350,41 @@ hash = "49e25ec166b7824d8f1d7feccbd08a8e904c90b089f6485b05df9173a489bd54"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "30cae3d640c7a768890e806908c703db5cd61f3933b5c91985c67f91f82f43a4"
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/de_de.json"
+hash = "411e6ebceb1323b6c216af9863444d0da6248676264afa9474b97a50f42fa470"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/el_gr.json"
+hash = "8c47497c7b0ac3110bf0e5f1903556290ae6f86f3fd3b0f23dd284f62d44a606"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/en_us.json"
+hash = "17977f9511432d3669e9ddf707c26da6d2a2253060273d43a693c6c1acceb8c5"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/et_ee.json"
+hash = "171a5dded2187f72e851ad872730e5532bcbd780f463643faccb4eb6555489ce"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/ko_kr.json"
+hash = "f587d9fc9d319b01f426788c1098c7ea2ac2ab68f7ee546c0b7e3c63cdbdc494"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/pt_br.json"
+hash = "e1e801eb8f0e324330a1193fc331cf7227a9c0ffbdcef5d6cb1811b1108e885a"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/ru_ru.json"
+hash = "037c60a8aa8506acbab26bdd52496c137d10b14b3db21cfa39199a9c1df514a2"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/tr_tr.json"
+hash = "2f5e35e3a59923e2af763a9dd218f282a9a0a4350bc72ec382fb4abdd92d78af"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/pack.mcmeta"
+hash = "af15d2aa39d0ad609fc15c006dfbede8c59e00975428557c0200545166ce17dd"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/pack.png"
+hash = "2cc1f8c9bd888865ba3789e226092cc7ef9d095e5d930390db74dfb62023949f"
