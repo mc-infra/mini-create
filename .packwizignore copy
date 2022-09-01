@@ -1,0 +1,24 @@
+# Exclude README
+/README.md
+/saves
+/backups
+/XaeroWaypoints
+/XaeroWorldMap
+/dashloader-cache
+/.fabric
+/fancymenu_data
+/scripts/*.ps1
+/scripts/*.py
+/local
+/Gemfile
+/index.html
+/modlist.html
+/manifest.json
+/_config.yml
+/node_modules
+/.pre-commit-config.yaml
+/.prettierrc
+/.editorconfig
+/src
+/.vscode
+/kubejs
