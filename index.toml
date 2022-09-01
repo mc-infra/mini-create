@@ -116,11 +116,6 @@ hash = "80ececd3824fee3732b1b3907ffed32c0f8c8aa8537ac0f7d40b9537a073645a"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
-hash = "4e2a3f28c677a309e6fa5c2039d8bcdc7cbf6ea186cf479680c5c8e480412b83"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4b0fa19ea767d239fad702863b87571bc7ab22981168d9715efe9bb14fe3e5d7"
 metafile = true
