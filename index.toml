@@ -225,6 +225,11 @@ hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
 metafile = true
 
 [[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "410bf2dbc317168133467165abee4518f920f5c218e1df35e42058f36bada13e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
 metafile = true
