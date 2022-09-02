@@ -150,6 +150,11 @@ hash = "4922c6a60082afb777fbe456695c6ee321b7e051baaacf3a94020a2308613e51"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits-for-fabric.pw.toml"
+hash = "01c284a18a15a8afd02125c04b0c30b737be3ec7c9d3b44b73f1776aa1137e08"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "80ececd3824fee3732b1b3907ffed32c0f8c8aa8537ac0f7d40b9537a073645a"
 metafile = true
