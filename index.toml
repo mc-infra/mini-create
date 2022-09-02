@@ -105,6 +105,11 @@ file = "config/yosbr/options.txt"
 hash = "69305f9d9e0c54cc866cd9d3a381f14532e3be6b9b00a80707c19517e6a0874b"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a1b123fa4c9cc0c4cf25c6ef33694cf6c94f9dd88388188f34feab9b6d367e2a"
 metafile = true
@@ -117,6 +122,16 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "4312f252c472b5befd7fd21fa014c2a52f773f1bb0607cff57f534ae1b2d1465"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "f501b92f4a593bb4d9257fa8ab5711ec32a38f3f47f7c286cba9e918847b5122"
+metafile = true
+
+[[files]]
+file = "mods/auto-config-updated-api.pw.toml"
+hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
 metafile = true
 
 [[files]]
@@ -137,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "80ececd3824fee3732b1b3907ffed32c0f8c8aa8537ac0f7d40b9537a073645a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
@@ -175,6 +195,11 @@ hash = "4077565bcdd87a21d72ff4a89553a13c25f9ffea39f5e13f1e43bca15440223f"
 metafile = true
 
 [[files]]
+file = "mods/dustrial-decor-fabric.pw.toml"
+hash = "3531d487a8c774e3336ade0fedf753827c3cb67967e0dfda8f6fad6bed714949"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "71952509ce4496bf508aba29a68aba01ceacd31e8c9e8b9d9ded1e1da70a93ff"
 metafile = true
@@ -207,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "2e25280e924e9a871142a5a95f35016e04f0eba2c86f4b84815d5db009ed19f3"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "46244f84e3ad948885bbac58a89c901fc42332c7ff7ac34e0c9c96c93e02ef59"
 metafile = true
 
 [[files]]
@@ -272,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "845c6bfd1410cfac22e042a2839c0a3250c571d6075c384cc5814388012dbf89"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "66da572768333848a6ad0b798c955966956cf63fdf72770260db8909acfe5c4d"
 metafile = true
 
 [[files]]
