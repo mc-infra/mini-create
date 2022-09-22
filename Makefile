@@ -1,6 +1,4 @@
-mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
-current_dir := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
-ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
+current_dir := $(abspath build)
 
 update-packwiz:
 	go install github.com/packwiz/packwiz@latest
@@ -19,5 +17,5 @@ update-fabric:
 update-quilt:
 	pw -b -d versions/quilt update --all
 export:
-	pw -b -d versions/fabric mr export -o ${ROOT_DIR}/build
-	pw -b -d versions/quilt mr export -o ${ROOT_DIR}/build
+	pw -b -d versions/fabric mr export -o ${current_dir}/Fabric.mrpack
+	pw -b -d versions/quilt mr export -o ${current_dir}/Quilt.mrpack
