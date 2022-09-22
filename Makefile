@@ -9,9 +9,9 @@ refresh:
 	pw -b -d versions/fabric refresh
 	pw -b -d versions/quilt refresh
 update:
-	pw -b -d versions/fabric update --all
+	pw -b -d versions/fabric update --all -y
 	timeout 5
-	pw -b -d versions/quilt update --all
+	pw -b -d versions/quilt update --all -y
 update-fabric:
 	pw -b -d versions/fabric update --all
 update-quilt:

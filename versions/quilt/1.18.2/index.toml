@@ -331,12 +331,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7bc62af50be24f86bf8923bfa40797f58b9c2d2f4550dfa102cdc0952e160e2b"
+hash = "ff06ef14b5d3709b49635e5944a9383ade5294f50e70e628241d8c2332923bb3"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "35ac92cd8d9bf158393b5d9b56bd5979251966caf5254d9000864234d6250b40"
+hash = "d8d441351ed66fee6bc15a55d4e99ac797d33897a3318477071aea95977426cf"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "94362e14185934d7086269dc6a6acb28469fa39b67bb81021cee289fba7ef558"
+hash = "135e85318f84fd7c7ac0b33f8084ca40d31adb3e17f1337d6d2b012ac42f230e"
 metafile = true
 
 [[files]]
@@ -547,6 +547,18 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/en_us.json"
+hash = "17977f9511432d3669e9ddf707c26da6d2a2253060273d43a693c6c1acceb8c5"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/pack.mcmeta"
+hash = "af15d2aa39d0ad609fc15c006dfbede8c59e00975428557c0200545166ce17dd"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/pack.png"
+hash = "2cc1f8c9bd888865ba3789e226092cc7ef9d095e5d930390db74dfb62023949f"
 
 [[files]]
 file = "resourcepacks/bedrock-gui.pw.toml"
