@@ -9,8 +9,20 @@ file = "config/cem.conf"
 hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/debugify.json"
+hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "f7c9acd136d372f6bac0dbf3e83f6d4114e5656edcdceddd399d7b7614bdac00"
 
 [[files]]
 file = "config/fastload.properties"
@@ -21,8 +33,28 @@ file = "config/iris.properties"
 hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "105be52b9a3fcff70454f433aa515bd254725ece084a77bed9a802c0db128fc3"
+
+[[files]]
+file = "config/modmenu copy.json"
+hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "16e48fe05ad1fb0c4d363d2d35f9d2c23c6895d60ee29f9f6eaca81e4e4ba9e8"
+
+[[files]]
+file = "config/openloader/data/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/resources/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/puzzle copy.json"
+hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
 file = "config/puzzle.json"
@@ -35,6 +67,62 @@ hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 [[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "8f5c4bac35757d624f296419976aff70a4a5b95c4430aff06048013ea7dd25c4"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
+
+[[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "cc6f863a8e250641184bfcd3b59169491fe5414a036996401b66bc019ebeedd8"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "69305f9d9e0c54cc866cd9d3a381f14532e3be6b9b00a80707c19517e6a0874b"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -444,3 +532,13 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"
+
+[[files]]
+file = "resourcepacks/bedrock-gui.pw.toml"
+hash = "0f1039ace25d5a3564a54d6028ba680a560a57baca1f83fc219742c8b4b0ed20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/groundstone-gui.pw.toml"
+hash = "ea2afe40e8a96605a94670f8939742b1b5cae8c95e344ac58671fc6be65c4861"
+metafile = true

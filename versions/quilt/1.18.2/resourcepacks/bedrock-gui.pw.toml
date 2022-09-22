@@ -1,0 +1,17 @@
+name = "Bedrock GUI"
+filename = "Bedrock GUI.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "64e087f43f9600a4603f34f43dd29a1224ff5e71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3970543
+project-id = 669752
+
+[options]
+optional = true
+default = false
