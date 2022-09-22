@@ -1,6 +1,6 @@
 name = "WorldEdit CUI (Fabric)"
 filename = "WorldEditCUI-1.18.2+01.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
