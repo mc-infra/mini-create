@@ -45,6 +45,16 @@ file = "config/modmenu.json"
 hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 
 [[files]]
+file = "config/openloader/resources/bedrock-gui.pw.toml"
+hash = "aeb9f88766f031cfea2fe713749b2d918f06cde6415a92143c574c1ea92d4998"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/groundstone-gui.pw.toml"
+hash = "804520941813c35c37920a4b93065ca196dac8c7cf54ad2df43ae1a3dc4cdffc"
+metafile = true
+
+[[files]]
 file = "config/puzzle.json"
 hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
@@ -300,13 +310,28 @@ hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "4e7136bf019c6d6333acc30e0a57133c1f23d1585b6c15b9f7a3011beca81247"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources-fabric.pw.toml"
+hash = "598c2f48f715c07d813b057a62a5fd43df12ac68617e339792b3c935734ce5cc"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "6c7a421ac9e1b65a7bf119e5525a66737a4fa36f8269a621f87e91f7480cd7a3"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
 metafile = true
 
 [[files]]

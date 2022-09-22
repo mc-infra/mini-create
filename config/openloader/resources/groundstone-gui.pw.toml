@@ -1,0 +1,17 @@
+name = "Groundstone GUI"
+filename = "Groundstone GUI.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3352e03525a640410c37c5394396a78e2c4e5f96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3961103
+project-id = 665811
+
+[options]
+optional = true
+default = true
