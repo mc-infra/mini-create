@@ -370,6 +370,11 @@ hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "94362e14185934d7086269dc6a6acb28469fa39b67bb81021cee289fba7ef558"
 metafile = true
