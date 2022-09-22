@@ -1,0 +1,13 @@
+name = "OneBar"
+filename = "onebar-2.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xRMD6Oai/versions/2.6.0/onebar-2.6.0.jar"
+hash-format = "sha1"
+hash = "b9ee2eb207b22ace0633254507d0d40ca3f05cc7"
+
+[update]
+[update.modrinth]
+mod-id = "xRMD6Oai"
+version = "siNGxcaF"

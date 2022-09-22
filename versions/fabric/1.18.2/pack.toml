@@ -1,15 +1,13 @@
 name = "Mini Create"
-version = "1.0.0"
+author = "Appkins"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d4cd4dc0f720291fea30c1e513e40a9c990d493c27b1e99d01ac8aeeda56c7e5"
+hash = "6a6f1c31b8b36618d50c4daa26a63561e223f06b9174c2cea56748dd704ed91f"
 
 [versions]
 fabric = "0.14.9"
 minecraft = "1.18.2"
-
-[options]
-acceptable-game-versions = ["1.18.2"]
