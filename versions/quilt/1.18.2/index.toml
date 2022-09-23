@@ -825,6 +825,11 @@ hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
 metafile = true
 
 [[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "862ec380bd86b243a4f46114f34b39ae8a16e1856bc194f34594ac82cb8fd8c8"
 metafile = true
@@ -857,6 +862,11 @@ metafile = true
 [[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "c8ae8ccb6e15fefb7d78e70dfd27e88a3767a1975148f26bfcb25d0e36b1e63e"
+metafile = true
+
+[[files]]
+file = "mods/wildbackport.pw.toml"
+hash = "6f8040bf3f40824221659bddc0e5f31407dca6c0081e7cfebcfa605d82485555"
 metafile = true
 
 [[files]]
