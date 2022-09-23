@@ -1,0 +1,13 @@
+name = "EvergreenHUD"
+filename = "EvergreenHUD-2.0.0-alpha.6-1.18.2-6821d50.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1yIQcc2b/versions/2.0.0-alpha.6/EvergreenHUD-2.0.0-alpha.6-1.18.2-6821d50.jar"
+hash-format = "sha1"
+hash = "cc865b83a79ac414433433d16a22154106370253"
+
+[update]
+[update.modrinth]
+mod-id = "1yIQcc2b"
+version = "cMtnJlCl"

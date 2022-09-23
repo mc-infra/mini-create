@@ -470,6 +470,11 @@ hash = "d5d2668506ecae2f46db784d8e45dedf3591571949e911a235e689ac7bd6fd7b"
 metafile = true
 
 [[files]]
+file = "mods/evergreenhud.pw.toml"
+hash = "037dbdba0ed47cc7ff7fbc266ba24ce9339ef7636e3ed7e892a6ddd04b3e96ba"
+metafile = true
+
+[[files]]
 file = "mods/expanded-caves.pw.toml"
 hash = "f69f2b5e2104fa79f2f3fc88fce424bd4f67c495f7577ad462fca14d0fe7499e"
 metafile = true
