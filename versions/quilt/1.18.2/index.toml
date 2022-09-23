@@ -145,6 +145,16 @@ hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "7cf6e0731a97a85d16c4e15cbe79aeaab619a30c5ec7fb4954ed1fa5a12db1fd"
+metafile = true
+
+[[files]]
+file = "mods/ae2things.pw.toml"
+hash = "44a34a8531cf5e5d06f7b6a02b8b1fcbb45da527cfe6e5029b4bef5bbb98e070"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "0e0112e01df097b7f015ac0ad6a98e173c8e98a27719237ef21be06f8ad09fad"
 metafile = true
@@ -172,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/architects-palette-fabric.pw.toml"
 hash = "f501b92f4a593bb4d9257fa8ab5711ec32a38f3f47f7c286cba9e918847b5122"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
 metafile = true
 
 [[files]]
@@ -492,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "58b80a63029fe06201c7e16061aae0636b281d35c90d8afbf544b323c0664970"
 metafile = true
 
 [[files]]
