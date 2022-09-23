@@ -795,11 +795,6 @@ hash = "f0f4224d38fbb3f041412465e826ade26094914a20239cd597905cf9598704bd"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "4d6310ca9a4cf607116540cfb0282536728d90852388f0abca94c820f92a4482"
-metafile = true
-
-[[files]]
 file = "mods/reborncore.pw.toml"
 hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
 metafile = true
