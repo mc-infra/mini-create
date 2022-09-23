@@ -610,6 +610,11 @@ hash = "2fae14d46424ec68f21ba5ea324ccbf11c5c6ddb8e075f4c6380b2950e48a148"
 metafile = true
 
 [[files]]
+file = "mods/kiln.pw.toml"
+hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
@@ -757,11 +762,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
-metafile = true
-
-[[files]]
-file = "mods/patchouli-fabric.pw.toml"
-hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
 
 [[files]]
