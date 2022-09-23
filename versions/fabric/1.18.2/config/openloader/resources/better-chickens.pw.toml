@@ -1,0 +1,13 @@
+name = "Better Chickens"
+filename = "Better_Chickens_V1.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5bdcd9c340cdf360ee6e491192ccd3f53bd64b48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3876601
+project-id = 406128

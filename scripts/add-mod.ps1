@@ -4,8 +4,8 @@ function AddMod {
     [string]$Name,
     [string]$Type = "mr"
   )
-  pw -b -d versions/fabric $Type add $Name
-  pw -b -d versions/quilt $Type add $Name
+  pw -d versions/fabric/1.18.2 $Type add $Name
+  pw -d versions/quilt/1.18.2 $Type add $Name
 }
 
-AddMod $args
+AddMod $args[0] $args[1]

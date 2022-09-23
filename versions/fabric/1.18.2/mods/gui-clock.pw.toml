@@ -1,0 +1,13 @@
+name = "GUI Clock"
+filename = "guiclock-fabric_1.18.2-3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g1yXisD2/versions/8h5TMn6t/guiclock-fabric_1.18.2-3.6.jar"
+hash-format = "sha1"
+hash = "b6eee6f4362e059bcba4ccf070ed6a31a78674b0"
+
+[update]
+[update.modrinth]
+mod-id = "g1yXisD2"
+version = "8h5TMn6t"
