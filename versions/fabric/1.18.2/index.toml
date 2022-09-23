@@ -920,6 +920,11 @@ hash = "c8ae8ccb6e15fefb7d78e70dfd27e88a3767a1975148f26bfcb25d0e36b1e63e"
 metafile = true
 
 [[files]]
+file = "mods/vulkanmod.pw.toml"
+hash = "7ab5c7aba0549304bca99c1fa30399cb187060d2d0c1aaa6671d08c897665bdf"
+metafile = true
+
+[[files]]
 file = "mods/wildbackport.pw.toml"
 hash = "6f8040bf3f40824221659bddc0e5f31407dca6c0081e7cfebcfa605d82485555"
 metafile = true
