@@ -340,6 +340,11 @@ hash = "7b84c5280c7a4e4b73991213242e7bd66e8af04a9b91d2e34a747fd0a8c38ab3"
 metafile = true
 
 [[files]]
+file = "mods/cyberanner-ironchest.pw.toml"
+hash = "442b4c789dc6f30c4819c1a816e05024b53434320a4f9f80c6c6e3abb268d6db"
+metafile = true
+
+[[files]]
 file = "mods/dark-graph.pw.toml"
 hash = "876736a028b08f4ff202b4e69ebd720f6eb30cfde86d3ddc13bfab60affcec8e"
 metafile = true
@@ -362,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/desired-servers.pw.toml"
 hash = "478b47ac835738da245df714d3c5c8475a1c1ef11127197cf0863771513d313f"
+metafile = true
+
+[[files]]
+file = "mods/displaycase.pw.toml"
+hash = "f939c791987d3de0b3ac513e3699097c1e60c0939cf27da9101ad3e787831cfe"
 metafile = true
 
 [[files]]
@@ -415,13 +425,18 @@ hash = "d5d2668506ecae2f46db784d8e45dedf3591571949e911a235e689ac7bd6fd7b"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "ba059fdc06289ebe29bbec223347e1967e1735d31d81773d86381090d9576ebf"
+metafile = true
+
+[[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
+hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
 metafile = true
 
 [[files]]
@@ -712,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/right-click-harvest.pw.toml"
 hash = "76790dadcda0b1802e3d49b1cdde75c756fba55b54c16a0806a855d1240fd4db"
+metafile = true
+
+[[files]]
+file = "mods/roundaround-inventory-management.pw.toml"
+hash = "c30971e94b9fd1fca7778dc02540a60288505aecfc3e97ebb1cd2be8cee72125"
 metafile = true
 
 [[files]]
