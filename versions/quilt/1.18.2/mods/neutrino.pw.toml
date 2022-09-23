@@ -1,0 +1,13 @@
+name = "Neutrino"
+filename = "Neutrino-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ywoUSn0F/versions/v0.7.1/Neutrino-0.7.1.jar"
+hash-format = "sha1"
+hash = "3f5253986522b46a1493de8d5d8da472a360626a"
+
+[update]
+[update.modrinth]
+mod-id = "ywoUSn0F"
+version = "TFX1lhed"

@@ -145,6 +145,11 @@ hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
 
 [[files]]
+file = "mods/advancedreborn.pw.toml"
+hash = "47790610933527f75242e1022f48326e828ad1b1986001a801dd1dcc030ec7f9"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "83ead165b77f2051ac754cc0fcfedbf957820527ceec62023057ebbb63ae6e40"
+metafile = true
+
+[[files]]
+file = "mods/arcanus.pw.toml"
+hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
 metafile = true
 
 [[files]]
@@ -292,6 +302,16 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "bd1682a96d36541581d636eb8bb9438c2276a175d42cc9db1d7dc007664d5353"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "2aebeda354c8fdb0aa26cc461397bb21f659bc149f0caf2ab9f9fe7770177fd4"
 metafile = true
 
 [[files]]
@@ -450,6 +470,11 @@ hash = "d5d2668506ecae2f46db784d8e45dedf3591571949e911a235e689ac7bd6fd7b"
 metafile = true
 
 [[files]]
+file = "mods/expanded-caves.pw.toml"
+hash = "f69f2b5e2104fa79f2f3fc88fce424bd4f67c495f7577ad462fca14d0fe7499e"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "ba059fdc06289ebe29bbec223347e1967e1735d31d81773d86381090d9576ebf"
 metafile = true
@@ -517,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
+metafile = true
+
+[[files]]
+file = "mods/gearreborn.pw.toml"
+hash = "6dd5e489e7dfe388adea19e1637acb8d487af656be8ce8e7a3f1f5338d30213c"
 metafile = true
 
 [[files]]
@@ -695,6 +725,11 @@ hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
 metafile = true
 
 [[files]]
+file = "mods/neutrino.pw.toml"
+hash = "4a8c6f95d41e93012dee9ecc124a697922fe7f7df8ee204e32158e9fa63d26fa"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.pw.toml"
 hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
@@ -725,6 +760,11 @@ hash = "135e85318f84fd7c7ac0b33f8084ca40d31adb3e17f1337d6d2b012ac42f230e"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
@@ -752,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "4d6310ca9a4cf607116540cfb0282536728d90852388f0abca94c820f92a4482"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
 metafile = true
 
 [[files]]
@@ -810,6 +855,16 @@ hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
 
 [[files]]
+file = "mods/tech-reborn-patchouli.pw.toml"
+hash = "97f59fd153bf1a38ecfeb600cb192359fc7c3cbd1f443eec2a8a148b4d5850d0"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
+metafile = true
+
+[[files]]
 file = "mods/terra.pw.toml"
 hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
 metafile = true
@@ -830,8 +885,18 @@ hash = "521243f1869918c709d94db11f69e3b1268a652bac8af0973dec7ee1b4583170"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers-structure-add-on.pw.toml"
+hash = "c64c6d37dcb580b9e914d428db4a20d28e4c8932fd4c481a52fa71db63c95429"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/trufflez-arcanum.pw.toml"
+hash = "0109b180b72fdb5141e899a99e462f46213a2bfd9dc9e6909101adc53a91d83c"
 metafile = true
 
 [[files]]
