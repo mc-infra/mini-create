@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium-reforged.pw.toml"
-hash = "c613086ae6556dbc2b131218edc97b44ba065fc5810e8ca5b7bf90e7518a3121"
+hash = "45cead6906b0fcddf44f4f36096cf73ac7097d87416166947fe8074b00a0c33d"
 metafile = true
 
 [[files]]
