@@ -1,6 +1,6 @@
 name = "Modern UI"
 filename = "ModernUI-1.19.2-3.6.0.114-universal.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
