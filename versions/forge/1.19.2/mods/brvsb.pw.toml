@@ -1,0 +1,13 @@
+name = "Better Rubidium Video Settings Button"
+filename = "brvsb-1.0.2-mc1.19.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4fe639b7b778c3e62fcd4e0ae03c43d4db1a8974"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3954152
+project-id = 665247

@@ -1,0 +1,13 @@
+name = "Catalogue"
+filename = "catalogue-1.6.3-1.19.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9d860a1d3cdd5d91fe35ad396cf66ad43f0d6c46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3873264
+project-id = 459701
