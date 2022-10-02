@@ -21,3 +21,5 @@ roughly-enough-items
 roughly-enough-items-hacks
 roughly-enough-professions-rep
 trashslot
+xaeros-minimap
+xaeros-world-map

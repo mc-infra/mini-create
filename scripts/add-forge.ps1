@@ -41,5 +41,6 @@ function AddForge {
 }
 
 AddForge -Category "core"
+AddForge -Category "decorations"
 AddForge -Category "client"
 Refresh -Loader "forge" -Version "1.19.2"

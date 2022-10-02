@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adorn-for-forge.pw.toml"
+hash = "a1274aaf3634c46fcad05b7ccb28d999a56510f8b87f0265f484e37ea59fb339"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "134227d8f89f9f287b23dffd0239222446a95717b6181c316332eb964117c79f"
 metafile = true
@@ -36,6 +41,16 @@ hash = "f094bca8f5d15e36dfc6d3e269d3524a6fea6fb67611d00605319c7eaaacf83e"
 metafile = true
 
 [[files]]
+file = "mods/beautify-decorate.pw.toml"
+hash = "af66dcba50964de204d9d85454632bad980743c869729afe41cd63308b021ada"
+metafile = true
+
+[[files]]
+file = "mods/bedspreads.pw.toml"
+hash = "399b7cd684d9f0841365acc1c81deb8e02ecde8bb1009e77df99917216e78f33"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "21858501a4dc29e26a0709cb711ff4ce273dc7d7dcacbf589b3e6ed51831c379"
 metafile = true
@@ -46,8 +61,18 @@ hash = "d15976cddb9a89384199c97f9478a68a1bea14fb4b1ecdbd6d4ca07887e1e9e2"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "4c0826c24f0feb437fac026fec59e52417a645aadf4f7c81143237c296c305dc"
+metafile = true
+
+[[files]]
 file = "mods/borderless.pw.toml"
 hash = "0fe6aaa419a3ea4e980b6c0c2bb75bc46bbf211d35de014ebd4e0a7ae332dba0"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "cac3a2564f8885834e426354665bbaa649fab1c0241532ec213b88f87f405ad6"
 metafile = true
 
 [[files]]
@@ -58,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "f6c9f03f448586dc30abd0b15daf2cabe66dcf6af43c1442f474fd50ce528e4b"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "7e820e700b39ceca39e26f359b8ce16bbd563212edcd57af8c2d4b7aafa30ed8"
 metafile = true
 
 [[files]]
@@ -96,6 +126,11 @@ hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "895d874d9a029e05be2a847d4ba49671366c53ec38b57042afbc6d3629bdaafc"
 metafile = true
@@ -128,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "8925fc7f31ee755abd9609177886227aaf9015e8764e46791aedc9784f86e21f"
+metafile = true
+
+[[files]]
+file = "mods/furnish.pw.toml"
+hash = "48405d387335052117426635eb2ed4e327f7f3bb1d8e3bd9d180e86cda0dde1f"
 metafile = true
 
 [[files]]
@@ -236,6 +276,11 @@ hash = "4f55addf1ff18b656e8002329a556e320e30b06c8d78842c226a3e8063af7305"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "6f3ab056712c8a3141bb432ebd0dbe55879339c4d5d605dbfcbab94d5555f4f3"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "58f41374a8e4e1bb34309b0eec6f526a8e72405a6e197bdcdf30ac48d5dcb3c1"
 metafile = true
@@ -256,6 +301,11 @@ hash = "e8f6857cce6ef0ecb56299a513576d033dbede9c2461cf6fd6f9ad4ef54b3166"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "157b8463af4e2c0c0ddd5e88374cc87760e1e01176fc40bea5469f1b9f86ae96"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "3a14dada364e1253147c2d430e8c0b0fc2c882b37ef37af1435048bd426d6bd5"
 metafile = true
@@ -263,4 +313,14 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "03aefbc359e01156d0fe9bf137fb82314e96553297517b9f0a1917d8569bfc85"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6b2eeef7cf3633e36269ccda46cb4ebb1d0c5dc960a6c885981ceb2a41891911"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "920b9b5e58cd147fac791514e3e8aa702050bb64dba47bd93de3197c26e232de"
 metafile = true
