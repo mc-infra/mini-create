@@ -1899,11 +1899,6 @@ hash = "7e820e700b39ceca39e26f359b8ce16bbd563212edcd57af8c2d4b7aafa30ed8"
 metafile = true
 
 [[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "bdc1361aed52a6ae4462d7e7d7c8b4043a2476c7d1ee5cd91b9173d19d465539"
-metafile = true
-
-[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
 metafile = true
@@ -1951,6 +1946,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "867eed98191a9e072f1ed53a361e1f971c2a65b67fc2df85bf5735454b4c6dd4"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "0f6f75208bdcecc74681a362732ffdef846c1a58a56d3900a6a42d7649d29893"
 metafile = true
 
 [[files]]
