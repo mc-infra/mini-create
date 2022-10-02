@@ -15,6 +15,7 @@ not-enough-crashes-forge
 open-loader
 open-parties-and-claims
 patchouli
+playerrevive
 quark
 quark-oddities
 roughly-enough-items

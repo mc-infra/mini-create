@@ -1,8 +1,11 @@
 aquaculture
 biome-makeover-forge
+farmers-delight
 idas
 infernal-expansion
 minecolonies
 natures-compass
 structurize --file-id 4002775
 the-twilight-forest
+torchmaster
+waystones

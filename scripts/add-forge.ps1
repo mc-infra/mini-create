@@ -41,7 +41,7 @@ function AddForge {
   }
 }
 
-$ValidCategories = @("core", "decorations", "client", "world")
+$ValidCategories = @("core", "decorations", "client", "world", "tech")
 $Categories = @()
 
 if ($args.Count -gt 0) {

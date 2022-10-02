@@ -8,7 +8,6 @@ configured
 controlling
 dynamic-view
 entityculling
-fancymenu-forge
 fps-reducer
 gamemenumodoption
 mouse-tweaks
