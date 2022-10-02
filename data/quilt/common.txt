@@ -3,7 +3,6 @@ https://modrinth.com/mod/advancementinfo
 https://modrinth.com/mod/ae2things
 https://modrinth.com/mod/alloy-forgery
 https://modrinth.com/mod/appleskin
-https://modrinth.com/mod/arcanus
 https://modrinth.com/mod/badpackets
 https://modrinth.com/mod/biomesyougo
 https://modrinth.com/mod/botania
@@ -33,7 +32,6 @@ https://modrinth.com/mod/kiln
 https://modrinth.com/mod/lazydfu
 https://modrinth.com/mod/lovely_snails
 https://modrinth.com/mod/midnightlib
-https://modrinth.com/mod/modern-dynamics
 https://modrinth.com/mod/opac-fabric-create-support
 https://modrinth.com/mod/owo-lib
 https://modrinth.com/mod/playeranimator

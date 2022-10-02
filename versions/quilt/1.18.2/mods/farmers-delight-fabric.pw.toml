@@ -3,11 +3,11 @@ filename = "farmers-delight-fabric-1.18.2-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4EakbH8e/versions/vHfAq5KW/farmers-delight-fabric-1.18.2-1.2.1.jar"
 hash-format = "sha1"
 hash = "accb707170bfcec69f46edc6502476fda135a13f"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "4EakbH8e"
-version = "vHfAq5KW"
+[update.curseforge]
+file-id = 3944588
+project-id = 482834

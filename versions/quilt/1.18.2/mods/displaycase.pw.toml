@@ -3,11 +3,11 @@ filename = "Display Case-quilt-1.18.2-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/1.0.1-quilt/Display%20Case-quilt-1.18.2-1.0.1.jar"
 hash-format = "sha1"
 hash = "e4b62d202544e6d3099108bcc4ac377895ccd59f"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "cSIsh4gX"
-version = "iBbpAioX"
+[update.curseforge]
+file-id = 3783705
+project-id = 517791
