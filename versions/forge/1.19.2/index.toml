@@ -1959,6 +1959,11 @@ hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
 metafile = true
 
 [[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "63220ff033d07cd9396db856aed6c61afed55cdabdcf2d52fbf4ce597f0df33c"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
 metafile = true
@@ -2051,6 +2056,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources-forge.pw.toml"
+hash = "ddf298ecc82cdd599ccf39b161fc2bbfa6e95feee77524aa493abd62a8cc8c82"
 metafile = true
 
 [[files]]
@@ -2643,6 +2653,10 @@ file = "resources/buildinggadgets/textures/items/gadget_exchanging_back.png"
 hash = "40f48472119a3c5536731d90b49de123c29a0cc99ff0cb9c31de253b13ac6e81"
 
 [[files]]
+file = "resources/capes/textures/gui/options.png"
+hash = "b1e8299c9a841a45154bb84d031770d692f8883535697d914b4ed85f90e437e6"
+
+[[files]]
 file = "resources/chisel/textures/block/tyrian/plate.png"
 hash = "4355329c54c0f386e2a13a36c9a24135175fe6895bedd7728432bfcb8d7a3797"
 
@@ -2661,3 +2675,371 @@ hash = "e9301560d1f20626cf9307509e9280535d6e8b4ac2cdc194ab68d0f81b402586"
 [[files]]
 file = "resources/create/models/block/portable_storage_interface/item.json"
 hash = "6a2d721dcb1786461cc0b7f016d2e96e707a74f97b3f58d563cbbbf297bff569"
+
+[[files]]
+file = "resources/icons/textures/menu/off.png"
+hash = "1a3bd46cde3c823a0097052e66ba1953705bc0eb6b85e4d939af2f7d7642c9ea"
+
+[[files]]
+file = "resources/icons/textures/menu/on.png"
+hash = "6a4cafd803934673a764706b2da156e8f7dac56f7e51b332ccac6fd81e85a890"
+
+[[files]]
+file = "resources/litematica/textures/gui/gui_widgets.png"
+hash = "331508f4ca888d7b94d7cb602209711dd606765e63534edbf5d44fe7cf9e4baf"
+
+[[files]]
+file = "resources/malilib/textures/gui/gui_widgets.png"
+hash = "157f68445e071c9302536ac9744691e7800db3685687b8aa1035bee5411030cd"
+
+[[files]]
+file = "resources/minecraft/font/default.json"
+hash = "7118965aaa2a314cfbe658599c6b224b3cdc1c504afdebfac548529384fbf58e"
+
+[[files]]
+file = "resources/minecraft/lang/en_us.json"
+hash = "f42827bbc3fde62cae4771132a7ec84c8e2d453eb447e5898473f3071e65d62e"
+
+[[files]]
+file = "resources/minecraft/optifine/color.properties"
+hash = "f58ac4d906ef8f1b21d54f4d704b059001ceeca60a7cb39c4b99b69dd7c122dd"
+
+[[files]]
+file = "resources/minecraft/textures/font/ascii_ten_test.png"
+hash = "c2fbc5c070304dd0dbe27473ef94eed13066d2cd01ee2fc222169484a2767f7b"
+
+[[files]]
+file = "resources/minecraft/textures/gui/.accessibility.png-autosave.kra"
+hash = "6650899f35419b9f8c67d5bca652a8f4435b40ef1abbe2ab6560105d51475e9b"
+
+[[files]]
+file = "resources/minecraft/textures/gui/.widgets.png-autosave.kra"
+hash = "55ca705ac0bbc34f695fcbd949516ba1df40794ecc374bd0afd0d5e3101f606e"
+
+[[files]]
+file = "resources/minecraft/textures/gui/accessibility.png"
+hash = "444f5354d440f37c25253d17b581ee245965c675cb5f7d69a25c6ca7520e3b2e"
+
+[[files]]
+file = "resources/minecraft/textures/gui/accessibility2.png"
+hash = "a964d423aee873361044459b47eb18aea6e506165d321f146ea24bf2d0e007c8"
+
+[[files]]
+file = "resources/minecraft/textures/gui/accessibility3.png"
+hash = "243302ea8fd1df7bc44a3ef6bbc86c0e9bfeb81e2eb1852d2c1b1aab7de89efd"
+
+[[files]]
+file = "resources/minecraft/textures/gui/advancements/tabs.png"
+hash = "5596142835ee975d2eeb15b87c8f72739a71d767f61a0817e59107c57c609ab0"
+
+[[files]]
+file = "resources/minecraft/textures/gui/advancements/widgets.png"
+hash = "8f8f844df55a22e88bbc6075377df1408fa9f6c370c6abb606e0b77fa2b0c001"
+
+[[files]]
+file = "resources/minecraft/textures/gui/advancements/window.png"
+hash = "0ae986904a2498cfdc718d71f45532985b10482c6b53ebc6cc26e1071c86dc11"
+
+[[files]]
+file = "resources/minecraft/textures/gui/checkbox.png"
+hash = "086cc97a53354e37e83148b4c1fd12b13c8c997265295362c413ad36db56c92a"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/anvil.png"
+hash = "a76c70a96a5007429428b11b931fd6c35396969260f165d67a625e840c4b421d"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/beacon.png"
+hash = "d53f8fb97fab9e216832394aad943f9c8acd339f457676d0c9bea7bc4f010295"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/blast_furnace.png"
+hash = "2439a0e1beffa165566a99bd8f3a2247a6b7cbdd26bf15e3f455929ca60219a7"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/brewing_stand.png"
+hash = "a7dad748c708b1e0d948089839fd08a62062a3a946944b32ac4d7ae2e0da8623"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/cartography_table.png"
+hash = "d0118f21e7a0d6147ff671ca12ded6ea6a3768fc94d8b79fe80cbf0f63419677"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/crafting_table.png"
+hash = "0904c17830af6fed4b23d651898725ffaf397917c35d1a23312c7ecee27a2f33"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "b3d3f516f7aeaaba3f31b02fb5372b6ac78a6bfdaafb3f97f90eadb2e5f4cd48"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "ebf374ea0ed680e6d482f75a9deaf608fbcfa419220a2ccf534d39f131c8aab9"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "49fee9a9cea48c94e54967a97968c27218636aabe6ffeced54f809bc5e38e6f6"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "1d957be9db3a5401984ac1558a2a25843aa630fe18d23331f042a9a028a7f876"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/dispenser.png"
+hash = "5a0eb15ac25d7cbb1da8e5ea3095abed80a569e3888824f7155b9e91ad17777d"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/enchanting_table.png"
+hash = "85df3c17f66075cbb3197958eb1dea7271b2d43c4925ad191a7f4662d3a30100"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/furnace.png"
+hash = "2439a0e1beffa165566a99bd8f3a2247a6b7cbdd26bf15e3f455929ca60219a7"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/gamemode_switcher.png"
+hash = "14da5634b8adaeaade05711e32c17df3d5d47dd39545ac3b5f1e9435c88018ed"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/generic_54.png"
+hash = "7c9271d9b338748a26391b9c335e510e8f0909a61e35cb88cf9f43b0a65ebb06"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/grindstone.png"
+hash = "a218eed937309d7ebb4de75b1634abc5ce5cb1a9c758ef533a56cc306d24951b"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/hopper.png"
+hash = "235a4a453d084f5174562841e5adcdab37662f2c673eb16296340894b99b449e"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/horse.png"
+hash = "fe5511029cd1af6fe9aa8e4ff34cca31a41a1902b0aba3dc1ffe6bf0aaf90573"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/inventory.png"
+hash = "2b12e654eb9405b556b9b7b86bbdd99a9be02d6bb74fd237d9def5c2b73e77f8"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/loom.png"
+hash = "6e3edd202a2902a99e3afdf8dd648f76e0da73daff449e118ae515536f123b52"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/shulker_box.png"
+hash = "35f68f18ab61bb870719dc82811051e452a29cdb460e7db02db4a865d6632318"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/smithing.png"
+hash = "046eb53f426ddd5ab8d078141cbad318fbaaa9a9f509b1aa0e04f1e9d3700f66"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/smoker.png"
+hash = "2439a0e1beffa165566a99bd8f3a2247a6b7cbdd26bf15e3f455929ca60219a7"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/stats_icons.png"
+hash = "0df2b3cad61dad80da136df6a4c2bcc63782da06b67def61b93dfe7221870959"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/stonecutter.png"
+hash = "8311fb9af582b6cd13c05cccf35c946782010ba0732d596619e8546aadff1f5c"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/villager2.png"
+hash = "ca9d178c5a2ab9d90090a4acf90400109e2215006a2bb71ca2f6891816852f27"
+
+[[files]]
+file = "resources/minecraft/textures/gui/demo_background.png"
+hash = "272b8b814e5cc64463c68b331da410dca17e8de236f3c9b6c8ffabe66c90473e"
+
+[[files]]
+file = "resources/minecraft/textures/gui/options_background.png"
+hash = "b0376ab79c464f22e10bcd198a6c64a9a392bac5f24cf4cb3a2f7f55dc740b91"
+
+[[files]]
+file = "resources/minecraft/textures/gui/recipe_book.png"
+hash = "22f621aef33de4f90b9a3d9d538d121390343fc9c986d427a44bcf3f74f4996f"
+
+[[files]]
+file = "resources/minecraft/textures/gui/recipe_book_icon.png"
+hash = "603c7c9006080f8d9911853239c2ab50337802cad2ec9b19202e305798f103bc"
+
+[[files]]
+file = "resources/minecraft/textures/gui/recipe_button.png"
+hash = "031ba464be417e2977f80f5a406c10abd32137b8727894b5a8902adcbfaa6403"
+
+[[files]]
+file = "resources/minecraft/textures/gui/report_button.png"
+hash = "edec9d9b6169ed3e8d6a62377f9d5f2b70627179e8d5aafcff063aab1e81f978"
+
+[[files]]
+file = "resources/minecraft/textures/gui/resource_packs.png"
+hash = "59523b68d13cc4fdcb613ac2228814d4f1fc3bbc45796c4300158b5238efcb5d"
+
+[[files]]
+file = "resources/minecraft/textures/gui/resource_packs.png.rpo"
+hash = "b44302b662e4649ed49ff8a74545658d91afc03a9cc5d726fafe24c9bbfa746d"
+
+[[files]]
+file = "resources/minecraft/textures/gui/resource_packs2.png"
+hash = "ee7d3cd41f1ef3c940f4263d9a988057af9c86a720ac63ff8273c16beecf982b"
+
+[[files]]
+file = "resources/minecraft/textures/gui/server_selection.png"
+hash = "7264ac3a909b44d45eb73c22448202cb8dccdc7333aa8f3ccf8cca22da141643"
+
+[[files]]
+file = "resources/minecraft/textures/gui/server_selection.png.rpo"
+hash = "8fbc3fafa4f885fffc69549b85301034e7aa9a7e4afd09312d7dcd1eb0b0d868"
+
+[[files]]
+file = "resources/minecraft/textures/gui/server_selection2.png"
+hash = "2bdf39c209f66378cea191a98c89ed9068e9e2f1869451024ecf50b953d370de"
+
+[[files]]
+file = "resources/minecraft/textures/gui/social_interactions.png"
+hash = "58486a91da826e57d9b523f3b21c1d162203c52c8d69ed952b2f825e915cc013"
+
+[[files]]
+file = "resources/minecraft/textures/gui/spectator_widgets.png"
+hash = "792e00f73b43e5d4616235f55d04bbcf582c97c1121df7e7fe37b617ed93faf7"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/edition.png"
+hash = "c37abef0f440d9cd814a04b8ed32f3c427c9df010fe2b158f86d9357a5beb11a"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/minecraft.png"
+hash = "a2f13f8720ef44bdcec7a04cc82c6e595f33eb00beb9e259de96026802269a57"
+
+[[files]]
+file = "resources/minecraft/textures/gui/toasts.png"
+hash = "97779b05273e193a0ac6313a978843d5eff5453b2d0b0b146329999e3e8b4066"
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets.png"
+hash = "d50fc926235f46698dd8c9a6217970e0ed17200c1a4217c5407fe458f085cc5d"
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets.png.rpo"
+hash = "1699187653dde9e8795fae66d884c3284dd1e8b063cccde11bb9883261206568"
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets.png~"
+hash = "cdef621316d4c499a704685bf352d5346d6c90901bfa7090f2bf23448c14d5a4"
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets2.png"
+hash = "b9bd3a9a7c220b5183e9a2fe2dfb45d2a42e37f036482d645257c910397021e2"
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets2.png.rpo"
+hash = "80a1370322749478d8a4d198cc337ec306e60d3b309fcd7d1ee0ea57d97a0cbf"
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets3.png"
+hash = "3aa4da3b8ccb2bf82908dbfad12af9901b67f997dd2cf1317dad72d2c7b3c809"
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets3.png.rpo"
+hash = "a0ee94c9c0f57df28c65f3847bffa0001e00ecfdb2540909432872ecc49dc1cd"
+
+[[files]]
+file = "resources/minecraft/textures/gui/world_selection.png"
+hash = "0be0202f64c65038bf9f15c857e59685ecb4c9ba8c1151423f5f3d0fb0b141b3"
+
+[[files]]
+file = "resources/minecraft/textures/gui/world_selection.png.rpo"
+hash = "d301bcacced562c07abeaa6ca50458e6d3c711672687fc18d46ace5986ab6a87"
+
+[[files]]
+file = "resources/minecraft/textures/gui/world_selection2.png"
+hash = "a0469c00a7734a1051b81ac5fd940864ffd9be64fcac77d55db69168491742b0"
+
+[[files]]
+file = "resources/minecraft/textures/item/empty_armor_slot_boots.png"
+hash = "9364a3010619319f5608a95a5101019f81faa9387148230a32a0e734b1798aa7"
+
+[[files]]
+file = "resources/minecraft/textures/item/empty_armor_slot_chestplate.png"
+hash = "b5b5206a65def977d9c14be7f3a674561b2c9f2bf5d07f2fe4d59037eecfb7cf"
+
+[[files]]
+file = "resources/minecraft/textures/item/empty_armor_slot_helmet.png"
+hash = "de66eb3c4f57a5ac2c1e0cc3f00f735d50994af442b2c69c5fed9cd324e66a82"
+
+[[files]]
+file = "resources/minecraft/textures/item/empty_armor_slot_leggings.png"
+hash = "fe485105c44edca2716dff5e8375495ac2422c0bcd2942de29aebea3ba5fdffb"
+
+[[files]]
+file = "resources/minecraft/textures/item/empty_armor_slot_shield.png"
+hash = "5380ddd0c96507dc7fde75cfb83076fcf6a00f79d41324e79d68b72c6430a4e9"
+
+[[files]]
+file = "resources/minecraft/textures/title.png"
+hash = "794f2036538db4fe25c4a4cf487e68d8646f409df9609038986fe5319dd7d290"
+
+[[files]]
+file = "resources/modmenu/textures/gui/configure_button.png"
+hash = "5ca9d332ce9bb92647310f179fd2632b10626bd7a790287e3555e4a86168c09f"
+
+[[files]]
+file = "resources/modmenu/textures/gui/filters_button.png"
+hash = "1c1264ca6351e438d6276a84d1837dd819d672416c55042836c427d7cbea8ca5"
+
+[[files]]
+file = "resources/modmenu/textures/gui/mods_button.png"
+hash = "f99cbdcdd58b71617c60d0405392ca36eece8cbf72a72b92f61826de4a6f3930"
+
+[[files]]
+file = "resources/modmenu/textures/gui/mods_button_alt3.png"
+hash = "c972a072d77071352d7c1fd8ecf4714dcad3714525da1dfc0240ccaa724980a8"
+
+[[files]]
+file = "resources/modmenu/textures/gui/parent_mod.png"
+hash = "3ea4ec575cc9593413b549852612c2ba7d8bdbbe7f5a0568d8dc9b78b78f2f6c"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/configure_icon.png"
+hash = "c402d8e9f048ea57fd756c236baa216122078c8883813b7eb8ddbbe23f693789"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/cross_icon.png"
+hash = "ee7d24fed2275f19e4b0550dc94b8c656e1d2f37e890f75bcd03feed48b4d116"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/leave_icon.png"
+hash = "540fb19ff7a0cb0febc319d724f5c2d432c9d27955cacdce2ec013627fd17b40"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/news_icon.png"
+hash = "ea4a78e259d8e434a3ba40ca8d1d5c84b8fc152ad909741267d3dfe4ee61afb6"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/news_notification_mainscreen.png"
+hash = "ea1a1255e4c52cff2629b7c2b2e9e5ac3cc37db6154125c44f502c954cf7dec8"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/plus_icon.png"
+hash = "69c71df2358209a92ef79302fe7090c644a951de66d78604edee8a2d71788a28"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/popup.png"
+hash = "b3a6ec7ba8505fa00a0822a89009597f5da0bf1c155bf2beee38ba804fae0039"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/questionmark.png"
+hash = "21f4bff3944533cb6ede89603d53890a2e5327317c2aa61a141b16d39c99eb6d"
+
+[[files]]
+file = "resources/realms/textures/gui/realms/slot_frame.png"
+hash = "b256d495689a216f2ee30c7b5da2868270b15056dbdf7e9cf12379a6a8eac8b6"
+
+[[files]]
+file = "resources/realms/textures/gui/title/realms.png"
+hash = "477e9f7ebdb0fb880dff006ae305e458ab0f71ce23a91bc931d4172625ffb16a"
+
+[[files]]
+file = "resources/respackopts/conf.json"
+hash = "55fcf4719140e4e7e75c6e7779425ce7306685ac10fe5ee14ceef2d1fcc24596"

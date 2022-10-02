@@ -1,0 +1,22 @@
+{
+   "providers": [
+		{
+         "type": "bitmap",
+         "file": "icons:menu/on.png",
+         "ascent": 11,
+         "height": 13,
+         "chars": [
+            "\u0001"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "icons:menu/off.png",
+         "ascent": 11,
+         "height": 13,
+         "chars": [
+            "\u0002"
+         ]
+      }
+   ]
+}

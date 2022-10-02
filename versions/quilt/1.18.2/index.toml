@@ -506,11 +506,6 @@ hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "7bb0befcacb4b18adcc9428d51a59409065a496b0257e573acdc66b92a02d2b9"
-metafile = true
-
-[[files]]
 file = "mods/fabric-chisel.pw.toml"
 hash = "410bf2dbc317168133467165abee4518f920f5c218e1df35e42058f36bada13e"
 metafile = true
@@ -577,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/gui-clock.pw.toml"
-hash = "addfbf482ef98d9d01a862fe4a8f106e9001b9c30481211758a2ad47bdf861eb"
+hash = "9c947303da1f13d538cf5c8e5e192b2efead94b5a89eeca2af1f265758a0ecbf"
 metafile = true
 
 [[files]]
@@ -987,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "f3450f0b4baca02cac4cf930030af13008fbe6bb1a143d3e04ab3cf3512ce2be"
 metafile = true
 
 [[files]]

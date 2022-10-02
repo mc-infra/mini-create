@@ -11,5 +11,4 @@ https://www.curseforge.com/minecraft/mc-mods/terralith
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 https://www.curseforge.com/minecraft/mc-mods/torchmaster
 https://www.curseforge.com/minecraft/mc-mods/waystones
-https://modrinth.com/mod/ct-overhaul-village
 https://modrinth.com/mod/immersive-structures

@@ -6,10 +6,12 @@ https://www.curseforge.com/minecraft/mc-mods/brvsb
 https://www.curseforge.com/minecraft/mc-mods/catalogue
 https://www.curseforge.com/minecraft/mc-mods/configured
 https://www.curseforge.com/minecraft/mc-mods/controlling
+https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere
 https://www.curseforge.com/minecraft/mc-mods/dynamic-view
 https://www.curseforge.com/minecraft/mc-mods/entityculling
 https://www.curseforge.com/minecraft/mc-mods/fps-reducer
 https://www.curseforge.com/minecraft/mc-mods/gamemenumodoption
+https://www.curseforge.com/minecraft/mc-mods/load-my-resources-forge
 https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
 https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books
 https://www.curseforge.com/minecraft/mc-mods/no-telemetry
