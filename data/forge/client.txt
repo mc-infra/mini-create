@@ -16,7 +16,6 @@ nekos-enchanted-books
 no-telemetry
 oculus
 rubidium
-rubidium-extra
 shutup-experimental-settings
 spark
 spyglass-improvements
