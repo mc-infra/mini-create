@@ -176,11 +176,6 @@ hash = "c246999f941bbf96fa07da0e0d991e3352c57473640008fb9450f76e8b52e501"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-forge.pw.toml"
-hash = "07e48583b2224220609c7cf8414d5f3000a83590c389d9dbe9a1e9cfd2421af6"
-metafile = true
-
-[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
 metafile = true
@@ -233,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "efbe8ec4875b0877de4701044a76ae75fd58e7a57e003d9d7f012498c08f5032"
-metafile = true
-
-[[files]]
-file = "mods/konkrete.pw.toml"
-hash = "70d8c6971561a58eaabd24beedfa8af8236f4db16ebea133637642620ce45085"
 metafile = true
 
 [[files]]
