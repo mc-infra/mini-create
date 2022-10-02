@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/forge-common.toml"
-hash = "576d757db1099a7c49ede9aeea9636809156a7e1352511a76797512ff50c14e0"
-
-[[files]]
 file = "config/openloader/.cache"
 hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
@@ -1710,17 +1706,7 @@ hash = "426f5db9c01fb93d6a21ea6866b98daf8cf1dbb63efd880178f10a97984cb812"
 
 [[files]]
 file = "config/openloader/data/custom/pack.mcmeta"
-hash = "bbf336c164d886a90d77a2a573701d787120e338e9b54af6f3821b79a194eac3"
-
-[[files]]
-file = "config/openloader/data/repurposed-structures-advanced-peripherals-compat.pw.toml"
-hash = "8f693bccea70371254ef5c8152fceb32794fba3f2ccfb1866229022688b387a5"
-metafile = true
-
-[[files]]
-file = "config/openloader/data/repurposed-structures-better-strongholds-datapack.pw.toml"
-hash = "2ef086ad05b252dba13f27577a7da2b752c4772b07676842df982e9172f73aa6"
-metafile = true
+hash = "b2af9f352fc9a5e4b79d0e279e9e2ae9b5c60a7cb46b2b93e636545f3bc5b5e5"
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-immersive-engineering.pw.toml"
