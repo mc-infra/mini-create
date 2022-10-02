@@ -11,11 +11,6 @@ hash = "134227d8f89f9f287b23dffd0239222446a95717b6181c316332eb964117c79f"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "b23b3fb64ee0d9ee838172bc42a97fb58526a4b157f99a057818f948656c48df"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "ed687c303c09d4f79eb34d322e56f421f559bdf598f1887f205df9a6db8a5068"
 metafile = true
@@ -28,11 +23,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d71b9a6c88f3f2bfa2735820f22ec7f41f7be8565a61823fbf698d50da7b9b86"
-metafile = true
-
-[[files]]
-file = "mods/aquaculture.pw.toml"
-hash = "1510ae4689809d36ed37b81f8bdef180ba8b3eda83b1bd8e8cb79ea8e371d4b0"
 metafile = true
 
 [[files]]
@@ -71,16 +61,6 @@ hash = "d15976cddb9a89384199c97f9478a68a1bea14fb4b1ecdbd6d4ca07887e1e9e2"
 metafile = true
 
 [[files]]
-file = "mods/biome-makeover-forge.pw.toml"
-hash = "a7389b1b68c32e53026f4f3fc392eb2b599fa02a1bb9e2e13e5f1e6056830752"
-metafile = true
-
-[[files]]
-file = "mods/blockui.pw.toml"
-hash = "2e919cdda4aeb4d662b53f24479339fc6db5aa6501beab07352d68d8de9c82ae"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "4c0826c24f0feb437fac026fec59e52417a645aadf4f7c81143237c296c305dc"
 metafile = true
@@ -116,11 +96,6 @@ hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "29565717890839701b8b557e6252b546e1f0e41af5d9eecc661487e26495c245"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
 metafile = true
@@ -146,11 +121,6 @@ hash = "4fb4d04aa0d2b367d14f651deddd793fb6a143a46760b9e6340f304589c212bf"
 metafile = true
 
 [[files]]
-file = "mods/create.pw.toml"
-hash = "4e8261b0ace8bcd2f47adb01feee8583fe5f199050522feadfef02055a266734"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
 metafile = true
@@ -158,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
-metafile = true
-
-[[files]]
-file = "mods/domum-ornamentum.pw.toml"
-hash = "c23852aab7f61c170d1449a4fc31f250591ba9454749bff49cf3ff0903d8ac72"
 metafile = true
 
 [[files]]
@@ -211,16 +176,6 @@ hash = "8e32cde704b952556a9f373ca3d375046d04fbe849bb68c3b8c821699edb59eb"
 metafile = true
 
 [[files]]
-file = "mods/idas.pw.toml"
-hash = "aebb88afbf17a3224f099fe5cba32f5d708b3c9b3d7581349299396302d27ba4"
-metafile = true
-
-[[files]]
-file = "mods/infernal-expansion.pw.toml"
-hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
-metafile = true
-
-[[files]]
 file = "mods/inventorio-forge.pw.toml"
 hash = "bfe175637f44d0ff9105ebc2ffa57db46220fd0d5db6bf30d51772dbd5817788"
 metafile = true
@@ -248,16 +203,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "1602a9ea33680565c5ad734f2139a5a99ca5ded3ca4aa7d3b2d3e1ad18f22a8f"
-metafile = true
-
-[[files]]
-file = "mods/multi-piston.pw.toml"
-hash = "fa76f51b106966a6f8085826b4936ad4b945036c125e62d5c6b461891d3757a9"
-metafile = true
-
-[[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "ad12a513443b8826036a9dcd267ce6beefec7538b35beb7ab78a5bfe0e05cb87"
 metafile = true
 
 [[files]]
@@ -363,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "3a14dada364e1253147c2d430e8c0b0fc2c882b37ef37af1435048bd426d6bd5"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "978ee4e905cae9b20aa569397a8e7e20a0492e54e9c67a18eabf36602cb72cfd"
 metafile = true
 
 [[files]]
