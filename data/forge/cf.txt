@@ -1,12 +1,9 @@
 advanced-peripherals
 aeinfinitybooster
-alexs-mobs
 applied-energistics-2
 applied-mekanistics
-aquaculture
 ars-creo
 ars-nouveau
-biome-makeover-forge
 building-gadgets
 cc-tweaked
 comforts
@@ -17,14 +14,11 @@ ender-storage-1-8
 farmers-delight
 forbidden-arcanus
 grappling-hook-mod
-idas
 immersive-engineering
-infernal-expansion
 lil-wings
 mekanism
 mekanism-additions
 minecolonies
-natures-compass
 occultism
 oh-the-biomes-youll-go
 playerrevive
@@ -35,7 +29,6 @@ simple-planes
 sophisticated-backpacks
 sophisticated-storage
 structurize --file-id 4002775
-the-twilight-forest
 torchmaster
 viescraft-airships
 waystones
