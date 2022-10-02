@@ -3,5 +3,7 @@ aquaculture
 biome-makeover-forge
 idas
 infernal-expansion
+minecolonies
 natures-compass
+structurize --file-id 4002775
 the-twilight-forest

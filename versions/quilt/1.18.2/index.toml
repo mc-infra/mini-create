@@ -490,11 +490,6 @@ hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
-metafile = true
-
-[[files]]
 file = "mods/fabric-chisel.pw.toml"
 hash = "410bf2dbc317168133467165abee4518f920f5c218e1df35e42058f36bada13e"
 metafile = true

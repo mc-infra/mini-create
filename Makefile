@@ -6,6 +6,7 @@ update-packwiz:
 	clear
 	@echo "Packwiz has been Updated"
 refresh:
+	pw -b -d versions/forge refresh
 	pw -b -d versions/fabric refresh
 	pw -b -d versions/quilt refresh
 update:

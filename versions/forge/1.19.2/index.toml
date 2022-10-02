@@ -216,11 +216,6 @@ hash = "aebb88afbf17a3224f099fe5cba32f5d708b3c9b3d7581349299396302d27ba4"
 metafile = true
 
 [[files]]
-file = "mods/infernal-expansion.pw.toml"
-hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
-metafile = true
-
-[[files]]
 file = "mods/inventorio-forge.pw.toml"
 hash = "bfe175637f44d0ff9105ebc2ffa57db46220fd0d5db6bf30d51772dbd5817788"
 metafile = true
