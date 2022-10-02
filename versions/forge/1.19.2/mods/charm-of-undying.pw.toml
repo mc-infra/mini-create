@@ -1,0 +1,13 @@
+name = "Charm of Undying (Forge)"
+filename = "charmofundying-forge-6.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21c3693a7c12510abaaaffd9cd075ebe19c232f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3927421
+project-id = 316873

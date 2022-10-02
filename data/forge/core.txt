@@ -5,6 +5,7 @@ chunky-pregenerator-forge
 connectivity
 cosmetic-armor-reworked
 curios
+charm-of-undying
 fast-leaf-decay
 fastload
 ferritecore

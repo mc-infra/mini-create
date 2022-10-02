@@ -1889,6 +1889,11 @@ hash = "f6c9f03f448586dc30abd0b15daf2cabe66dcf6af43c1442f474fd50ce528e4b"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "9dd4596cfd523483b1d22ab15d9952774c5edb6f9b7174fb2a66eb28cf565959"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "7e820e700b39ceca39e26f359b8ce16bbd563212edcd57af8c2d4b7aafa30ed8"
 metafile = true
@@ -2099,6 +2104,11 @@ hash = "360cc2ca7e14d5b3f55af2f8d8955ab43abb983da19277405857484d23220f0d"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "fa387f2df218b3dc3e642d6c9664cf27212e07e0092519d7b9b73b90e8dbcf48"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a1e3ad26ef9afc2515b5f530cfd00e8a43675375d4ce9252cc6dcc90ad8d3957"
 metafile = true
@@ -2206,6 +2216,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "157b8463af4e2c0c0ddd5e88374cc87760e1e01176fc40bea5469f1b9f86ae96"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a4e4cabab7b3debb9ee5cb548fee5a71a9cd61f9819f270c8d64ef71d94fd243"
 metafile = true
 
 [[files]]

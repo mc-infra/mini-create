@@ -8,6 +8,7 @@ infernal-expansion
 minecolonies
 natures-compass
 nullscape
+oh-the-biomes-youll-go
 structurize --file-id 4002775
 terralith
 the-twilight-forest
