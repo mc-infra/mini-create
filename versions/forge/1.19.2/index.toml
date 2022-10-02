@@ -2074,11 +2074,6 @@ hash = "dcd4eb6d309b5f405e1f02973b3cc845b0581c4612810c3c781723aa33238fd7"
 metafile = true
 
 [[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "0d67b50f8335a11b04a73b620469ec0dfc40b786f62d2be78671b1467afeada6"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
