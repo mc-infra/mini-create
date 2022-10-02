@@ -1,0 +1,13 @@
+name = "Incendium"
+filename = "Incendium_v5.1.3a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "816ecef7272bbcef095ecbad7263b62c912f2caf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3991685
+project-id = 591388

@@ -1,11 +1,15 @@
 aquaculture
+artifacts
 biome-makeover-forge
 farmers-delight
 idas
+incendium
 infernal-expansion
 minecolonies
 natures-compass
+nullscape
 structurize --file-id 4002775
+terralith
 the-twilight-forest
 torchmaster
 waystones

@@ -7,6 +7,5 @@ create-plus
 mekanism
 mekanism-additions
 pretty-pipes
-reliquary-v1-3
 sophisticated-backpacks
 sophisticated-storage
