@@ -1,13 +1,21 @@
 current_dir := $(abspath build)
 
+loaders := forge fabric quilt
+
+lr := $(foreach loader, ${loaders}, versions/${loader})
+
 update-packwiz:
 	go install github.com/packwiz/packwiz@latest
-	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@latest
+	go install github.com/mc-infra/packwiz-wrapper/cmd/pw@latest
 	clear
 	@echo "Packwiz has been Updated"
 
 add-forge:
-	powershell -NonInteractive -File ./scripts/add-forge.ps1 world
+	pw -c -y -d versions/forge/1.19.2 -i ./data/forge/client.txt
+add-quilt:
+	pw -c -y -d versions/quilt/1.18.2 -i ./data/quilt/client.txt
+	pw -y -d versions/quilt/1.18.2 -i ./data/quilt/common.txt
+	pw -y -d versions/quilt/1.18.2 -i ./data/quilt/deco.txt
 refresh:
 	pw -b -d versions/forge refresh
 	pw -b -d versions/fabric refresh

@@ -1,0 +1,134 @@
+{
+  "utility": {
+    "animatica": {
+      "side": "client"
+    },
+    "better-mount-hud": {
+      "side": "client"
+    },
+    "betterf3": {
+      "side": "client"
+    },
+    "borderless-mining": {
+      "side": "client"
+    },
+    "brb": {
+      "side": "client"
+    },
+    "capes": {
+      "side": "client"
+    },
+    "cem": {
+      "side": "client"
+    },
+    "cit-resewn": {
+      "side": "client"
+    },
+    "continuity": {
+      "side": "client"
+    },
+    "cull-less-leaves": {
+      "side": "client"
+    },
+    "dark-graph": {
+      "side": "client"
+    },
+    "desired-servers": {
+      "side": "client"
+    },
+    "dynamic-fps": {
+      "side": "client"
+    },
+    "ebe": {
+      "side": "client"
+    },
+    "emitrades": {
+      "side": "client"
+    },
+    "entityculling": {
+      "side": "client"
+    },
+    "entitytexturefeatures": {
+      "side": "client"
+    },
+    "evergreenhud": {
+      "side": "client"
+    },
+    "fabricskyboxes": {
+      "side": "client"
+    },
+    "fabrishot": {
+      "side": "client"
+    },
+    "farsight-fabric": {
+      "side": "client"
+    },
+    "indium": {
+      "side": "client"
+    },
+    "iris": {
+      "side": "client"
+    },
+    "irisshaders": {
+      "side": "client"
+    },
+    "item-model-fix": {
+      "side": "client"
+    },
+    "lambdabettergrass": {
+      "side": "client"
+    },
+    "lambdynamiclights": {
+      "side": "client"
+    },
+    "main-menu-credits": {
+      "side": "client"
+    },
+    "modmanager": {
+      "side": "client"
+    },
+    "modmenu": {
+      "side": "client"
+    },
+    "moreculling": {
+      "side": "client"
+    },
+    "mouse-tweaks": {
+      "side": "client"
+    },
+    "onebar": {
+      "side": "client"
+    },
+    "optigui": {
+      "side": "client"
+    },
+    "puzzle": {
+      "side": "client"
+    },
+    "reeses-sodium-options": {
+      "side": "client"
+    },
+    "sodium-extra": {
+      "side": "client"
+    },
+    "sodium": {
+      "side": "client"
+    },
+    "tooltipfix": {
+      "side": "client"
+    },
+    "vulkanmod": {
+      "side": "client"
+    },
+    "worldeditcui-fabric": {
+      "side": "client"
+    },
+    "yosbr": {
+      "side": "client"
+    },
+    "bedrock-gui": {
+      "side": "client",
+      "meta-folder": "config/openloader/resources"
+    }
+  }
+}

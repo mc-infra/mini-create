@@ -9,3 +9,6 @@ insert_final_newline = true
 [{makefile,**.mk}]
 # Use tabs for indentation (Makefiles require tabs)
 indent_style = tab
+
+[*.txt]
+insert_final_newline = false
