@@ -11,6 +11,11 @@ hash = "134227d8f89f9f287b23dffd0239222446a95717b6181c316332eb964117c79f"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "b23b3fb64ee0d9ee838172bc42a97fb58526a4b157f99a057818f948656c48df"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "ed687c303c09d4f79eb34d322e56f421f559bdf598f1887f205df9a6db8a5068"
 metafile = true
@@ -96,6 +101,11 @@ hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "29565717890839701b8b557e6252b546e1f0e41af5d9eecc661487e26495c245"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
 metafile = true
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "4fb4d04aa0d2b367d14f651deddd793fb6a143a46760b9e6340f304589c212bf"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "4e8261b0ace8bcd2f47adb01feee8583fe5f199050522feadfef02055a266734"
 metafile = true
 
 [[files]]
@@ -173,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "8e32cde704b952556a9f373ca3d375046d04fbe849bb68c3b8c821699edb59eb"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "aebb88afbf17a3224f099fe5cba32f5d708b3c9b3d7581349299396302d27ba4"
 metafile = true
 
 [[files]]
