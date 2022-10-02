@@ -36,12 +36,23 @@ function AddForge {
 
     if ("${Category}" -eq "client") {
       SetClient -Loader "forge" -Version "1.19.2" -ModName $_
+      Refresh -Loader "forge" -Version "1.19.2"
     }
   }
 }
 
-AddForge -Category "core"
-AddForge -Category "decorations"
-AddForge -Category "client"
-AddForge -Category "world"
-Refresh -Loader "forge" -Version "1.19.2"
+$ValidCategories = @("core", "decorations", "client", "world")
+$Categories = @()
+
+if ($args.Count -gt 0) {
+  foreach ($a in $args) {
+    if ($ValidCategories.Contains($a)) {
+      $Categories += $a
+    }
+  }
+}
+else { $Categories = $ValidCategories }
+
+foreach ($cat in $Categories) {
+  AddForge -Category "${cat}"
+}

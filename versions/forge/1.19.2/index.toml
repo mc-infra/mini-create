@@ -216,6 +216,11 @@ hash = "aebb88afbf17a3224f099fe5cba32f5d708b3c9b3d7581349299396302d27ba4"
 metafile = true
 
 [[files]]
+file = "mods/infernal-expansion.pw.toml"
+hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
+metafile = true
+
+[[files]]
 file = "mods/inventorio-forge.pw.toml"
 hash = "bfe175637f44d0ff9105ebc2ffa57db46220fd0d5db6bf30d51772dbd5817788"
 metafile = true
@@ -238,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
-metafile = true
-
-[[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "dcd4eb6d309b5f405e1f02973b3cc845b0581c4612810c3c781723aa33238fd7"
 metafile = true
 
 [[files]]
@@ -353,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "e8f6857cce6ef0ecb56299a513576d033dbede9c2461cf6fd6f9ad4ef54b3166"
-metafile = true
-
-[[files]]
-file = "mods/structurize.pw.toml"
-hash = "f2775eab5542159e5a5411481ea81008afd711f6696467e4913f56ed4987b4c7"
 metafile = true
 
 [[files]]

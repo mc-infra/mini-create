@@ -5,6 +5,9 @@ update-packwiz:
 	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@latest
 	clear
 	@echo "Packwiz has been Updated"
+
+add-forge:
+	powershell -NonInteractive -File ./scripts/add-forge.ps1 world
 refresh:
 	pw -b -d versions/forge refresh
 	pw -b -d versions/fabric refresh
