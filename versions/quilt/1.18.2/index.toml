@@ -21,10 +21,6 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "f7c9acd136d372f6bac0dbf3e83f6d4114e5656edcdceddd399d7b7614bdac00"
-
-[[files]]
 file = "config/fastload.properties"
 hash = "d5d39233d392afb000aa2c6c4eba69a0cf65d0db28879fc90777a9bc90341693"
 
@@ -887,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
 
 [[files]]
