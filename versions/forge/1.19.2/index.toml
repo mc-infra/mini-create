@@ -1939,6 +1939,16 @@ hash = "15f2f31bd1da485d8fa17ec6409a1b2b63d96df8b1fe0ceed5ed44e8ffcdbbac"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "1d68af97181ffe29dddb0b6b62f773c9ff27bdb1795b65e82099ecdf8dff7f01"
+metafile = true
+
+[[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "c129eb0dcebc7226f9bfbb29066c935e155ba0a8f06eba58b88c228d972e1d6b"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4e8261b0ace8bcd2f47adb01feee8583fe5f199050522feadfef02055a266734"
 metafile = true
@@ -2056,6 +2066,11 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources-forge.pw.toml"
 hash = "ddf298ecc82cdd599ccf39b161fc2bbfa6e95feee77524aa493abd62a8cc8c82"
+metafile = true
+
+[[files]]
+file = "mods/lobby.pw.toml"
+hash = "dc7d4795bd7f609801a02534611b6f9c0db6b564223665f696b0a683a8caefb1"
 metafile = true
 
 [[files]]

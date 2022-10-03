@@ -50,3 +50,5 @@ https://www.curseforge.com/minecraft/mc-mods/trashslot
 https://www.curseforge.com/minecraft/mc-mods/twigs
 https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+https://www.curseforge.com/minecraft/mc-mods/create-sifting
+https://www.curseforge.com/minecraft/mc-mods/create-jetpack
