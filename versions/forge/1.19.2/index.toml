@@ -2244,11 +2244,6 @@ hash = "a4e4cabab7b3debb9ee5cb548fee5a71a9cd61f9819f270c8d64ef71d94fd243"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "1db39b02058416cfc63be3982ee3d9b2a1a77d22d6ae562c17787ca7e9bacb9a"
-metafile = true
-
-[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "52f4a8d4e56562b734e43f10a44545ed6c595bd85a9c64980ec6107677c1a085"
 metafile = true
@@ -2276,6 +2271,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0f777c428a4899af281ecec4b01970d928a5004f54623c6da7bd2bd807d2cfe6"
+metafile = true
+
+[[files]]
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "c9e9b557615ef44e583725bf2352bc3b1c90f04335ffa17c0bb77cde25b15e4d"
 metafile = true
 
 [[files]]

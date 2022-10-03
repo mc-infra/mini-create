@@ -1,0 +1,13 @@
+name = "William Wythers' Overhauled Overworld"
+filename = "wwoo_forge-3.1.7+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d7d539ad88a229deeb86a6dbda7096e77bfecd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3942219
+project-id = 490686

@@ -4,7 +4,6 @@ https://modrinth.com/mod/ae2things
 https://modrinth.com/mod/alloy-forgery
 https://modrinth.com/mod/appleskin
 https://modrinth.com/mod/badpackets
-https://modrinth.com/mod/biomesyougo
 https://modrinth.com/mod/botania
 https://modrinth.com/mod/campanion
 https://modrinth.com/mod/cc-restitched
@@ -43,7 +42,6 @@ https://modrinth.com/mod/tax-free-levels
 https://modrinth.com/mod/trinkets
 https://modrinth.com/mod/vanity
 https://modrinth.com/mod/vmp-fabric
-https://modrinth.com/mod/wildbackport
 https://modrinth.com/mod/yigd
 https://www.curseforge.com/minecraft/mc-mods/industrial-revolution
 https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat
