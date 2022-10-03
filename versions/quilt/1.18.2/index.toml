@@ -886,6 +886,11 @@ hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
 metafile = true
 
 [[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "862ec380bd86b243a4f46114f34b39ae8a16e1856bc194f34594ac82cb8fd8c8"
 metafile = true
