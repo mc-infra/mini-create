@@ -191,11 +191,6 @@ hash = "83ead165b77f2051ac754cc0fcfedbf957820527ceec62023057ebbb63ae6e40"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "676bb420d233bc8449bc3eebd3e433d5915a815ff569e9c88d3c0fae1d03c386"
-metafile = true
-
-[[files]]
 file = "mods/arcanus.pw.toml"
 hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
 metafile = true
