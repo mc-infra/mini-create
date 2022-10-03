@@ -207,11 +207,6 @@ hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "7beb2d053d2e6fc366a96c6ec4441484e91a7bf84f414eb39b309ea2026f2ebf"
 metafile = true
@@ -232,18 +227,8 @@ hash = "b831a7f0de8fbe6d8d1e9bba0acd2c6e80ebc7efd8bfdf9cff62804079660ec8"
 metafile = true
 
 [[files]]
-file = "mods/betterend.pw.toml"
-hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
 metafile = true
 
 [[files]]
