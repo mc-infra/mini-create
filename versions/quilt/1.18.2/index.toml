@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7cf6e0731a97a85d16c4e15cbe79aeaab619a30c5ec7fb4954ed1fa5a12db1fd"
+hash = "e0b8ec07f4ceca7e316a5860a15362a64d75ef4e6f34f98fd7b88642b32d4892"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "83ead165b77f2051ac754cc0fcfedbf957820527ceec62023057ebbb63ae6e40"
+hash = "b4ef5ab91895a5cc8c2d6c43108e59870e10cb3d7c377007d0c46a172e3bab52"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "db892b6f106038b45a3a559b10901af17e98d3cd558515bd0e9bf11566facb03"
+hash = "89731d40a0f7342909159e77a40059f8528cd50268368d962b6eb437ffe200d8"
 metafile = true
 
 [[files]]
@@ -337,12 +337,12 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "eb3b0632a958279236ad10c8ee4986439c96335ef764c04e9724be514d8306e8"
+hash = "acdeb4420ba53b3be63bc6ac27c46d3b918501ffc7c8dd26df884acd86f4165e"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c2e4a767070b9dbe6a711980fb7b9dd7c968e0217056ab6cb545a6390f961e1b"
+hash = "08c25e6f7491a7434d34ffaf2f25aa1bcca92216535522fd7eca4ee484e8615d"
 metafile = true
 
 [[files]]
@@ -503,11 +503,6 @@ metafile = true
 [[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "7bb0befcacb4b18adcc9428d51a59409065a496b0257e573acdc66b92a02d2b9"
 metafile = true
 
 [[files]]
@@ -792,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "a95a09d3e1b099ea8484fdf3adbd5e7e7cbedce8db33e4dedc5e91db1199a774"
+hash = "6b7641063f1cb3b5b65c6be7eaa909849ad1d36013e6580bb207d5b166600c4d"
 metafile = true
 
 [[files]]
@@ -832,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f0f4224d38fbb3f041412465e826ade26094914a20239cd597905cf9598704bd"
+hash = "07d75ca506fbe2c5e6a2077553b1f1873a90a9ef3316ea6bb88c5ed42435fdc1"
 metafile = true
 
 [[files]]
@@ -862,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
-hash = "2eee5d1b3fb8ea47ff93dcab8c9cb9bd66b26433ab9304b1ab87c7281c1e2141"
+hash = "170110b1d61aa21a3bae68230a87a40b791a0621015dad9cc1b8cf3308814335"
 metafile = true
 
 [[files]]
@@ -977,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "92bb438b809e0b9502468a8a7d3f1e13f3174dd4c4fa4c703dbfe4cb488758c6"
+hash = "c89a45425cf7eb73b6b609d2ea18d4d230d0c466e40cdb0f7be43f7a2e4d6646"
 metafile = true
 
 [[files]]
