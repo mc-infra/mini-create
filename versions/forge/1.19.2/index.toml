@@ -4724,6 +4724,11 @@ hash = "a1274aaf3634c46fcad05b7ccb28d999a56510f8b87f0265f484e37ea59fb339"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "d42d6131e80092e6fedab2f1390aabf9049df75e279c81c8d386b0b15315247f"
+metafile = true
+
+[[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "e21f860ab436aa4c136797ba128cc6ec71b3149846c1cefca1cf308771628494"
 metafile = true
@@ -4846,6 +4851,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "a35bed6ce83fbbc57fa2c41fc90be204151eca133871485d7571df78b4508b5d"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e5cda4f8b3bbce975514e6aabf7d0656766a73018021cb266f8fd4fd9bb2e621"
 metafile = true
 
 [[files]]
@@ -5046,6 +5056,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "6e361d9392e88cad1a713d2a3f32f935cf7669bf9d597db2dfa44f0e616f5a01"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-for-computercraft.pw.toml"
+hash = "cf4036da487618e38f217e6de9d9ac1167074b291a2d8d50529fa6c0d5fd10eb"
 metafile = true
 
 [[files]]
