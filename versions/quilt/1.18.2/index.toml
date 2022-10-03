@@ -232,6 +232,11 @@ hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
 metafile = true
 
 [[files]]
+file = "mods/blockus.pw.toml"
+hash = "333ba62ec673100991f9c654b7e67a37b8394d66dc29453d22df83a9c2212432"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
 metafile = true
@@ -294,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/cem.pw.toml"
 hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
 metafile = true
 
 [[files]]
@@ -889,6 +899,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "b128fc44da45dd8cd209a95bcfbac8d695bc30bec4cb805b35deba69096f0a17"
 metafile = true
 
 [[files]]
