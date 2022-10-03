@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "pack-format": 1,
+  "desc": "Shire Structurepack.",
+  "authors": [
+    "appkins"
+  ],
+  "mods": [
+    "structurize"
+  ],
+  "name": "shire",
+  "icon": ""
+}

@@ -1,6 +1,938 @@
 hash-format = "sha256"
 
 [[files]]
+file = "blueprints/shire/agriculture/horticulture/composter1.blueprint"
+hash = "195d3fb1529398f07c82809a4f44daa4e942cee746d617ad6f392dca3308d12d"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/composter2.blueprint"
+hash = "d2e5a7cb5bf8767c64ac37854c8c8807216430726a10d8e04533fe8cd713f1d1"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/composter3.blueprint"
+hash = "de5a850e2454c88ffda44b4bd95150768eda86c97ac83492db62d1ff3ec1c887"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/composter4.blueprint"
+hash = "8301f42a0a10238d86910dee85eae5a697906ca78d4b2db536e71db7a5b8da1a"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/composter5.blueprint"
+hash = "62506191a9b2c81516b38b0e724b74ab8a4d4ab1662bae0eea1be941024909a5"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/farmer1.blueprint"
+hash = "a7d49cbaeafa35c7da74259b2d821fc2b05eb75346e7163b36a3aef5528916bf"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/farmer2.blueprint"
+hash = "44d4c60d7e975edb007fa1248c4efbdc517aac08587c9f5ae36608bac14e5dcf"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/farmer3.blueprint"
+hash = "2352b835620828c1d77c6d7d45b008126d7e2443bb61419530dd8cf5a16a4113"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/farmer4.blueprint"
+hash = "d56b4db908ff51bb59e4015a39bc595dd9f83a59a677229ad0e59747e0295d6b"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/farmer5.blueprint"
+hash = "a20f69a9397b829f8814e1dc8c627d526d5a0d350b88df2b1cc15412aeb3286e"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/florist1.blueprint"
+hash = "b1d9e12a5a7a11dee033ef988512c7e06265afb29241c799f7b773a794d563c8"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/florist2.blueprint"
+hash = "a97bf4713ac365b38fb0f785a2ab694ac952a0565fb391baa29027675693adaa"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/florist3.blueprint"
+hash = "14ba2625eda26bc600e9c664ceda16336d256aa9344fd2ad4e267006531850f0"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/florist4.blueprint"
+hash = "1084d9597b641dbe4151aa4720e8f7b2c143be7d170f2150e73a058e55f909d7"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/florist5.blueprint"
+hash = "10193879478e7180aeee52f9c0265b32ec1bf76e7f3829476266244bed70e7e9"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/plantation1.blueprint"
+hash = "0305f35a3c844b4cd760e2ac41d65999afe44834eb73771db4c913d283e4e135"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/plantation2.blueprint"
+hash = "0131cc410c5fde8adafa7a4d025dba430f057caec1791dac910a5d98dd55c588"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/plantation3.blueprint"
+hash = "8b1afde8fff42ab62a7cef102492885a53cf6cd31bd60d55c40500abcb807bb6"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/plantation4.blueprint"
+hash = "49c336487925b49b78db247c35a05bd7ceec6ed135fa880b5f602a97e4d29e98"
+
+[[files]]
+file = "blueprints/shire/agriculture/horticulture/plantation5.blueprint"
+hash = "6e88fb33b7dc5e2dcb82430ca80e44fe92b2224dfce0e47b67e87839fafca3d8"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/beekeeper1.blueprint"
+hash = "66b6745fd37d57818eea569a3b58868577bc615f2efe918bb1c09207669ed7f9"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/beekeeper2.blueprint"
+hash = "ab4828d7629a6bb1687d5c01d1e194b8a79efa658b4c3bcbf6f776e1443d1c9b"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/beekeeper3.blueprint"
+hash = "3ba3f03ac103f417e1eecff53c7219b3f1c9e445725db1ed089f80d02b3cabee"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/beekeeper4.blueprint"
+hash = "de5341f290fc58b59d5c3192a48ca14238e711834eb98e4728c1490be1180543"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/beekeeper5.blueprint"
+hash = "896b337342f1438514cd3b924cbd3b2394c9b6e8d8d730d84480a4e0c795b124"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/chickenherder1.blueprint"
+hash = "39af2e524d214cac21ca70d2f415f6c7f8e1e3676cfd4a7cfdb3417aa04ce299"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/chickenherder2.blueprint"
+hash = "e064e394ad092b8bace19352c6de4e4d893e88410976b45519d4ee1f7878f39a"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/chickenherder3.blueprint"
+hash = "ad6a3615fc925f5850875a40521c9774c789431db34364d75acbebaa9bb626c6"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/chickenherder4.blueprint"
+hash = "08e5e16bfbb0f9b6d907acb6d4284dc29f98ca62985a94c9bae60f1184da67ec"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/chickenherder5.blueprint"
+hash = "1c9571245eb512f53384dd2d2e41c3089e0b9d0219334791f7d443951393a897"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/cowboy1.blueprint"
+hash = "4859d3001dbd96dfb4824e1094a79c5d2b5663ac278ef2096f55e8f0fb94ad91"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/cowboy2.blueprint"
+hash = "1693fc1345b2a27e5c6dce269e94aefeb170b7435e5c68c48d7be71af2fbe08b"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/cowboy3.blueprint"
+hash = "91b38eef7354d45eedea98bb4819e388b7ea9511e5b0f76d86525d695946ff64"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/cowboy4.blueprint"
+hash = "4cb302d8100aa13545817de7767de6d2cd9322606703cc8abb1ca70987358e34"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/cowboy5.blueprint"
+hash = "b557c31842d8141089a77fa463befeebc35f46482651862ff1d9fb924ff0b2f0"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/fisherman1.blueprint"
+hash = "9144f2e84e1f7c2e4155651bc4d8aa377cd65a4e30d27e84f8c5f2a498d1fb04"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/fisherman2.blueprint"
+hash = "ef5a993dd3f7b5f0e0ea9b8b4e26db50d2c99d5a00a01f28e928675358894a77"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/fisherman3.blueprint"
+hash = "b88bac03fb39d1af04849c0611a2148d71eb4eed7ce6849fa1d7ba30b60948c5"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/fisherman4.blueprint"
+hash = "fc715a904227ff4d14e94678d7f70abf34e2f722815bb01764e804505117487b"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/fisherman5.blueprint"
+hash = "dbd8ab979587be0eaa75353ff0bcb362a32795884acb78f206903e25d257d761"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/rabbithutch1.blueprint"
+hash = "d83aba53d518a1f5bf155897e0d5f6df6fcd3dfc8cbb7360867156c711444343"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/rabbithutch2.blueprint"
+hash = "ee65390af59dbe3be766762d1b909aadabde571c894ae3ea48a78c5b3165bc37"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/rabbithutch3.blueprint"
+hash = "c4af73838cef522e7079e02ae49689b0240ae4b04f0d9e546ce863715743e5c5"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/rabbithutch4.blueprint"
+hash = "ee1532c716d213a8a68df7e45fc6b92d24a58724c23f81eae8f7cbfd697cb484"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/rabbithutch5.blueprint"
+hash = "35e8bb7f9131cb293efad300db6bb1323dbcfec885478eba1aef90e410a3852f"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/shepherd1.blueprint"
+hash = "ba2007e755ba30d9404a31a101c32c37670a0496bbe0f77d211d6ddeb70216a2"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/shepherd2.blueprint"
+hash = "c6399b7d25ccff1151bfecf11e659c64e62ffbe3276de0cd78118f3485651e70"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/shepherd3.blueprint"
+hash = "85817c19bcf95d8ec2b9b4872c892920aa86058a5dd98bdcb13ebfdea51da90f"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/shepherd4.blueprint"
+hash = "45279ac50dc1317436f60634fd17bfc18db1b4ac2c3eb51dae709a86ce7ba0f9"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/shepherd5.blueprint"
+hash = "f3fe06a4432e15649822ab83b5e9e0e519807c12f06b20d80fa2f656328b4d48"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/swineherder1.blueprint"
+hash = "0874762cf0f417f209623ff5a912c0bcc05dd4440c6bef62ab1a14a8f408a1ed"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/swineherder2.blueprint"
+hash = "fee1750ead02f346a7f11b2074cc43f76c873fb672b92ba44b3db466a418ae8a"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/swineherder3.blueprint"
+hash = "af002c49b7ac3a390badd71f2e301d327cdffc928ca0d20d86148399dde4dc64"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/swineherder4.blueprint"
+hash = "161ee8011abc8daa03d1c0c4c954f0565eff55ff997d361d218136bebf080083"
+
+[[files]]
+file = "blueprints/shire/agriculture/husbandry/swineherder5.blueprint"
+hash = "fb02fbee852b252fb9edbdd35ecdf54d2b5b9a21868054fddc52e01fb158f8bd"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/fletcher1.blueprint"
+hash = "1adc8638524a0780fc542f559f424d0a2dd04d01310cb22e9f5e2586c3a555e6"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/fletcher2.blueprint"
+hash = "bf3b6ebd14c5a39dc4ed8f235ba4f12af29a800db09108527edbd6f864f11f08"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/fletcher3.blueprint"
+hash = "41198fb5c2e325f37d4c6a99a319dc4d680345bcb91fd31d827643d2b810c827"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/fletcher4.blueprint"
+hash = "198f06b8ea95204c8e8050140aa0b28045afc84bcebf048f1cfe7abe71540912"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/fletcher5.blueprint"
+hash = "f2a6a7c10a0d31b7f3510de1060cb25826ba9bd491c625412c3b5c98f1c32c69"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/sawmill1.blueprint"
+hash = "f59934f9f46214866e5bd6ad0586063942002f221a5dbbf51663d656dddaeaf5"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/sawmill2.blueprint"
+hash = "d0a5f6753a2bd956e11de6cae2861767aef82c9f791debe90f8f8c642190d381"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/sawmill3.blueprint"
+hash = "2dc0d22e1f1d35933874e6cf3d91de97b648422ac19b45d550e09da9ace9fc7c"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/sawmill4.blueprint"
+hash = "0aa0d8cef10e3ea93cd9b2241263a13ff9b6cb589f92f3a3579738c75890a448"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/carpentry/sawmill5.blueprint"
+hash = "3b9c44c4c09d939c06a8ab2b37c5010cc95b65a83339576941bc8f7e5f68398d"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/baker1.blueprint"
+hash = "fd03cc2647624d66d0da40b41c13390e95c1ec859b11c9f251cd06f93320b6d8"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/baker2.blueprint"
+hash = "99d44696d367576df6f5721b2be83a3ebe42a8ce6c233b6a5b854e35a2b5f961"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/baker3.blueprint"
+hash = "76cc27f0a3b1f6ac91f3d44bcafc3d87cfff20570b283d99da66f98475767856"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/baker4.blueprint"
+hash = "c38171798c3a7aa7a70a2da0caa0d0e08bb335714708d798424a0db1e0de78ee"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/baker5.blueprint"
+hash = "f80ec6e627d40c411859543cac1073557be6436ecf3ab770caed74daff0634cb"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/concretemixer1.blueprint"
+hash = "07f91414c3ba7c698543751e03153749e846da5591a49a0425b8048f4e4d5bf4"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/concretemixer2.blueprint"
+hash = "ed8c381471c7733fa7e6b3c46666b49438d1086d9e2313234105f512e3fe3b2c"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/concretemixer3.blueprint"
+hash = "2699ccf68d089cb93229f61a916207648a02cdfe962f459638542fad1d5bb8fe"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/concretemixer4.blueprint"
+hash = "9c96cb8c2219f9f094cc9e9aacba62dbe7f86c26617d494dd52bc6dcb895625b"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/concretemixer5.blueprint"
+hash = "e821a7c63c1218c5a567bc15d18ee990ded18904f55510f0021632552f7a20ec"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/dyer1.blueprint"
+hash = "9909319d7c921d8e0410b2345b8b753a5d36a069235d2a95e4e8c65eef272bbe"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/dyer2.blueprint"
+hash = "6af4b9f5533f6f155892e3a246627dc03ed4012975630242ffb3951e2b26b08d"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/dyer3.blueprint"
+hash = "c019f07eda25c2e79b3a09a6ea02504cbca712c9aafda68ea65cb6d87869fbb9"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/dyer4.blueprint"
+hash = "54427a307ac49f0cc6505003dea81e81921cba577ab5fbfca01f690d58c2093f"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/dyer5.blueprint"
+hash = "a6a3f600320baf2f505fd9f2f8171cc7c688420c5c40824cbc64404dc2581819"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/glassblower1.blueprint"
+hash = "5ef8aca12b7c9ca4b07258041609157d2bc6bd97486451a4cc12a235eee20bdd"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/glassblower2.blueprint"
+hash = "88c91008f28d44267d5149ef96d239ea750ff1dd0ba67b49b30c7e894507ca9e"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/glassblower3.blueprint"
+hash = "9ffab3a27a9cb2f11b8de41c73ee0e88fabbfbb1fa275d6dbe73f3122192e161"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/glassblower4.blueprint"
+hash = "5a21cd779be85184efa7852fcb59e8501c1d80fda99f96658231038510021df2"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/luxury/glassblower5.blueprint"
+hash = "dec8f490fdbc17d5d3b3d66419028a5a2034438aad1fe9e0951e93168f6fa019"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/crusher1.blueprint"
+hash = "86a761093bb66c1efb4bd2949443cbbdfb013cecd3f5a64bd3315f56b057580e"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/crusher2.blueprint"
+hash = "299e32869190a431ea7e8194d05265a2d7f65d12b084444c83268e7fe86d5b23"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/crusher3.blueprint"
+hash = "76d7620e50286ebe32a7666f6cdaeee91aaf3d4256a935dee634d8a6d5a4338b"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/crusher4.blueprint"
+hash = "5f646a5019ba9defc4aee7cdbf1c0ae0504695a6b7eb6fd7eb22e355ee43ac24"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/crusher5.blueprint"
+hash = "588b856f245a3573ca960691437c526ec4356dd65196f42ca3a3cd7f3c457093"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/sifter1.blueprint"
+hash = "7a232bb6cf1f2f9bb62caaadd8b9c65b92a4e1cd05b8bc4787c062c2d207e5a9"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/sifter2.blueprint"
+hash = "7efd604beeebc7161434b0916f950070e5ebe865b413a4f3c9e4f1ec59dcff3f"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/sifter3.blueprint"
+hash = "a61d51e700cc054944cf16a213deffe53cf79ed18f16ccefc7ad58ab169924af"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/sifter4.blueprint"
+hash = "f900c6548db8f1afeb8d6b16e59e6ccdbe2f97798e22cf447d5afccba6c9129f"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/sifter5.blueprint"
+hash = "454fba42b788fdf9f36703e4b711fa1c12f543aea1e499672fd600be8921e5c2"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonemason1.blueprint"
+hash = "f5eec9cc7669e37debb73979003e0d2a58b113932947f6da79026b2d419061ff"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonemason2.blueprint"
+hash = "36f0d16e9e6dc9416eebc2ed20f1638c1f9715661d45ab876a53cc266e69dc77"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonemason3.blueprint"
+hash = "84ee943ca5ae9887019d62696738570f8e8447c0e4248b027b6e85d715c1bbd7"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonemason4.blueprint"
+hash = "7f28e33a377207c5b4ba07741935c8d567530667b00844b8410d27dca238ce54"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonemason5.blueprint"
+hash = "4101d01748aff57303c9ef15e118386d4c81b122fe701333848bece915b1d217"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonesmeltery1.blueprint"
+hash = "0a4725eafb1d383fa22de8b9e5b3b3e9a6284d82951f14521491971a55639dee"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonesmeltery2.blueprint"
+hash = "96a04fc5d65c1879f48b94c028e5fe9ba321c86e75b3fd33e5d8dd9e53f7ecc3"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonesmeltery3.blueprint"
+hash = "decbd18ac60b948aaf273b8f8fb3de14c996ebbaf6c5766e25d86ec001f93ab1"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonesmeltery4.blueprint"
+hash = "147b4013382352e8cdba2e300ccdab6341993dc5b9137969ba10b224937100a8"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/masonry/stonesmeltery5.blueprint"
+hash = "f64663c3de7ddf45e8a8acc7dbb87f67e61fb9512afe1e3f4fed95c460076454"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/blacksmith1.blueprint"
+hash = "b97af9ba2bb29a131ed1a944a1f2044cc823f26eeeb9d85f7edb96efbd6fc9d0"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/blacksmith2.blueprint"
+hash = "0e22c9a7130d47c206301cf80943a9220ba8a58013d873a24a9398b03019af5a"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/blacksmith3.blueprint"
+hash = "f8066f47affeb6c3eba9a308161163e032cd694bcf85678001776b68a86d0032"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/blacksmith4.blueprint"
+hash = "04a8a410210c55634235957906278de92edd2cc4bb77791d6dd6c7cc20540ef7"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/blacksmith5.blueprint"
+hash = "dbed619016e96509a02d9aebc53bfd6df12c55dc2f23a949dd9c63e7a69ca9e8"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/mechanic1.blueprint"
+hash = "b45d6667e5af793259bd8b7bcbaac6e517b48098d4e24cf508b0b3f7ed329bd9"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/mechanic2.blueprint"
+hash = "5ee9097d94b4af52a85ec35647e11e963b7da3b0463a102840beccf4c52319ec"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/mechanic3.blueprint"
+hash = "c7ea9fae66641521ecb29e4744b6c5027304f9324d6b55e59e1b4d4e0fec3d36"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/mechanic4.blueprint"
+hash = "6e2ae930f05ddba676d0cb9573b1a5ff3e5196aaa425a71ea2975cd0c1d7c65b"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/mechanic5.blueprint"
+hash = "82ed58331846bc70bc54ae4946c452d925559bac6c6289e59f0e4aadc7e80cd1"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/smeltery1.blueprint"
+hash = "7fc6d64dd52a773fe0e77837b5a8c1e411519d462408e23c3a23ea4cac09df7a"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/smeltery2.blueprint"
+hash = "a766d313a56fbb120411afd631ca59bea0c23215c9318a7623d000cf7c0b280f"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/smeltery3.blueprint"
+hash = "a03ae9eadea61822a7977ab6d28c7326da342e61d1284fe84805088c456b20bd"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/smeltery4.blueprint"
+hash = "48a72a99372759bf9002f7a30e027a6770dd5a6ad309c124d6d513e09337ddaa"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/metallurgy/smeltery5.blueprint"
+hash = "66a75b0ffca4a1232231c6e7d49b2d26db7d5135eae225c659d0220530b5cc40"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/deliveryman1.blueprint"
+hash = "cb5f453db0f399afde2386e993e7951fce88acc682990f0911f559540afaa123"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/deliveryman2.blueprint"
+hash = "67d1dc348b0033bc4320ddacfe2181832fc26a0800cf36d9d312b2f139b4bdb8"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/deliveryman3.blueprint"
+hash = "7284e4782994e497cafd9e0f5001416bce8d5e8e831f1e09adb6ae91a856bcd6"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/deliveryman4.blueprint"
+hash = "58540f4f03e17799e20002c67ada107760968a5bce2343ffb0547dcea91add83"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/deliveryman5.blueprint"
+hash = "c01c00a0f28f0d488678a111aee2f4946fc6208b9c20293b3932330c8a18cd6e"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/warehouse1.blueprint"
+hash = "3d0f307b950a9de8fd83f090670f279258f569560f037a5437bcbd5a1c0667f9"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/warehouse2.blueprint"
+hash = "c8d8cee8bb97aa4736ede1a6978d5661e6057891e01a8856a5cc7af25eecd8aa"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/warehouse3.blueprint"
+hash = "80c0ef668c1eecceec6c22810a8053e589321c6a8aa2376c352cd8a4896dd12b"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/warehouse4.blueprint"
+hash = "eb0fced3c5ec2bd531c75ffe8e049dfc79c3d271a48e9e69233f8f627318f134"
+
+[[files]]
+file = "blueprints/shire/craftsmanship/storage/warehouse5.blueprint"
+hash = "f4c1f86aed941ec1f24a5daa1652cbdd5310b55d688662220ac45242ecb69d5e"
+
+[[files]]
+file = "blueprints/shire/decorations/supplycamp/shiresupplycamp.blueprint"
+hash = "69758b41f075fcef82640d7abfd1d1678da36d2786a15168b4211a55fb145ad3"
+
+[[files]]
+file = "blueprints/shire/decorations/supplyship/shiresupplyship.blueprint"
+hash = "11203ffb84350f7f4821a446d427f1884d3b8beae1d3e22160256c32fe62d4c3"
+
+[[files]]
+file = "blueprints/shire/education/library1.blueprint"
+hash = "2aaa09b6ce221f9db4a565671cb12ae94c413e907813f4155cbd76e39eb0f204"
+
+[[files]]
+file = "blueprints/shire/education/library2.blueprint"
+hash = "b0dc451fb1e61862519b1544d62d507167e7760a76c1dca9ee8e1c400d697379"
+
+[[files]]
+file = "blueprints/shire/education/library3.blueprint"
+hash = "a1c86a173545d52b85c6cbc3e9354c3bf89810d849e59df60f66c62d81ef639a"
+
+[[files]]
+file = "blueprints/shire/education/library4.blueprint"
+hash = "9b5e533c9ce536de54f45bdaf512457a8e719e28e91488b73f8f946963ebfde4"
+
+[[files]]
+file = "blueprints/shire/education/library5.blueprint"
+hash = "eebc79afabab6e8f8c625170335b41754c6903f471b6dac7811636f2bbbfb425"
+
+[[files]]
+file = "blueprints/shire/education/school1.blueprint"
+hash = "09b64fd80807db59a84af6ca173d23ff5cb2cb2681ff84f7a6519f8d6e2fa8ce"
+
+[[files]]
+file = "blueprints/shire/education/school2.blueprint"
+hash = "f1c87c5dab0c113e38da7da4e1dbf56cfd8d46757d792e64d2d5ea5efcafa415"
+
+[[files]]
+file = "blueprints/shire/education/school3.blueprint"
+hash = "b9fc701822e8f83a15ffa90eb03cc5f9cc7a0f8b6990dfa6acd70d8057d04c1e"
+
+[[files]]
+file = "blueprints/shire/education/school4.blueprint"
+hash = "c50b851ff5915e8f96efcda24225e10bbea9192250538ef6febe8420de987d50"
+
+[[files]]
+file = "blueprints/shire/education/school5.blueprint"
+hash = "36378c4decd1fbbb096da953183063589cdc9c71a36ec60c68ecbf9774e86c78"
+
+[[files]]
+file = "blueprints/shire/education/university1.blueprint"
+hash = "0423e1d463876ce536a7f9db3013931f121fdd0c6d86b58f3b31901346fbd9c9"
+
+[[files]]
+file = "blueprints/shire/education/university2.blueprint"
+hash = "bbc9935f2b8b86682a2e96d5a66769fa9dd6525d18ce69e455f47075c47428b7"
+
+[[files]]
+file = "blueprints/shire/education/university3.blueprint"
+hash = "3640b34daed6ec183153adc443c64e9a8d0410340c4a241581b4d546e21982f3"
+
+[[files]]
+file = "blueprints/shire/education/university4.blueprint"
+hash = "eeecf6f35ec2be499dcd6449600bc396ace3198069ffdb5cae38da83f5d6fc5e"
+
+[[files]]
+file = "blueprints/shire/education/university5.blueprint"
+hash = "9127db6842b013a1770e5bc145d9308da2d1f4223f6131017700343357ad8caf"
+
+[[files]]
+file = "blueprints/shire/fundamentals/builder1.blueprint"
+hash = "4e53a775e1064669c2f917553cb9ecb50f4443ca5e4caef4ae24a8f2d54e81b8"
+
+[[files]]
+file = "blueprints/shire/fundamentals/builder2.blueprint"
+hash = "e5746b8046e49a6a18c2fbf97b5e40c8e753eb6c5c1bcb38b75ea4bb0a8691c8"
+
+[[files]]
+file = "blueprints/shire/fundamentals/builder3.blueprint"
+hash = "4e28efa67acc209211600093c7c8e7630e5464a98bf962a8467bf365eed99151"
+
+[[files]]
+file = "blueprints/shire/fundamentals/builder4.blueprint"
+hash = "1be2ee6aa9da541f7457716fc59ab88eb7a6151bad6dadf725f06804169139d2"
+
+[[files]]
+file = "blueprints/shire/fundamentals/builder5.blueprint"
+hash = "68f6e92f418e1d34dbbc5751f556ebd5b6f92d98514a0c5e6e2ecee49e70246d"
+
+[[files]]
+file = "blueprints/shire/fundamentals/cook1.blueprint"
+hash = "dbf19aef7b825cc5cd1c051c0a4d55c321aeb52904f458a5d8cc50e4056e6f98"
+
+[[files]]
+file = "blueprints/shire/fundamentals/cook2.blueprint"
+hash = "10b4c7651824a1112db720c2037a4094af2f4ecf8d424e04e3e78c8ed133e6ea"
+
+[[files]]
+file = "blueprints/shire/fundamentals/cook3.blueprint"
+hash = "c26a87d6149b2de667c3ccf7d0a6701b48a8e5c8c40d1f31e25b503170db9b48"
+
+[[files]]
+file = "blueprints/shire/fundamentals/cook4.blueprint"
+hash = "4226bd9f659ac26ac2dc8fc3df1a2a7cf564ccfd46937ab4e0ce7cf7de7f243e"
+
+[[files]]
+file = "blueprints/shire/fundamentals/cook5.blueprint"
+hash = "e270c3383da5b75cdd87dc7a25106472922b8445a69ea8d3ec62bcc58287c32e"
+
+[[files]]
+file = "blueprints/shire/fundamentals/hospital1.blueprint"
+hash = "e301de3a6588bfce68f03ca08c3f8097759c14160f76cec76d4b8990d9adcf8e"
+
+[[files]]
+file = "blueprints/shire/fundamentals/hospital2.blueprint"
+hash = "a9739a7c1c3926d2371d5eb1e78c936d0fffb4fdded9c8780168e17a8e001ea8"
+
+[[files]]
+file = "blueprints/shire/fundamentals/hospital3.blueprint"
+hash = "47c22ea260e531c493346cad6fefb8338398c33fb9eb766054b40b5041fbcefc"
+
+[[files]]
+file = "blueprints/shire/fundamentals/hospital4.blueprint"
+hash = "85d240744955619cd7eef2b8cd214821dd63e412ae524bbea3023c453422c5f1"
+
+[[files]]
+file = "blueprints/shire/fundamentals/hospital5.blueprint"
+hash = "60bafcd9e8990061568a7015e8d1ae32e7aabdd0dfb94be21403c3dc61e04fc5"
+
+[[files]]
+file = "blueprints/shire/fundamentals/lumberjack1.blueprint"
+hash = "8b1838deda10dfcdc5d58f58bd4cde2b740228c26849621ea897e5e2981ea745"
+
+[[files]]
+file = "blueprints/shire/fundamentals/lumberjack2.blueprint"
+hash = "9c96dc735220068c9e67ac6f00ce2f686952bcbd5e2415fd45998e68164c9ecf"
+
+[[files]]
+file = "blueprints/shire/fundamentals/lumberjack3.blueprint"
+hash = "9152042222c856efe827611ea8b6f3a5c835a63af689e5fceaa5735ec0861358"
+
+[[files]]
+file = "blueprints/shire/fundamentals/lumberjack4.blueprint"
+hash = "dfd70dfd7827e272667b7dde5f4c3073695f34525cca95b07c27c8503f739e26"
+
+[[files]]
+file = "blueprints/shire/fundamentals/lumberjack5.blueprint"
+hash = "866848e3c7458811940b5e4071ae693933c38b7af864dafc36efcdb141e319f2"
+
+[[files]]
+file = "blueprints/shire/fundamentals/miner1.blueprint"
+hash = "e8d00c999da6196bcd499203e80fd58d2471ca9fc8694445d530ddb1e8ecb5bc"
+
+[[files]]
+file = "blueprints/shire/fundamentals/miner2.blueprint"
+hash = "cf8f0d5090fb9d089da4d9fd26164b350dbab352f69b1b2a5d67208e5b7fa72e"
+
+[[files]]
+file = "blueprints/shire/fundamentals/miner3.blueprint"
+hash = "0119b88585feccb7a90f39611c8afba45a7986b65eaac8dc7dead66feb948818"
+
+[[files]]
+file = "blueprints/shire/fundamentals/miner4.blueprint"
+hash = "3991a187512d03c50744a3ea9ba0be76fc461ed4b4553ede75554b6d0bdc1984"
+
+[[files]]
+file = "blueprints/shire/fundamentals/miner5.blueprint"
+hash = "7e8603d82c7a59fdbd880eb7cedd84692e63d9023d23ecfd1763052215934ebf"
+
+[[files]]
+file = "blueprints/shire/fundamentals/residence1.blueprint"
+hash = "122ab9e73e9fa2184de103f0e144fbbf1f341338eb699454671f36fd4c8ca45d"
+
+[[files]]
+file = "blueprints/shire/fundamentals/residence2.blueprint"
+hash = "fbcf502193c035db910e3204d4e641ce1c1fe5ce079dd8cb2453ff4192b84d28"
+
+[[files]]
+file = "blueprints/shire/fundamentals/residence3.blueprint"
+hash = "f0d80b3eabd9c559abb17d14063be015faf352b18ba80b5629757f2013e264f9"
+
+[[files]]
+file = "blueprints/shire/fundamentals/residence4.blueprint"
+hash = "1722554c31f20202ef13ba1b0e4ea20a2f94c81bd4eb5718dd70d29ca9a376e7"
+
+[[files]]
+file = "blueprints/shire/fundamentals/residence5.blueprint"
+hash = "7563829ebdf2c13f9bf5a9675a1ffc6cb68bd6b259f2abfefbc414cd0d8b4bd8"
+
+[[files]]
+file = "blueprints/shire/fundamentals/tavern1.blueprint"
+hash = "5baa036dc143bf5e869f8c6b5071abc83b6adcb7b0b94deaada347d5729c7a85"
+
+[[files]]
+file = "blueprints/shire/fundamentals/tavern2.blueprint"
+hash = "1d217ad3e7ca77a45906e8d645c15199e9556dd0c9c04416f6ef0630a9756b97"
+
+[[files]]
+file = "blueprints/shire/fundamentals/tavern3.blueprint"
+hash = "4fcd2f7322b441477c0106a30d108e1a16967054fb31976225e5fbd9dc2baf90"
+
+[[files]]
+file = "blueprints/shire/fundamentals/townhall1.blueprint"
+hash = "639844db33686ca1540ec43d777b2a5394fa88f103d6be17bf48e85c33106119"
+
+[[files]]
+file = "blueprints/shire/fundamentals/townhall2.blueprint"
+hash = "78a51faa4cc3e444baad0f1c18dff58754628ea8782ff6eeae2d7e90ceae5f2f"
+
+[[files]]
+file = "blueprints/shire/fundamentals/townhall3.blueprint"
+hash = "d9fc271bb52661ba3a441e153b5a3e3ee7b497ec54a464c1d78fe9aa581db03c"
+
+[[files]]
+file = "blueprints/shire/fundamentals/townhall4.blueprint"
+hash = "8cd4b1d195ca5ae5a6391f7411c258be8b6c49aee5f3938d0e3d2dd9e53e8a38"
+
+[[files]]
+file = "blueprints/shire/fundamentals/townhall5.blueprint"
+hash = "1bfd6dc73b66c5b33366a8b767544736846f15ce59ce54bf175b7f1e3663915d"
+
+[[files]]
+file = "blueprints/shire/infrastructure/fields/field.blueprint"
+hash = "1f00b635be16db47324af257092044ae941ef5cb01c28033045e68d2d41da94c"
+
+[[files]]
+file = "blueprints/shire/infrastructure/fields/fieldhill.blueprint"
+hash = "aa6820a054f3f910e0b54df15e4263f6291c1760dd10b6eed880dbaf105c0fe1"
+
+[[files]]
+file = "blueprints/shire/infrastructure/misc/house1.blueprint"
+hash = "d23d959a0bbfac8805e1c7aa36d9d054135da6a4274a294480e849efd461a916"
+
+[[files]]
+file = "blueprints/shire/infrastructure/misc/house2.blueprint"
+hash = "4a7278a5f4d6e6879874be33c86e602fba61b50d0aa57863dc9b5c4ad4b2f643"
+
+[[files]]
+file = "blueprints/shire/infrastructure/misc/house3.blueprint"
+hash = "80264e668ae49d4772a81d0b1c576efd4ecccac2c72232b6698b189d37caa994"
+
+[[files]]
+file = "blueprints/shire/infrastructure/misc/house4.blueprint"
+hash = "44fa586d0878f24165c48edd405babfb7fdcf71e0922289b1a5f8560b74d372d"
+
+[[files]]
+file = "blueprints/shire/infrastructure/misc/mysticsite1.blueprint"
+hash = "9a39cfee74328f0c4102691dac27d115d88ed8e1ebf64ac5ac7e4b2d260e94c2"
+
+[[files]]
+file = "blueprints/shire/military/archery1.blueprint"
+hash = "0ccf077e6c53b307da6dde132a2253df232eb67878a00be785d9e3b92cc34044"
+
+[[files]]
+file = "blueprints/shire/military/archery2.blueprint"
+hash = "0e698d5f600aad31bdedb0f4c91ca22ee972b422c6d59689a5d6ec0822d02514"
+
+[[files]]
+file = "blueprints/shire/military/archery3.blueprint"
+hash = "61b4e0b5086fbcd7115cca3de47a129c63c02e8b12318332656259ac597532bb"
+
+[[files]]
+file = "blueprints/shire/military/archery4.blueprint"
+hash = "b5b7a09be4529c932a447bec74a4eb387a887116d57041f8ef8765cf24a6692e"
+
+[[files]]
+file = "blueprints/shire/military/archery5.blueprint"
+hash = "1f8baa3d3233af9c836362aa3190be466786155bec8bc6f63c1f16c868f7f5d0"
+
+[[files]]
+file = "blueprints/shire/military/barracks1.blueprint"
+hash = "ff2f34d9e1ab81f5968331368dc29982667f19525f4328bc8f477225f3eb8453"
+
+[[files]]
+file = "blueprints/shire/military/barracks2.blueprint"
+hash = "99a64cebffb50512f5cd0c1e9f8565db7237f449618ea8d3bfeb641e48bdcd97"
+
+[[files]]
+file = "blueprints/shire/military/barracks3.blueprint"
+hash = "3c9eb32ace18f1a7c7d3670628d5f0cc38dd3b0719978c666cec0ad68c2f9262"
+
+[[files]]
+file = "blueprints/shire/military/barracks4.blueprint"
+hash = "8e38b7645e6a162d83b8274d3fb74c480fb265dcdf8c3b3ee0d6f2bc2de52992"
+
+[[files]]
+file = "blueprints/shire/military/barracks5.blueprint"
+hash = "9bd015c2d111ee31a9f367db9d6a9494bc168b2ecd204b70072e87a7404e20b2"
+
+[[files]]
+file = "blueprints/shire/military/barrackstower1.blueprint"
+hash = "313465b3ef9c827bf2f016573127075203ab2d1982c3a302b68a40546dc36697"
+
+[[files]]
+file = "blueprints/shire/military/barrackstower2.blueprint"
+hash = "dd9468f5b97e80c2689299756d77176495ed145b21b1a91dc4b025e9a56ad8db"
+
+[[files]]
+file = "blueprints/shire/military/barrackstower3.blueprint"
+hash = "3bbcb49604850cd8505f34e4f4dadb1c0017065fc75a7989200af13d1e9af51b"
+
+[[files]]
+file = "blueprints/shire/military/barrackstower4.blueprint"
+hash = "20900145e4baaf6fa5c36c067cf33d56f83469f849abfc38829ba8d40027445f"
+
+[[files]]
+file = "blueprints/shire/military/barrackstower5.blueprint"
+hash = "e02e7531ebd8301b684e63bfacfb11f56494d34861f65ffb544d24e07d93b38a"
+
+[[files]]
+file = "blueprints/shire/military/combatacademy1.blueprint"
+hash = "4c3e4bfcb934ac54ca48eb849c089d2798c1c4799f06d266de696e140ab6c004"
+
+[[files]]
+file = "blueprints/shire/military/combatacademy2.blueprint"
+hash = "6589f508992070ba827f8b7f6ed817346ffae105a34b4ffc261ca4aadbd38ffc"
+
+[[files]]
+file = "blueprints/shire/military/combatacademy3.blueprint"
+hash = "016dd4033aaaa910b557ad638423f0fe78eef2198a7077b5e623827157e2be0d"
+
+[[files]]
+file = "blueprints/shire/military/combatacademy4.blueprint"
+hash = "7325249739d014919ec906792a0c36d29f0868da5fbb36aa36f9774d05c63945"
+
+[[files]]
+file = "blueprints/shire/military/combatacademy5.blueprint"
+hash = "c60ff80d74c344e6e9a40d98c543f369ab9eef0a99999d3b95247ed557200de2"
+
+[[files]]
+file = "blueprints/shire/military/guardtower1.blueprint"
+hash = "747c5c7d10efb1d96c7280929da4f6c8ca507528dafc316bfc84bd685956dc4f"
+
+[[files]]
+file = "blueprints/shire/military/guardtower2.blueprint"
+hash = "5b9b65b0589a98bbf7419244df0d53984ff3b6eec3e11fda713d44a38b34a047"
+
+[[files]]
+file = "blueprints/shire/military/guardtower3.blueprint"
+hash = "7580ffe9b8eed7291d709c7d59308aeb5b5a755f0412275cc2df14a878a7a7b6"
+
+[[files]]
+file = "blueprints/shire/military/guardtower4.blueprint"
+hash = "ae6b424ca7bf7184ebd8f42221d8fabf8d0bd1b56f332b1f5fdd4734cc0c4f3c"
+
+[[files]]
+file = "blueprints/shire/military/guardtower5.blueprint"
+hash = "3f8d39d955ce2616847094d9f2c44203d34a055e47f724b8588209ea8202dc89"
+
+[[files]]
+file = "blueprints/shire/mystic/enchanter1.blueprint"
+hash = "f5cc7dd895acd25726ba3b53a574dd01ceca68809df951a22cb9e1e644187cba"
+
+[[files]]
+file = "blueprints/shire/mystic/enchanter2.blueprint"
+hash = "4e7bfb7ac07cf96a01056fddb6623a65810a1c8af79490ad3d52de85bb7690b1"
+
+[[files]]
+file = "blueprints/shire/mystic/enchanter3.blueprint"
+hash = "fb7ca54ed2ccc48d6b764b66ff597f1d199e4c34aa0c82ec78ad08018282dbf2"
+
+[[files]]
+file = "blueprints/shire/mystic/enchanter4.blueprint"
+hash = "e958d719f7d2761a816179aa41e1faca1fc9314e58b9b48b01bc8d5b88affcf6"
+
+[[files]]
+file = "blueprints/shire/mystic/enchanter5.blueprint"
+hash = "4c65bc7948914dc7780a342f5c5849a67cd01afd2b7920b894b3ddfd00e9b111"
+
+[[files]]
+file = "blueprints/shire/mystic/graveyard1.blueprint"
+hash = "ab020a7e8a0f54ea92feccf00dc5fb253f6751767bc3dde5bf68b5b489ff9bf5"
+
+[[files]]
+file = "blueprints/shire/mystic/graveyard2.blueprint"
+hash = "2ba7d05701c4c89c5de0fb9acbdcdeca93d97ca9dd4f00014f056fd5c677ad2e"
+
+[[files]]
+file = "blueprints/shire/mystic/graveyard3.blueprint"
+hash = "7df917b22f38810a4247fee34e1598862fff9a56846fd952c8a7448025599716"
+
+[[files]]
+file = "blueprints/shire/mystic/graveyard4.blueprint"
+hash = "6ef251c3b671923cc1720eeb20dcd1dfce9b19de502d0d85825a698ca86da6d1"
+
+[[files]]
+file = "blueprints/shire/mystic/graveyard5.blueprint"
+hash = "8a2a17ec61f095be927182d345cd0cb4ef1a65952bf32e60b39829d1493bc145"
+
+[[files]]
+file = "blueprints/shire/mystic/mysticalsite1.blueprint"
+hash = "a0f6747276b6c847d3442a396aecb61ef386b40b9c3fa4344a0b9e5d4ddada56"
+
+[[files]]
+file = "blueprints/shire/mystic/mysticalsite2.blueprint"
+hash = "ebbffd184e14e72dc88d46d5c26e6eeb8b49f4ac024c12c0fa654d4132301a70"
+
+[[files]]
+file = "blueprints/shire/mystic/mysticalsite3.blueprint"
+hash = "0e15141fb92ffb1eb5277aa402b3e5fb1cc3d4e6b5948fda96995ff5de6f27b2"
+
+[[files]]
+file = "blueprints/shire/mystic/mysticalsite4.blueprint"
+hash = "0ad3c15a06c51ce6d5f2f2d5d4439b8fc5e794d702f0e3d5b235f9494d52dbbc"
+
+[[files]]
+file = "blueprints/shire/mystic/mysticalsite5.blueprint"
+hash = "826ea94ba3ebd6d12d1f893caeaeef9316d92fbd644a9e5e966b49147aba1a75"
+
+[[files]]
+file = "blueprints/shire/pack.json"
+hash = "337e55112645250a0f0e22a990361e718c7e9c05f790d7e9a3ef2d8c336d6858"
+
+[[files]]
 file = "config/openloader/.cache"
 hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
@@ -1860,7 +2792,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "2e919cdda4aeb4d662b53f24479339fc6db5aa6501beab07352d68d8de9c82ae"
+hash = "e85b5eb396fa7195032598882a2df03a9419a2fba269a92751e8762d56cc3dca"
 metafile = true
 
 [[files]]
@@ -1971,6 +2903,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "2b90527dee4aa2aac079e1c051687eaf0a46feab2cdd93b0b7747312d738eb9b"
 metafile = true
 
 [[files]]
@@ -2085,7 +3022,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "dcd4eb6d309b5f405e1f02973b3cc845b0581c4612810c3c781723aa33238fd7"
+hash = "ccedeb5921aaab06e9edc3ce34332d271a6fbb2db49ba876ae633b7e4160af7f"
 metafile = true
 
 [[files]]
@@ -2245,7 +3182,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "f2775eab5542159e5a5411481ea81008afd711f6696467e4913f56ed4987b4c7"
+hash = "5483d8ac4df1cded9d71c67dfd92aff53d924cef45c3f67c26599f549cc4be0a"
 metafile = true
 
 [[files]]

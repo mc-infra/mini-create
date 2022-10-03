@@ -28,7 +28,7 @@ https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
 https://www.curseforge.com/minecraft/mc-mods/jade
 https://www.curseforge.com/minecraft/mc-mods/mekanism
 https://www.curseforge.com/minecraft/mc-mods/mekanism-additions
-https://www.curseforge.com/minecraft/mc-mods/minecolonies
+https://www.curseforge.com/minecraft/mc-mods/minecolonies/files/4015338
 https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge
 https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go
 https://www.curseforge.com/minecraft/mc-mods/open-loader
@@ -43,7 +43,7 @@ https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-hacks
 https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep
 https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
 https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage
-https://www.curseforge.com/minecraft/mc-mods/structurize/files/4002775
+https://www.curseforge.com/minecraft/mc-mods/structurize/files/4014945
 https://www.curseforge.com/minecraft/mc-mods/supplementaries
 https://www.curseforge.com/minecraft/mc-mods/trading-post
 https://www.curseforge.com/minecraft/mc-mods/trashslot
