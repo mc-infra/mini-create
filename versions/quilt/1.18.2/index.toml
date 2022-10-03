@@ -211,11 +211,6 @@ hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "7beb2d053d2e6fc366a96c6ec4441484e91a7bf84f414eb39b309ea2026f2ebf"
 metafile = true
@@ -351,11 +346,6 @@ hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
 metafile = true
 
 [[files]]
-file = "mods/create-deco.pw.toml"
-hash = "4330040818fae4f5393c4a9de4f304d58d949482f27b88f2ae0f06213e862351"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "811ae5db88e94e44c8d83b6436c5d03ae020916389710dcc1f620c6793a1ff78"
 metafile = true
@@ -481,11 +471,6 @@ hash = "1e28fdae3771169f05e179bf4e410d29dcc8fa826d353996281f10d3399b1fdf"
 metafile = true
 
 [[files]]
-file = "mods/evergreenhud.pw.toml"
-hash = "037dbdba0ed47cc7ff7fbc266ba24ce9339ef7636e3ed7e892a6ddd04b3e96ba"
-metafile = true
-
-[[files]]
 file = "mods/expanded-caves.pw.toml"
 hash = "f69f2b5e2104fa79f2f3fc88fce424bd4f67c495f7577ad462fca14d0fe7499e"
 metafile = true
@@ -578,11 +563,6 @@ metafile = true
 [[files]]
 file = "mods/illager-expansion-rematch.pw.toml"
 hash = "6d9d960dc892f9718e6d596a98645ce87e3b2e138845286ad4f58e27e5445489"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "9776e903bc683d6674cdff7c40ad694c0de465efbeab98395f43058d656be27e"
 metafile = true
 
 [[files]]
@@ -771,11 +751,6 @@ hash = "07b6c7e434d38a282a951c57514f08c668163d926eb3fd1c3a191a9907b676dc"
 metafile = true
 
 [[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "8a0c36740bb23fa90e22fb69a5d36a76dfdd1cac6a28bb7207b3675fcf88781a"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
 metafile = true
@@ -896,16 +871,6 @@ hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
 metafile = true
 
 [[files]]
-file = "mods/terra.pw.toml"
-hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
-metafile = true
-
-[[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
-metafile = true
-
-[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "862ec380bd86b243a4f46114f34b39ae8a16e1856bc194f34594ac82cb8fd8c8"
 metafile = true
@@ -946,13 +911,13 @@ hash = "c8ae8ccb6e15fefb7d78e70dfd27e88a3767a1975148f26bfcb25d0e36b1e63e"
 metafile = true
 
 [[files]]
-file = "mods/wildbackport.pw.toml"
-hash = "6f8040bf3f40824221659bddc0e5f31407dca6c0081e7cfebcfa605d82485555"
+file = "mods/worldedit.pw.toml"
+hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "d662f0e5aae916336830c1dfd1087b664e45676cafc02f7f2d892abf692ebf30"
 metafile = true
 
 [[files]]
