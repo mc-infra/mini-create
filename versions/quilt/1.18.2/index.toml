@@ -947,6 +947,11 @@ hash = "c89a45425cf7eb73b6b609d2ea18d4d230d0c466e40cdb0f7be43f7a2e4d6646"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e5ce9a87f3dcf737361215cd03db978ae5296ef8c24e5b2193b1d425acefdced"
+metafile = true
+
+[[files]]
 file = "mods/yigd.pw.toml"
 hash = "2265b6332ca60a1261261995de4e424f9aca37f0140899762230f04fdc406f79"
 metafile = true
@@ -969,18 +974,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/en_us.json"
-hash = "17977f9511432d3669e9ddf707c26da6d2a2253060273d43a693c6c1acceb8c5"
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper/pack.mcmeta"
-hash = "af15d2aa39d0ad609fc15c006dfbede8c59e00975428557c0200545166ce17dd"
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper/pack.png"
-hash = "2cc1f8c9bd888865ba3789e226092cc7ef9d095e5d930390db74dfb62023949f"
 
 [[files]]
 file = "resourcepacks/aquahud.pw.toml"
