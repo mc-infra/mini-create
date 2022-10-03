@@ -211,6 +211,11 @@ hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "7beb2d053d2e6fc366a96c6ec4441484e91a7bf84f414eb39b309ea2026f2ebf"
 metafile = true
