@@ -1,0 +1,15 @@
+{
+  "icon": "LRTutor.png",
+  "name": "LR Tutor",
+  "authors": [
+    "Lord Relentless aka Dr. K.J. Martin"
+  ],
+  "desc": "A Compact Kingdom modular design",
+  "mods": [
+  "structurize",
+  "minecolonies",
+  "Official MineColonies Server Mod List with an Early 1500s flare"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}
