@@ -246,6 +246,11 @@ hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
 metafile = true
@@ -826,6 +831,11 @@ hash = "415730dda84ff35686a34b92e86245d00ecd7a016d47c1c4b6ac59f0a442f04e"
 metafile = true
 
 [[files]]
+file = "mods/semitranslucency.pw.toml"
+hash = "7588d902d3e6799a203c3d299814f2792d56fd27a6569670d85652a46c81ff9c"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "170110b1d61aa21a3bae68230a87a40b791a0621015dad9cc1b8cf3308814335"
 metafile = true
@@ -917,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "d662f0e5aae916336830c1dfd1087b664e45676cafc02f7f2d892abf692ebf30"
+hash = "ec19bc9cbab9c6d9885b23508db28abdbde3853077849e4abe9e03de144527de"
 metafile = true
 
 [[files]]
@@ -965,6 +975,11 @@ hash = "af15d2aa39d0ad609fc15c006dfbede8c59e00975428557c0200545166ce17dd"
 [[files]]
 file = "resourcepacks/Mod Menu Helper/pack.png"
 hash = "2cc1f8c9bd888865ba3789e226092cc7ef9d095e5d930390db74dfb62023949f"
+
+[[files]]
+file = "resourcepacks/aquahud.pw.toml"
+hash = "da8d46ce19482f497e4e779b0ee477385fa75d21afb01afbe563924ab3a88166"
+metafile = true
 
 [[files]]
 file = "resourcepacks/bedrock-gui.pw.toml"

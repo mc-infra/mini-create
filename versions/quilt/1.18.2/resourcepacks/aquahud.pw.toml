@@ -1,0 +1,17 @@
+name = "AquaHUD"
+filename = "AquaHUD.zip"
+side = "client"
+
+[download]
+url = "https://cdn-raw.modrinth.com/data/WiR4E4bM/versions/1.2/AquaHUD.zip"
+hash-format = "sha1"
+hash = "7D1704877BB48646CD0A94C0FA92362A7C886DF8"
+
+[update]
+[update.modrinth]
+mod-id = "WiR4E4bM"
+version = "1.2"
+
+[options]
+optional = true
+default = false
