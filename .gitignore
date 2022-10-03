@@ -24,3 +24,5 @@ node_modules
 *.log
 .vscode/*.log
 *.mrpack
+
+versions/quilt/*/mods/fabric-api.pw.toml
