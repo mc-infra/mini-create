@@ -4824,6 +4824,11 @@ hash = "a7389b1b68c32e53026f4f3fc392eb2b599fa02a1bb9e2e13e5f1e6056830752"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "53007cc6a65b32c78e5261d4991b81a86ded140f8beec46be69fe18a1f730546"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "e85b5eb396fa7195032598882a2df03a9419a2fba269a92751e8762d56cc3dca"
 metafile = true
@@ -4881,6 +4886,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+metafile = true
+
+[[files]]
+file = "mods/compat-o-plenty.pw.toml"
+hash = "90e8253b6f2b2b1732b21c64545eba91efe0d8989746d38c9ee8654f30d5e6cc"
 metafile = true
 
 [[files]]
@@ -5191,6 +5201,11 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "89339174b49429b991f3da08eb26ed26511ce1486f8b856f1704e0bdcf12ec13"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "e39c6b3761e0c71561706b0d3ba4e100b91bc207eff98ef09ecf57dd3db12530"
 metafile = true
 
 [[files]]
