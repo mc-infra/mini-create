@@ -4842,6 +4842,11 @@ hash = "e85b5eb396fa7195032598882a2df03a9419a2fba269a92751e8762d56cc3dca"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "98f556a145270a0317ab284b7ddfcd34d5c9c38ce4417d40ac1080da7d4c6e54"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "4c0826c24f0feb437fac026fec59e52417a645aadf4f7c81143237c296c305dc"
 metafile = true

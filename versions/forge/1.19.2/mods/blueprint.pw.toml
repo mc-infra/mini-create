@@ -1,0 +1,13 @@
+name = "Blueprint"
+filename = "blueprint-1.19-6.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "adf084dd73031240294b75abaf772a156e383e9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3931440
+project-id = 382216
