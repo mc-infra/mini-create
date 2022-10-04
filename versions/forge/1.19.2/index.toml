@@ -2961,6 +2961,10 @@ file = "blueprints/shire/pack.json"
 hash = "337e55112645250a0f0e22a990361e718c7e9c05f790d7e9a3ef2d8c336d6858"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "2c8af9abc3b7e60f4ba530c723e17e255d9081a7723a64222393a8fc1401f0f4"
+
+[[files]]
 file = "config/openloader/.cache"
 hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
