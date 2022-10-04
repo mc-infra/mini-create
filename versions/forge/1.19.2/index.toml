@@ -2961,6 +2961,10 @@ file = "blueprints/shire/pack.json"
 hash = "337e55112645250a0f0e22a990361e718c7e9c05f790d7e9a3ef2d8c336d6858"
 
 [[files]]
+file = "config/citadel-common.toml"
+hash = "f198e111c56c4679c5773843a9d1ec50c204764d6b306e5e9f87fbaf6aec547c"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "2c8af9abc3b7e60f4ba530c723e17e255d9081a7723a64222393a8fc1401f0f4"
 
