@@ -1,5 +1,6 @@
 name = "first-person-model"
 filename = "firstperson-forge-2.1.2-mc1.19.1.jar"
+side = "client"
 
 [download]
 url = "https://github.com/mc-infra/mini-create/releases/download/v1.0.0-survival/firstperson-forge-2.1.2-mc1.19.1.jar"
