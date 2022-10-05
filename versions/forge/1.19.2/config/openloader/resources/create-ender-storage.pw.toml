@@ -1,6 +1,6 @@
 name = "Create Ender Storage"
 filename = "Create Ender Storage v1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

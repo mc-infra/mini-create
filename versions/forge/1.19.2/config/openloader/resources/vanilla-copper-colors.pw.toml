@@ -1,6 +1,6 @@
 name = "Create Copper Fix"
 filename = "Copper Color Fix 3.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

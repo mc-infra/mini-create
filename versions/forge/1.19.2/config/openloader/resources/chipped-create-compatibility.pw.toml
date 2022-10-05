@@ -1,6 +1,6 @@
 name = "Chipped Create Compatibility"
 filename = "chipped_create_compat_1_18.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
