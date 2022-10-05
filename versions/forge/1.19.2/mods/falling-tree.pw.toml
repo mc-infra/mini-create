@@ -1,6 +1,6 @@
 name = "FallingTree (Forge&Fabric)"
 filename = "FallingTree-1.19.2-3.10.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
