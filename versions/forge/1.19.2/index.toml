@@ -4677,6 +4677,11 @@ file = "config/openloader/data/custom/pack.mcmeta"
 hash = "b2af9f352fc9a5e4b79d0e279e9e2ae9b5c60a7cb46b2b93e636545f3bc5b5e5"
 
 [[files]]
+file = "config/openloader/data/idas-bop.pw.toml"
+hash = "56d6324d839c62e13880bb72fd3b221ac086b8b61de88f7b66079ee87b28e00b"
+metafile = true
+
+[[files]]
 file = "config/openloader/data/repurposed-structures-immersive-engineering.pw.toml"
 hash = "56e9266a2a01959a250f0e33a8e567e99d342279f0cd14417529a34bcd331eb9"
 metafile = true
