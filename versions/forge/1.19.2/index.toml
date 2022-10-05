@@ -3463,6 +3463,11 @@ hash = "4b90cc5eaadd977a0bccbe5c36044eafacf6d37f1dd9219b66fc8d82bda41091"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "84788801a7ab85eb90ea83fdae6784be190c4753c5878fa88eb714b0941e649b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
@@ -3505,6 +3510,11 @@ metafile = true
 [[files]]
 file = "mods/nutritional-balance.pw.toml"
 hash = "5e05d36bf2d2c819638dfbcbf7bea3b6441308f1c6b4da1859e21d392c46984f"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "842327039557a1538a4f3bbb37a391143a518ccd7e5289490b87b9e0c0e47d67"
 metafile = true
 
 [[files]]
