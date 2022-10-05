@@ -5232,11 +5232,6 @@ hash = "6a1c60ec3efaaed6a188a5c12d4da2c0b27cc3242c3c94f0f879fe735b2a6bcf"
 metafile = true
 
 [[files]]
-file = "mods/origins-forge.pw.toml"
-hash = "f33768d1f65232ab5dad941f87b4e9e2e8cf8cd19828f1c00791989b17eb5b2d"
-metafile = true
-
-[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "92c5cb384c66326563ee5f3cfd794c5ead485d260f62956a227ea5adfcd91dd7"
 metafile = true
