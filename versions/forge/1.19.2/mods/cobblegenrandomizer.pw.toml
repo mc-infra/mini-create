@@ -1,0 +1,13 @@
+name = "CobbleGenRandomizer"
+filename = "cobblegenrandomizer-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de3ae8ca7168e390fa6b147814893a047413801d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4010992
+project-id = 402256

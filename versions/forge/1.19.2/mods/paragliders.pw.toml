@@ -1,0 +1,13 @@
+name = "Paragliders"
+filename = "Paraglider-1.19.2-1.7.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32a4b9754e8a85dcd23edc6d361a512f7dba6954"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3963333
+project-id = 289240
