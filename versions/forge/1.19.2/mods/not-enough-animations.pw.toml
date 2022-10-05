@@ -1,8 +1,13 @@
-name = "not-enough-animations"
+name = "Not Enough Animations"
 filename = "notenoughanimations-forge-1.6.1-mc1.19.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/mc-infra/mini-create/releases/download/v1.0.0-survival/notenoughanimations-forge-1.6.1-mc1.19.1.jar"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1.6.1-forge-1.19/notenoughanimations-forge-1.6.1-mc1.19.1.jar"
 hash-format = "sha1"
 hash = "fd94529a4521692eb2bf79f80989794d6cc3234c"
+
+[update]
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "LUGyS5vg"

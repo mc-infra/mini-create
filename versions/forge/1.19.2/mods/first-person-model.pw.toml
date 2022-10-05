@@ -1,8 +1,13 @@
-name = "first-person-model"
+name = "First-person Model"
 filename = "firstperson-forge-2.1.2-mc1.19.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/mc-infra/mini-create/releases/download/v1.0.0-survival/firstperson-forge-2.1.2-mc1.19.1.jar"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/vGm0upIa/firstperson-forge-2.1.2-mc1.19.1.jar"
 hash-format = "sha1"
 hash = "d36cca6e932dadfad7b41510e53992f4c89d6f74"
+
+[update]
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "vGm0upIa"
