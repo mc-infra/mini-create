@@ -3223,11 +3223,6 @@ hash = "b2c64719137fa25c8856e73f3bb335dca86ed7c1c9b87d72fc65b840768bec50"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "d0b13e288b1d6f6faa01c5fab39d3b7edf60cd77f020560063c5d3a5c3bcac04"
-metafile = true
-
-[[files]]
 file = "mods/compat-o-plenty.pw.toml"
 hash = "90e8253b6f2b2b1732b21c64545eba91efe0d8989746d38c9ee8654f30d5e6cc"
 metafile = true
@@ -3380,11 +3375,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9cb12e58b6bd06752f0b316aa811ef85ad586197d506f232c871f31bee6c4850"
-metafile = true
-
-[[files]]
-file = "mods/gui-clock.pw.toml"
-hash = "05d755e26055269d2303777a559152bcb328dbfdd99cc63e3a81cb24b6f804dc"
 metafile = true
 
 [[files]]
