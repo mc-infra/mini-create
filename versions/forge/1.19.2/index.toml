@@ -3323,6 +3323,11 @@ hash = "64e919364086f659b6b9ab8a14c42ab4c76139d100d934971f88d9deb3b4ccc2"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "37485a01521c01af065be0004bf50ca562e6968e183dd41ccb6800457065af19"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2862eaffcb20700cd2036e54339c94e49776c929dd5e46ec338b142bccce4788"
 metafile = true
