@@ -3678,6 +3678,11 @@ hash = "03aefbc359e01156d0fe9bf137fb82314e96553297517b9f0a1917d8569bfc85"
 metafile = true
 
 [[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "a3ebdc41a7857431edbba9a442de596317bbf161a176776560ec86c726ef726d"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "0f777c428a4899af281ecec4b01970d928a5004f54623c6da7bd2bd807d2cfe6"
 metafile = true
