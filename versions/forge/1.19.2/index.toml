@@ -3664,7 +3664,7 @@ metafile = true
 
 [[files]]
 file = "mods/transparent.pw.toml"
-hash = "baadfd22930dc7597f1f6419bad179494c1a888620cfd493027532192ce19233"
+hash = "de1f7d4182fdb52cb6a99b2a8db2475f5bb6eb09d013fd56ec1a320f870430ba"
 metafile = true
 
 [[files]]
