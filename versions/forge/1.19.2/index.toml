@@ -5257,11 +5257,6 @@ hash = "45f3d2e58e9da16fa2d5ede7e527f58fd9a38cea5a549d925630f0909f148792"
 metafile = true
 
 [[files]]
-file = "mods/project-mmo.pw.toml"
-hash = "a1d75eb9b0176f34f0b0e45d72d483dda1891446b245306373d92bc74fbdf377"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a32cc93fdd63c2d79ef2321a1ad57d35d68a2a0a377bbc6b872056d65b36f318"
 metafile = true
