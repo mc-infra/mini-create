@@ -1,13 +1,7 @@
-name = "Not Enough Animations"
+name = "not-enough-animations"
 filename = "notenoughanimations-forge-1.6.1-mc1.19.1.jar"
-side = "client"
 
 [download]
+url = "https://github.com/mc-infra/mini-create/releases/download/v1.0.0-survival/notenoughanimations-forge-1.6.1-mc1.19.1.jar"
 hash-format = "sha1"
 hash = "fd94529a4521692eb2bf79f80989794d6cc3234c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3913246
-project-id = 433760
