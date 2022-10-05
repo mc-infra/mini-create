@@ -4993,7 +4993,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "a3bf53c99a33d4e06cf4f21a9bfbcb68fe54afe0a5ddedba07bcc949f5f6e618"
+hash = "f7c9d8d2fd489d7ef570bfd7e7795970873282b2f6db131fcbaf44a374ba7a80"
 metafile = true
 
 [[files]]
@@ -5298,7 +5298,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "e39c6b3761e0c71561706b0d3ba4e100b91bc207eff98ef09ecf57dd3db12530"
+hash = "1068336c1833c89b64353443acdc52fa0b7b1e1aabc80dddf0ff8792c5f5ac1b"
 metafile = true
 
 [[files]]
