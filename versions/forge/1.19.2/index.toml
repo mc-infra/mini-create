@@ -4913,7 +4913,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "29565717890839701b8b557e6252b546e1f0e41af5d9eecc661487e26495c245"
+hash = "662a69e33cd60a1e4c4fcc0d817e1f6100196461426677a487c73c4617d2881e"
 metafile = true
 
 [[files]]
@@ -5063,7 +5063,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "aebb9510a95e9718b58e93b49f791420ae152885a8f012cd871880c022a68cb5"
+hash = "13c17c79bd639bd2f3fed48718334bee63a6a0c35b710435a9ff112269f96251"
 metafile = true
 
 [[files]]
@@ -5193,7 +5193,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "16c348ed9206bac3acee9ce55aa1454f2e4ec7835231206a1c12523960736685"
+hash = "c3f52e0832c2d8ec811ffc2cd42a3d7f1783259a53f4fa2f66b6f6e6a19c0a18"
 metafile = true
 
 [[files]]
@@ -5229,11 +5229,6 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "6a1c60ec3efaaed6a188a5c12d4da2c0b27cc3242c3c94f0f879fe735b2a6bcf"
-metafile = true
-
-[[files]]
-file = "mods/paragliders.pw.toml"
-hash = "92c5cb384c66326563ee5f3cfd794c5ead485d260f62956a227ea5adfcd91dd7"
 metafile = true
 
 [[files]]
