@@ -3223,6 +3223,11 @@ hash = "b2c64719137fa25c8856e73f3bb335dca86ed7c1c9b87d72fc65b840768bec50"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "eee72d38b4c10406b61a76ea7cbdcaf7a1f6f5cd5b4b40e8a29d3440ff8c609c"
+metafile = true
+
+[[files]]
 file = "mods/compat-o-plenty.pw.toml"
 hash = "90e8253b6f2b2b1732b21c64545eba91efe0d8989746d38c9ee8654f30d5e6cc"
 metafile = true
