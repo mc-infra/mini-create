@@ -3,15 +3,14 @@ filename = "transparent-5.1.0+1.19-forge.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/5.1.0+1.19-forge/transparent-5.1.0%2B1.19-forge.jar"
 hash-format = "sha1"
 hash = "ab363455b6cc7a6ec8f18ad9b7e7693d862ab065"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3834254
-project-id = 377582
+[update.modrinth]
+mod-id = "zp4jb9oQ"
+version = "ITFl4dSD"
 
 [option]
 optional = true
-default = false
