@@ -3663,6 +3663,11 @@ hash = "f79b1fd2112a3081632ad7918dd7499a048601cb092fb3ff7a54298dd06da2b8"
 metafile = true
 
 [[files]]
+file = "mods/transparent.pw.toml"
+hash = "baadfd22930dc7597f1f6419bad179494c1a888620cfd493027532192ce19233"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "03aefbc359e01156d0fe9bf137fb82314e96553297517b9f0a1917d8569bfc85"
 metafile = true
