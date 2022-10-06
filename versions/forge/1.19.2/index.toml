@@ -3437,11 +3437,6 @@ hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "3825b49cf49a63a8aa144f2b164e40332e259b9d7af2812837d274b0c1e88da5"
-metafile = true
-
-[[files]]
 file = "mods/load-my-resources-forge.pw.toml"
 hash = "2d901201eba3eaa205513eccd6a314f9042c5d664902b4447c0b47a639f3eb7e"
 metafile = true
@@ -3584,11 +3579,6 @@ metafile = true
 [[files]]
 file = "mods/reliquary-v1-3.pw.toml"
 hash = "cb22106c50af08e7c68b9fe376a42dc8321a415b71d18b565d8cf4fa31ab668b"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "afc003a7bbb6e2398295b0795e8f186244a0f6524c636966f98800ba76951987"
 metafile = true
 
 [[files]]
