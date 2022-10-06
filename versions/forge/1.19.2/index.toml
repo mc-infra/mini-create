@@ -3008,6 +3008,11 @@ hash = "23ae1db1c6b9acfafc8f766f294938d5bf5a9f80e40e7c95b2e9c5fb3c769128"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/updated-engineering.pw.toml"
+hash = "78e9207574e02eb2910a3d3adaf7100232f40f5d212c4ef955c3cb52df18ed13"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/vanilla-copper-colors.pw.toml"
 hash = "830ef00067de7f886b11ea99d29365d5d761cc209e7ea8befe67e42f1806f737"
 metafile = true
@@ -3262,6 +3267,11 @@ hash = "15f2f31bd1da485d8fa17ec6409a1b2b63d96df8b1fe0ceed5ed44e8ffcdbbac"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "498a9ec246a852c388c6884221517bfb2c5b838995c8127a7169d9376fe0e68d"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "1d68af97181ffe29dddb0b6b62f773c9ff27bdb1795b65e82099ecdf8dff7f01"
 metafile = true
@@ -3284,6 +3294,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "0f6f75208bdcecc74681a362732ffdef846c1a58a56d3900a6a42d7649d29893"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "65a3c8fd36eec0226b682b42429685dc9a41168cc4ddeca570d1f7a2f2cb30df"
 metafile = true
 
 [[files]]
@@ -3344,6 +3359,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2862eaffcb20700cd2036e54339c94e49776c929dd5e46ec338b142bccce4788"
+metafile = true
+
+[[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "fa71fee27ddbe8c9fcad5554629334a4692157a5c43b91d2cd8e67e4bf87c484"
 metafile = true
 
 [[files]]
@@ -3507,6 +3527,16 @@ hash = "fa76f51b106966a6f8085826b4936ad4b945036c125e62d5c6b461891d3757a9"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "dd40d6e5d75bdaa95e25990a7266d1829d319c87cca884b257460b68c662162b"
+metafile = true
+
+[[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "c71f5ea51c681f5ddacbb4c64ea0b467499b370a9e32b5164d97236c8c29e4bc"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "ad12a513443b8826036a9dcd267ce6beefec7538b35beb7ab78a5bfe0e05cb87"
 metafile = true
@@ -3634,6 +3664,16 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "d9c6600d4cac0f8d14c08aa8a523fac36ad9a9e45bab925cb4df685a2df80e2c"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "d915c31f85d2d02bb621831a8a733b36ef0e7379303ce8fda6ca1d6baabdd8cb"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "8146860e9582a3afffdacfc4ec5a39afe1c12dc83e4a61db60213ae324f2144a"
 metafile = true
 
 [[files]]
