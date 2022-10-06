@@ -3023,7 +3023,7 @@ hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
 
 [[files]]
-file = "kubejs/startup/add_tags.js"
+file = "kubejs/startup_scripts/add_tags.js"
 hash = "c5e0b1c539bf06e6f4d9914080e5dd9a2970ded916b31d0614e5f74a57a9683f"
 
 [[files]]
