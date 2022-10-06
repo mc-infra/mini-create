@@ -3023,6 +3023,10 @@ hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
 
 [[files]]
+file = "kubejs/startup/add_tags.js"
+hash = "c5e0b1c539bf06e6f4d9914080e5dd9a2970ded916b31d0614e5f74a57a9683f"
+
+[[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "a1274aaf3634c46fcad05b7ccb28d999a56510f8b87f0265f484e37ea59fb339"
 metafile = true
@@ -3433,6 +3437,11 @@ hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "3825b49cf49a63a8aa144f2b164e40332e259b9d7af2812837d274b0c1e88da5"
+metafile = true
+
+[[files]]
 file = "mods/load-my-resources-forge.pw.toml"
 hash = "2d901201eba3eaa205513eccd6a314f9042c5d664902b4447c0b47a639f3eb7e"
 metafile = true
@@ -3575,6 +3584,11 @@ metafile = true
 [[files]]
 file = "mods/reliquary-v1-3.pw.toml"
 hash = "cb22106c50af08e7c68b9fe376a42dc8321a415b71d18b565d8cf4fa31ab668b"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "afc003a7bbb6e2398295b0795e8f186244a0f6524c636966f98800ba76951987"
 metafile = true
 
 [[files]]
