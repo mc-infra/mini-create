@@ -2978,11 +2978,6 @@ hash = "e85e6322ec6ff40d9153180133ea599d78a3fa50e76daeb4cdd08c8035849452"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/better-dogs.pw.toml"
-hash = "3cfc4e30d157534e887fff53d8bb8dc40fe01b68fd120b4e70bc4c223cad54af"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/chipped-create-compatibility.pw.toml"
 hash = "b401e115eddc52d867910df2b5e961950ca1333ac21e1ce2f9ce2906101afbf8"
 metafile = true
