@@ -3127,6 +3127,11 @@ hash = "71716e8cd766416727f596ac6763694d3437e7f0847bb6ed4a912494187542f8"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "6dcbc7105f5eafa1177d9a4e541e97bf4c735700dfcf2b9b77fc56ac5a6abb43"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "7bb9cd89e5d72e9adbc6d9a2b1bc1b7018dcb59d1a59425b983a4b8f71e640e8"
 metafile = true
@@ -3367,8 +3372,18 @@ hash = "13c17c79bd639bd2f3fed48718334bee63a6a0c35b710435a9ff112269f96251"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "155f7a0c4a8743e15f9ca63597897e8a7ae34ec31b6d09c43903050f768cf425"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
+metafile = true
+
+[[files]]
+file = "mods/framed-compacting-drawers.pw.toml"
+hash = "ddb1881d28a062ed49bf5c765f72c3a5b51dc743c54ba7ee6f090255b42c4d54"
 metafile = true
 
 [[files]]
@@ -3394,6 +3409,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "70c41994b7feae13abea404ea3920734f19c86ee5d3098a70eab4156b54ccba9"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "7a8cc90cec26c448c64f66f743b53e3fde4c999b81a7905d227b08f32699debf"
 metafile = true
 
 [[files]]
@@ -3542,6 +3562,11 @@ hash = "1fa6f375592534d025646f3f80a8246f89ba4c0556b49fa390809ee6f1b50e35"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "269a3b3653fbb318d2e65c4c6ee8af89e8fadad1ab226462883c5c96b4bd4813"
+metafile = true
+
+[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "c426e7b9050015f772115e73d6ba555274e63196961fceda002478c40c2addd2"
 metafile = true
@@ -3569,6 +3594,16 @@ metafile = true
 [[files]]
 file = "mods/reblured.pw.toml"
 hash = "325f45b8a930daa729880b5378442de8f8d130da1f029cdd1eeb9a3c64b0f745"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "76c979281f6f7b7ad2ad42f362184b2d52beb73e2a17bfe4a0eedcb1a684a098"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "f4dd31eca256854a1ce41046bf50985b06cca9a1c1d4a283e62a05a4dc7fccbe"
 metafile = true
 
 [[files]]
@@ -3607,6 +3642,11 @@ hash = "89339174b49429b991f3da08eb26ed26511ce1486f8b856f1704e0bdcf12ec13"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "066c3ee1fddec24f821b837eca11386b0ff7dcf42e56d405dcd3292a4e923f3b"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "1068336c1833c89b64353443acdc52fa0b7b1e1aabc80dddf0ff8792c5f5ac1b"
 metafile = true
@@ -3639,6 +3679,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "739454bd61eea30e381d93ae474b9ab984ae718593d91fb19e5d4fab347fc530"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
 metafile = true
 
 [[files]]
