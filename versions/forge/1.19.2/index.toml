@@ -3573,7 +3573,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "269a3b3653fbb318d2e65c4c6ee8af89e8fadad1ab226462883c5c96b4bd4813"
+hash = "c27f1f53e7f038741890700438136512fbcc35f7ec603cfe7d6a16b7788a5529"
 metafile = true
 
 [[files]]
@@ -3653,7 +3653,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "066c3ee1fddec24f821b837eca11386b0ff7dcf42e56d405dcd3292a4e923f3b"
+hash = "d650e3c7664e4d19863a7d453bf762e1ace553d358e00a0031df58ab008c35d1"
 metafile = true
 
 [[files]]
