@@ -3332,6 +3332,11 @@ hash = "64e919364086f659b6b9ab8a14c42ab4c76139d100d934971f88d9deb3b4ccc2"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "37485a01521c01af065be0004bf50ca562e6968e183dd41ccb6800457065af19"
 metafile = true
@@ -3339,6 +3344,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2862eaffcb20700cd2036e54339c94e49776c929dd5e46ec338b142bccce4788"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "768046ac7c4b9119e1b5fcd7428f0feaa6a709a6e9b3e16694b1accd6cc5dcb4"
 metafile = true
 
 [[files]]
