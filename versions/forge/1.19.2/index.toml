@@ -3682,7 +3682,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
-hash = "672abef0a227961223b2f2e2d1508028c7ad2993b570adc71555f37d9be4ddc4"
+hash = "12d4ae23722678e62c09918773b9dea4ea57984b5ff4b5ad7d1a65604876f92b"
 metafile = true
 
 [[files]]
