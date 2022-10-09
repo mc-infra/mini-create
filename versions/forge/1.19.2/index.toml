@@ -3185,11 +3185,6 @@ hash = "6207006280fbdff86b69edf459d4c4fc4ae03363bdc433aa091b4c4eed544f8b"
 metafile = true
 
 [[files]]
-file = "mods/botania.pw.toml"
-hash = "d2ec3ec47fa1e72c4e963296aec425d8134c61f3d7b9b4677545c8d2a035a4b9"
-metafile = true
-
-[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "b74ff52e402ba1100d009746b4e6cd499ec6a68491bb73eed71569df839cc8c1"
 metafile = true
