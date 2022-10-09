@@ -1,0 +1,7 @@
+name = "botania"
+filename = "Botania-1.19.2-436-SNAPSHOT.jar"
+
+[download]
+url = "https://github.com/mc-infra/mini-create/releases/download/v1.0.0-survival/Botania-1.19.2-436-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "3e2890e87367a3d509a170b09560c55e2b6e3397"
