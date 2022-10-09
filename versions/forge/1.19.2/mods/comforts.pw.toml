@@ -1,13 +1,13 @@
 name = "Comforts (Forge)"
-filename = "comforts-forge-6.0.1+1.19.2.jar"
+filename = "comforts-forge-6.0.2+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1e72462bd1e780482b1d6686009574651d8f3283"
+hash = "5b8d185e6e72d27c77bc2620ed899458d2d9c218"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3995072
+file-id = 4019558
 project-id = 276951
