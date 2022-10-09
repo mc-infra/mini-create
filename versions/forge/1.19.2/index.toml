@@ -3415,6 +3415,11 @@ hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
 metafile = true
 
 [[files]]
+file = "mods/framed-compacting-drawers.pw.toml"
+hash = "559e4f32fee8787c2090ef18a8074582a3a3e5c5c62033b412ccfc0db8e541fa"
+metafile = true
+
+[[files]]
 file = "mods/framed-compacting-drawers.pw.toml.todo"
 hash = "ddb1881d28a062ed49bf5c765f72c3a5b51dc743c54ba7ee6f090255b42c4d54"
 
@@ -3676,6 +3681,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "d9c6600d4cac0f8d14c08aa8a523fac36ad9a9e45bab925cb4df685a2df80e2c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "672abef0a227961223b2f2e2d1508028c7ad2993b570adc71555f37d9be4ddc4"
 metafile = true
 
 [[files]]
