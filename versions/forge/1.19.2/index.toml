@@ -3449,9 +3449,8 @@ hash = "70c41994b7feae13abea404ea3920734f19c86ee5d3098a70eab4156b54ccba9"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
+file = "mods/immersive-engineering.pw.toml.disabled"
 hash = "7a8cc90cec26c448c64f66f743b53e3fde4c999b81a7905d227b08f32699debf"
-metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
@@ -3489,9 +3488,8 @@ hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
+file = "mods/kubejs.pw.toml.disabled"
 hash = "82a2dadd6a885fd9d86612f978bdca2f5ad07482c2ea2a16e54c7e6b5040cb6b"
-metafile = true
 
 [[files]]
 file = "mods/load-my-resources-forge.pw.toml"
@@ -3664,9 +3662,8 @@ hash = "cb22106c50af08e7c68b9fe376a42dc8321a415b71d18b565d8cf4fa31ab668b"
 metafile = true
 
 [[files]]
-file = "mods/rhino.pw.toml"
+file = "mods/rhino.pw.toml.disabled"
 hash = "afc003a7bbb6e2398295b0795e8f186244a0f6524c636966f98800ba76951987"
-metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
