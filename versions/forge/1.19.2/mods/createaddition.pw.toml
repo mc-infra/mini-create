@@ -1,0 +1,7 @@
+name = "createaddition"
+filename = "createaddition-1.19.2-20221008a.jar"
+
+[download]
+url = "https://github.com/mc-infra/mini-create/releases/download/v1.0.0-survival/createaddition-1.19.2-20221008a.jar"
+hash-format = "sha1"
+hash = "e684b75c020df649bfefd61ea05b66f2284ce50c"
