@@ -3420,10 +3420,6 @@ hash = "559e4f32fee8787c2090ef18a8074582a3a3e5c5c62033b412ccfc0db8e541fa"
 metafile = true
 
 [[files]]
-file = "mods/framed-compacting-drawers.pw.toml.todo"
-hash = "ddb1881d28a062ed49bf5c765f72c3a5b51dc743c54ba7ee6f090255b42c4d54"
-
-[[files]]
 file = "mods/furnish.pw.toml"
 hash = "48405d387335052117426635eb2ed4e327f7f3bb1d8e3bd9d180e86cda0dde1f"
 metafile = true
