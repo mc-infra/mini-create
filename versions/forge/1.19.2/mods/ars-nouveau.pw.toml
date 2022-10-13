@@ -1,13 +1,13 @@
 name = "Ars Nouveau"
-filename = "ars_nouveau-1.19.2-3.4.1.jar"
+filename = "ars_nouveau-1.19.2-3.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "86a2f2126b4975efd105341355e065a17273ae6c"
+hash = "3544ce5af0297596832fd2db7a84f93bdc2bdfaa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4020432
+file-id = 4023830
 project-id = 401955
