@@ -2973,12 +2973,164 @@ file = "config/openloader/.cache"
 hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
 [[files]]
-file = "config/openloader/data/BOs-Lobby-main.zip"
-hash = "1bdbee46ae972a41310d534f40113ee3ece0a970f319b18615fb426248212177"
-
-[[files]]
 file = "config/openloader/data/When_Dungeons_Arise.zip"
 hash = "78d76280e5c08ad3931845368359cee3fbac26ec25bb3e019a46e6ecaf8788d9"
+
+[[files]]
+file = "config/openloader/data/custom/assets/lobby/lang/de_de.json"
+hash = "de782591805813aab27610bfa8c8cf644fc38cf5e608e76527960032fed84f16"
+
+[[files]]
+file = "config/openloader/data/custom/assets/lobby/lang/en_us.json"
+hash = "b126ce61084280fe527930cbc993ec91b92d4a4820b64f28a13234bb106dc67f"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension/fishing_dimension.json"
+hash = "67b7d2071ff19c558d47c6466e752d5b1443f5f53c4d3b96d0998d01563aeed0"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension/gaming_dimension.json"
+hash = "480393d0a241939216a922bc75c35f4d3cd76acfcb6017ae53f5214e128b31ee"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension/lobby_dimension.json"
+hash = "340f8e6d170766df6be604afcec2e91b211bba84146ebfb77d26ee0efda265d1"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension/mining_dimension.json"
+hash = "570afaa6e7983d6fe1097bf27250dfea210d7e25aaa9a2ea025b6457b4dce659"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension/void_dimension.json"
+hash = "f30e31c7eb1b0d3078b5d58ddea5272b87c6e740deba547e6c43b7ff69c738a8"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension_type/fishing_dimension.json"
+hash = "411841679ecc2fc4ddf88db3f3046d165ba70448d57f033c94e26b935fe51791"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension_type/gaming_dimension.json"
+hash = "d3b4eb01f9b7d0b2514ddab5a60b511bab0e481cb3e90b4fdd2ae6a1f57e5bf6"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension_type/lobby_dimension.json"
+hash = "f1ce50195c3e2c0be9f7e1d622db0ed8f0f4bf56c389e6a56959b5f47b31cdb0"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension_type/mining_dimension.json"
+hash = "e024228a8079892ba1659bf46fd3fa8d655f43d366bc1c45ace1298219bc2710"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/dimension_type/void_dimension.json"
+hash = "e4f18ab5931ad0de2a3e6e89f92e3924d9e6f91b38d15d5ecc686f6c40265273"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/functions/fishing_dimension_load.mcfunction"
+hash = "e9975334b2938ab4e0a081e2224f4722e60543b8247f783a922a3a37663e9861"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/functions/gaming_dimension_load.mcfunction"
+hash = "c48071a6dcf2cab67feff60ebcee633f323a1789f832819a8912852fd11a5980"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/functions/lobby_dimension_load.mcfunction"
+hash = "184b9caec001fadc991d17a714f4d8ed8deb20ff2b11065df88abb825ca384f1"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/functions/mining_dimension_load.mcfunction"
+hash = "609c4ab724c672c317fbafa4004e4abf527f97dcf39997305310030169c8649c"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/functions/void_dimension_load.mcfunction"
+hash = "47251ae8f5496dba151c29137654c2a5d00aec90b097595826963a10d62cdd62"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/fishing/fishing_base_ship.nbt"
+hash = "999bdc09e931c9ef5d3ce70dd1006958b22adcce387a1248ea7126e0160a4b86"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/fishing/fishing_base_taverne.nbt"
+hash = "c00bcbb3ce754561af356a736124f8e6d7273090596f9be223756050017b352b"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_berg.nbt"
+hash = "33671670c2cfa45f94e95b5f9cee4254e2a7156a14263f1b31faa5706265489d"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_blossom_tree.nbt"
+hash = "3c342eac93b602a78d84f7bdeb646b0894684d5f65c2e3794a25b367c4fb7f19"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_flower.nbt"
+hash = "9de600fea43712be206a8100345c20a1047f7c6588c389432d2aa4e7b63bf609"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_flower_2.nbt"
+hash = "8b75148425232f1a9778bd6dd62784f2d430c90cf08d2f6931d7fd53cf93e5af"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_flower_3.nbt"
+hash = "e1695686d21a3a07b29fdada0416f1dcde32c3b00e9c680f46c3052eab1237be"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_forest.nbt"
+hash = "07c3ac3b159335822d6d72ec608a6b715ad110a395b7f881e3ccaff418b65346"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_forest_mid.nbt"
+hash = "e307c001cc81c7c96e447229d9f809ec682c127532ad56b070ee8511c7efc078"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_garden.nbt"
+hash = "790bdf4a9433abb83ba5c1879903a83f03aff0ba2515ff71e375baf2eee8a6fa"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/lobby/lobby_base_taverne.nbt"
+hash = "fffa0eaa62b0260c309f312214e55bfcf4115782ba64a9f7e109d7883b0f488f"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/mining/mining_base.nbt"
+hash = "c9d1c0b85519d96797bf3fb8eccfef6ec253745bcafefbe6f1233d9e452ceab2"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/structures/misc/start_platform.nbt"
+hash = "c8f5d59789a87c4db5a1e6af304a512757a6c41edb37b8f1066f13f9c6cd40a1"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/worldgen/biome/biome_fishing.json"
+hash = "aafef557c3779671c041943c8f322e20a0f8a8c753898c52fa6dd9f0df87fa1b"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/worldgen/biome/biome_gaming.json"
+hash = "392f7373ac39a6dae61edfcc0f2afd688a8b0b613290bbd88b489d318d20b31c"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/worldgen/biome/biome_lobby.json"
+hash = "392f7373ac39a6dae61edfcc0f2afd688a8b0b613290bbd88b489d318d20b31c"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/worldgen/biome/biome_void.json"
+hash = "392f7373ac39a6dae61edfcc0f2afd688a8b0b613290bbd88b489d318d20b31c"
+
+[[files]]
+file = "config/openloader/data/custom/data/lobby/worldgen/noise_settings/mining.json"
+hash = "b2838fa32267ec6de037961dad7124aefd7856b753079948dfbb53735dfd1d8b"
+
+[[files]]
+file = "config/openloader/data/custom/data/minecraft/tags/blocks/mineable/pickaxe.json"
+hash = "436aa5db33d028f71addd44a238f83c4807d71ab101ada792cf3f2ad54f80788"
+
+[[files]]
+file = "config/openloader/data/custom/data/minecraft/tags/blocks/needs_iron_tool.json"
+hash = "436aa5db33d028f71addd44a238f83c4807d71ab101ada792cf3f2ad54f80788"
+
+[[files]]
+file = "config/openloader/data/custom/logo.png"
+hash = "272f1c4b45999e18ffc9c14775fdcc8a80053bb715155ca8d723dd12e0ff05ae"
+
+[[files]]
+file = "config/openloader/data/custom/pack.mcmeta"
+hash = "554ed20fe3298fe4ab68eb90a6b70766f7e63f00ba9f33d478080d2cdc0dd0b1"
 
 [[files]]
 file = "config/openloader/data/idas-bop.pw.toml"

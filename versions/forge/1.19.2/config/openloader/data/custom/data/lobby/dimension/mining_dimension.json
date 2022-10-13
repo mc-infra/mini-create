@@ -1,0 +1,11 @@
+{
+  "type": "lobby:mining_dimension",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "lobby:mining",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "preset": "minecraft:overworld"
+    }
+  }
+}
