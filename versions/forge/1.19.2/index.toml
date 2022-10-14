@@ -1,6 +1,1278 @@
 hash-format = "sha256"
 
 [[files]]
+file = "blueprints/fantasy/agriculture/horticulture/composter1.blueprint"
+hash = "4593e3a37809591776000556f4aed69b1811236161b28cbacdfe24faa5a409f8"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/composter2.blueprint"
+hash = "3f8f9049acc2485738e8bbc707f1fe110bbcade14e40bc9b9b49369ac3e51173"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/composter3.blueprint"
+hash = "b96f7d6500df7eabd75054c8546e174758bc8fd4a6019cb1efe18299881d6ed8"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/composter4.blueprint"
+hash = "9d2e986cc053d41638f35d896ed6acde0756f9df50fdd8b4857122809938a369"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/composter5.blueprint"
+hash = "42e58fddefa8e80e596b9303a85a531a969c58ccbd774cdfbe0f4168b2a32a9d"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmer1.blueprint"
+hash = "f7aceaad08c047784753ebf9474154da13fee3bb498165ee1023db17972a44b2"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmer2.blueprint"
+hash = "7cea8b35162c5a8ec31c6dd9d093f21db49498f9e72f6968bef27e5446cdcfcc"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmer3.blueprint"
+hash = "c98fb5088326ffd70ea5c41036eed06a003119950c34a4b17bd6be576fb8376f"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmer4.blueprint"
+hash = "8fe3f6460ad5c3a62ad5145498807fd522b4d0088a77a23ae500d6e3c0140191"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmer5.blueprint"
+hash = "f228fbe9dd8434efa7460a9a234c9a32e8019d53253f9bd1baa694ae4c517a08"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/florist1.blueprint"
+hash = "4deab0fd655599b868f459d0409fb582b0e2ea25283780d6486e9c2a5d343b1a"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/florist2.blueprint"
+hash = "be628f4f9d86e026b8ff4f2c4ee64ebe82d4211b91f223a2fdc0f9ed1634ba3d"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/florist3.blueprint"
+hash = "de48bcf770db0be29fdd60cd6b6159f45b8bd93f3efa5508a68dd48ce1a1c61e"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/florist4.blueprint"
+hash = "3c139e0fe97ddf1c690cb0defd3d6ab321839f481433bbc430ab1add0e82ba52"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/florist5.blueprint"
+hash = "9e68bac192212512bd22289be56bf06cee507319c6bc28c2f24c65f10104534c"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/plantation1.blueprint"
+hash = "f8a69fe6bf152bdb896cfe551c1d1939fa918097503606035c3fe8f4b0fc314d"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/plantation2.blueprint"
+hash = "4669479827f35ae774ef1f22d5f1cf5dfd70f745e9111897d12bdc300f2c7e59"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/plantation3.blueprint"
+hash = "b905a69dccc3f76a1962f332fb7c25beb5c3d41c0cb5edc021f97b934b494e39"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/plantation4.blueprint"
+hash = "9ae9f69b903d33b66020f2269969d5360088508600354a5fe1fcb6a263936462"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/plantation5.blueprint"
+hash = "765f0f8df3a907ba70e2540b3e785c44ffabfa7ba95564b969d79811448a91e4"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/beekeeper1.blueprint"
+hash = "57866fd86d95edab0b92a747c5a7b0109a6b56b58b42674ff7480f2e3f6e36ac"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/beekeeper2.blueprint"
+hash = "fc63b455a0534b92ca251c1a0608a41d9290d3222ba7fde83be27146d5b36706"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/beekeeper3.blueprint"
+hash = "e857ba063b8aa3724ce96d793b03b2e201a77265a27d1432729369e748e183e3"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/beekeeper4.blueprint"
+hash = "d37be61e7bed09021d43cf44091c9f8dde7e0a22adb002f579401473b170934e"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/beekeeper5.blueprint"
+hash = "4739a1c60729061e23586afbea9cef7c4aae1834a72963a0d665ccd51e2f4a45"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/chickenherder1.blueprint"
+hash = "87683e9865b1070dbeca3542faf439c3791bdee167cb9858870aaee73e5df46a"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/chickenherder2.blueprint"
+hash = "5a374972f8cba9306b9ae18de54947ec5545fe5edb13fbde67c1030704251a5d"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/chickenherder3.blueprint"
+hash = "708e05843ee062423b31816ca976c3f721cfa54a8eb50746cd493d75daed9d61"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/chickenherder4.blueprint"
+hash = "214ee33a1b63f39612762237a94f6f909b9537b4b28345cf7956a91b1db31c79"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/chickenherder5.blueprint"
+hash = "f489ffe78113634a9978ccd8f9b0c9d6d542fa0ab5591b66835c0c31155ba58f"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/cowboy1.blueprint"
+hash = "2b3c2c0660c51c757e88fccca1aa90f496eb194a3e1e32951701d29cf6a767a7"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/cowboy2.blueprint"
+hash = "f115bb3cc37421fcab9eb31ba7e534f7040aedd28e142455d9e4bccab7e26252"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/cowboy3.blueprint"
+hash = "0eac3840d0e30a98f0c8876aa29eb4fe8e55945b2f4aa5240f4f88fe2d784ccb"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/cowboy4.blueprint"
+hash = "bcaf8cea8cd0f6a7f9a9ea8315b04ea6b7960a5b1d5801d0bae209b3e05eb6b4"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/cowboy5.blueprint"
+hash = "03067cf1a62c5b46db70a604d3ee9c793c38950036d2e411c38e859ef113a48f"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/fisherman1.blueprint"
+hash = "ab59b141dada3c818685c7220c406bd2f7ce64cc9833a5999b7c8083deeb5b8c"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/fisherman2.blueprint"
+hash = "ec759ad62fd488a4fa6ec070954f775884915e7fbcdc9eef36336a0410e9add7"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/fisherman3.blueprint"
+hash = "7553eea69cf684182297bd2bf4787298cb7f44dbc2b751ceb6279826a39c5ad5"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/fisherman4.blueprint"
+hash = "c6a46a4a78995ad6ad8fa0c5e799cb6b70abb7fc4ec2383d95f6eda42d379d21"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/fisherman5.blueprint"
+hash = "fe692a7020373121c691d68e6af3a7242ca50d5eb5f3ab700fd645db1ec2cd3c"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/rabbithutch1.blueprint"
+hash = "a10adae2ccead3b8ec6d5ddf19a5862fb608f2764b524f5a2f57227f686a8370"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/rabbithutch2.blueprint"
+hash = "ede6c67160f9ae552ed819bae6714d933ae3889cf4c9446042b105ba06291a8d"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/rabbithutch3.blueprint"
+hash = "1c52cde5e275cd911611bb8e9ae5a55af86239f9d1f140c584365de949bb9c34"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/rabbithutch4.blueprint"
+hash = "b6b5d0f57f5a9db827950b23c8dd489e2599a52b3ccd24a000f11cac1568efd5"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/rabbithutch5.blueprint"
+hash = "4fa6de698bbee438479248c8c5f995d3f87c2c93453edee92bebf4fb0272c65c"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/shepherd1.blueprint"
+hash = "a44f74cdf259ae921051cd1cc8516cb194fa12721bd4d5ca443902cc764830ae"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/shepherd2.blueprint"
+hash = "8ac3b4483ea7322f0c8bb5b9583822a2291b4683debcb8dc7eeefbdfc3b85494"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/shepherd3.blueprint"
+hash = "63e7630c6538db2bef771c41cdf2f958f2983dea8aabe25ba0296bb09529ccc9"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/shepherd4.blueprint"
+hash = "06cdf53ee165b10939b40e001d6321450ea6606be4141a919721ce68fdae4bc9"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/shepherd5.blueprint"
+hash = "d97eee6368e23b4889bb07c6ba0622d17b0d03d73a7b152aa6206111e2c98fe8"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/swineherder1.blueprint"
+hash = "45a70a261fb7aba0ef811ee0952c84caaa145712aae5f3c7b760403690adab43"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/swineherder2.blueprint"
+hash = "8950f8c9b1d1aa429391e135a0a4e3bb8f6446148095104bdd5c09593a7fa043"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/swineherder3.blueprint"
+hash = "dfb769abc6c08c80231a11c42a4a2f030266a5ed8efc1a22e1f16e402935a42f"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/swineherder4.blueprint"
+hash = "90796f387e04fdae6c627fa219e5f295be272710fda21943abe9922c2d29303d"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/husbandry/swineherder5.blueprint"
+hash = "fca6496c60ddea339571b0b3e030ac1e53896b1e79a8b0a9778977d02028d3a7"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/icon.png"
+hash = "7dd0649de9717a42a025130973908be941585051861435da18c1bb97bfc21007"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/icon_disabled.png"
+hash = "6b33c59069e5f2c4571c9c4b1987a63dce2de16179bdc40398a789d2fc5a258a"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/fletcher1.blueprint"
+hash = "b4d026748dd63414d4d59a341860fcfc299bb9024d9b434684da4ef4028f76b9"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/fletcher2.blueprint"
+hash = "22b145800d566b35c7683ca2d0a90c313a3f56a54dbcadca0ab903731c1c7920"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/fletcher3.blueprint"
+hash = "084135fc38a93f771b9bc4c79386b6542d6b0eeaf6274a5afd1b2a0130fc3840"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/fletcher4.blueprint"
+hash = "e13fac3a85a7ee7c2e3ee48f2ea6ee44d86bf81697ae82e45fb6e1513693ba9d"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/fletcher5.blueprint"
+hash = "a4cd7b77dafadd70f2db121865d6c725bf3354f1f637b399dc709e9e1fab374b"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/sawmill1.blueprint"
+hash = "ef40400b0b89b9581156e1ae82472a7e6119e640b2a49adee6a084af185e0f7d"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/sawmill2.blueprint"
+hash = "6429ab120a7028bf4bc5ce349a874c56d8e3471b1fa40f71d6d847b513f7d674"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/sawmill3.blueprint"
+hash = "5526763f544b3e9a5f4ad84fc59f23cf2cf747b3e65388c2f3b562b5b89906e9"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/sawmill4.blueprint"
+hash = "7b3211ec8aa992fff6eb7700bfc6ac2b80290be851c8664aa5f8237a476a955a"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/carpentry/sawmill5.blueprint"
+hash = "748af565bedf40d5fdfb190e032554d1ee392bb2a1c14b595f6b6f4d224efbcf"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/icon.png"
+hash = "4ccf1f5b433161cae668912850d689491e6d94fa606a5866a18bfb684dc73604"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/icon_disabled.png"
+hash = "2ec5cbad1bd3e78815ac20bd6e5d0d35c86b23292ec4ca0e08899aa4b6e52cf5"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/baker1.blueprint"
+hash = "27664a7c68f3d815f8abf3784011b3f290b6680c16bec46924271afa3c0de88c"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/baker2.blueprint"
+hash = "f8a8d62910e2b127122bb8ed0c810adabc8a2b196d4d174b192a711db3781215"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/baker3.blueprint"
+hash = "1aacd099554b8a462c43cf9e252d0c69ceb1f944b560660a86c59d5e8e64eb96"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/baker4.blueprint"
+hash = "134bff54787f74659cdd3eb22eaf007e416e9358b81d20fd519677bf9d83452e"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/baker5.blueprint"
+hash = "131d9b2c247acdef74ba30ae3d80e2dc6f219af226e258b7379e3ce754099c42"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/concretemixer1.blueprint"
+hash = "fd59cdcc4c7d430e4c2b5cbf13c865ac38333028de5673903121fe3405f38b2f"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/concretemixer2.blueprint"
+hash = "6fc1d9cdcfc845df4849c066eaa1be2d91ba945484e122197286896262a8ab93"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/concretemixer3.blueprint"
+hash = "61ee72f824c7293505dd894a18c18d1094f7f7dfee47ce64dce0b1f0c64cc0ea"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/concretemixer4.blueprint"
+hash = "522ff6bb7902c7fbb242081793e4e1d8305f3efcdb6c032075d1ba7316fdd567"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/concretemixer5.blueprint"
+hash = "ea64d25147dac68e70d91715c5a6b56d6cb9bc4f1494f4a29119573692c6ce19"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/dyer1.blueprint"
+hash = "6d2fdfcc468a91ca39fc52d4fb66b569b818754b7a87e5431fb628de1fddcb40"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/dyer2.blueprint"
+hash = "07b6b026946d3f79991add86c322f4a3dd51f508d211fe75ac91617d33e63f2b"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/dyer3.blueprint"
+hash = "85e9ccf72c2133ba959c3ccf7f9cb72672c30abc3e6ab7d42a0a97ce50cdf82e"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/dyer4.blueprint"
+hash = "4f832f18c9424474ba51a5524a9465beb40587ec45d4b5be5548071b031952a1"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/dyer5.blueprint"
+hash = "cc0fa1f79e1c3b0ed2abc213ac52817486661213439ddc606e81abd08e36c13e"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/glassblower1.blueprint"
+hash = "cb1ccfe7ee6a0e587437d8c61166fb6f91cc2df831af2b1199ff445cfbb575f3"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/glassblower2.blueprint"
+hash = "6135a95736de5fac708733821152672e3e7be9faebe75dd23ec3e94d1c6d3327"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/glassblower3.blueprint"
+hash = "a0ed2bb5c59d39a05d2e67ce29af8d79184243b1263d739a40723324bd93d16e"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/glassblower4.blueprint"
+hash = "8f58670b4a9e4741be480c40a3abf8f97fc247e1c95cd8e8a6e4fdd9a6fa5c3c"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/luxury/glassblower5.blueprint"
+hash = "450d93bb54108edf998776da5421d8e42047fbc5a8a167ff6469b3569bfa5c69"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/crusher1.blueprint"
+hash = "e7da60a963129ccd37c7fd184ff7a2e01dbdb9a07da92c9ae45b70537bc20d91"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/crusher2.blueprint"
+hash = "113a7704d7e71274cb92a3d4f2a82e779d4e679bf252ca6039cc3bbb43c27658"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/crusher3.blueprint"
+hash = "259555e59959fb381b4307e6e024afd1903c0687fb8c968084f42437d9288040"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/crusher4.blueprint"
+hash = "0677de02b92181caba5417b9017c6c176a08191db356e11bb9391b47ac8c6141"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/crusher5.blueprint"
+hash = "fd2e530117f66265d026dedce6b6d841e4b1250be77778196aef97443e80b088"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/sifter1.blueprint"
+hash = "680100a4aa3dec8d2a11384d479438e91c867f854902abc6af7d1b91bc5e6a2c"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/sifter2.blueprint"
+hash = "e7cdcba8fd89251edf8fb4974718a34b1c7bd6818a47c7eaf9978fc99e318683"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/sifter3.blueprint"
+hash = "437e1720f1edaf83dbafad9c4ded95f6622879b5ae56cf144a580c40384c89df"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/sifter4.blueprint"
+hash = "20fe1f3a00c4c55bda491b673469abc4b389bfd48df9f7726fdc5c40e500aee7"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/sifter5.blueprint"
+hash = "c80276d9dde33e91de9cae093e725c1acdc3aa7339ea9366312cbcd66eb9eb80"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonemason1.blueprint"
+hash = "fb29c0a40da6c92b266e9a9145c820cb55b71ab13d66f090279095d691d41136"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonemason2.blueprint"
+hash = "4936544f693155631c0cbc38065d328423a76c361a3cd4c78fbaff6becc03a02"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonemason3.blueprint"
+hash = "7baba6c996e96e2e095eeb5822f7f251f26030e8f328ad77586012ce39c3d68b"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonemason4.blueprint"
+hash = "288e25d3487873ec1a1c300e6127848e1337dba4f019ccfe81a137ad6083529a"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonemason5.blueprint"
+hash = "a1f24d6e40e48746bd400adbd4d00ac9771f35fdc67c7671b819cc22dbfdfbf8"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonesmeltery1.blueprint"
+hash = "e99e0eaa64bd79395629d1b9ee6a0b9c143f2c85aadec9c63ba43295ded8b045"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonesmeltery2.blueprint"
+hash = "5db8657d2cb55615d68ea886daf32c471267ca65893627f7f7ed9f550ddd04e0"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonesmeltery3.blueprint"
+hash = "8ce0441ddf70ec26a270cd84538e4aaf9ab8d93b0994db5e9cd0d44153919689"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonesmeltery4.blueprint"
+hash = "ad73fd614d85910d63e7668ac073ddccbe2b1341294477426da5b39804ca332d"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/masonry/stonesmeltery5.blueprint"
+hash = "41941ab749168e1c54337c1b857fce992daae506bab4eae307c57cdebef9e02c"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/blacksmith1.blueprint"
+hash = "58fc17ad31123d3fd91bf4e7e583903fe09972683f8b1b53498afc672bf8afd7"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/blacksmith2.blueprint"
+hash = "43fd8e1115295e04ea7b456050f81051198bb3e7e515b57fd018604aa7592111"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/blacksmith3.blueprint"
+hash = "d13a77fb65f625524f682b204ecb6080d8e10040d2dd7c371c8a73c56c88be7d"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/blacksmith4.blueprint"
+hash = "d91076f44c2616f697ef9fc41617989df35ca6b4aaf1006da53288dd349bf226"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/blacksmith5.blueprint"
+hash = "8e4ab5aa7b627dd72501cfa8d9f581b1e1432166ac136af6f09c9fb621fd2717"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/mechanic1.blueprint"
+hash = "e517ac6cfcadf7c8f32255b4517fd5d1c2fd4b35c2eee6d895bec356badb0d2e"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/mechanic2.blueprint"
+hash = "0d73b3617311e120b5a9d2c9d105c31ff35f567926ad74ea231189a122c7c7a2"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/mechanic3.blueprint"
+hash = "bd01c655f779108f26598bbd9d3c3727af40e2b5315cb5fec5b3581edc97be18"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/mechanic4.blueprint"
+hash = "8cd4c3b918ec0ba5565434dd0a9c4e411c76603c02a68e6f98fb97d1f7f990f9"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/mechanic5.blueprint"
+hash = "e853a8ea6f225ed35a038ea3ab1860976223cb537818ec33da32a1b79d9e4919"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/smeltery1.blueprint"
+hash = "6bab6adaa6a7334a34520bbd972908b8ef2ea4f01c21179aa2ee4f4b88016861"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/smeltery2.blueprint"
+hash = "c944b506388563bd645eeec1d1ddc30c1c62755ce59805f7a28185fddfc87f21"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/smeltery3.blueprint"
+hash = "07903d22154fb1681f5622585fab940fc968831e1748a0158e2e89a54a1c70ca"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/smeltery4.blueprint"
+hash = "a0d7d53a1aed29d348b5bbdd414038d953c48aaa47ea3cfd9d85136f8afdfdfc"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/metallurgy/smeltery5.blueprint"
+hash = "fd2931844c8e36ff283c919abe2bb4f59330be0badad894465e9bb616510be38"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliveryman1.blueprint"
+hash = "1148e8b864d0185c1ed48f32eb8094f104a1496b50c213aea4bc0086f8155ed6"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliveryman2.blueprint"
+hash = "e6be36f94ccc5c08b72738aa61014c77afbd8d1bcfe8e22a36af13827a1fd0f4"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliveryman3.blueprint"
+hash = "d93c3378fac700565a0b7053b6651cf2918f4e0b03914b8416b184a13ef4137c"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliveryman4.blueprint"
+hash = "bf9d5522610017230d774f4b2181b1c28eb9d25d0a1476123b9fe98dd6961f3f"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliveryman5.blueprint"
+hash = "0819aa9a38091ff2ffdd2bcb61feea12f44350a2b1e969377bf8401b44dd40d0"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/warehouse1.blueprint"
+hash = "bdb404e97713a8bd1b123a80872e753f039a7e744352b641104e8fbb81df2858"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/warehouse2.blueprint"
+hash = "98a30392b3709b6178c42fef500d43dd75a0f56a8dc27ada190488021696bc77"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/warehouse3.blueprint"
+hash = "2f053f6d569a3bbc34cdaee06e0a4fa47ecae400443f516c4e2036b031d726fc"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/warehouse4.blueprint"
+hash = "d801362dc6057ef32076c407b03ded54458f55f15720874da8199485771d9969"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/warehouse5.blueprint"
+hash = "e1889737e5e5b26dade3f9841dbc39ec57ef2b2e2c808c5e06d51bfabbde705d"
+
+[[files]]
+file = "blueprints/fantasy/decorations/icon.png"
+hash = "cebec3fdd01c40a39ae2dca1402df4c24e85f5f87fc7fdbab26c5daba290cf92"
+
+[[files]]
+file = "blueprints/fantasy/decorations/icon_disabled.png"
+hash = "0e5c592e0d6da953bafde34771dbcb10044799247be7d5639b640ab6c8c7ac81"
+
+[[files]]
+file = "blueprints/fantasy/decorations/supplies/supplycamp.blueprint"
+hash = "423dcf4f9a320eb775dfa8d244c38f794ddc9a42a8c353fddb11d81a31bef6bc"
+
+[[files]]
+file = "blueprints/fantasy/decorations/supplies/supplyship.blueprint"
+hash = "a1b6e15c49909ffb68c469a63d277ea065e5273dcef18659f3477bdfae21d087"
+
+[[files]]
+file = "blueprints/fantasy/education/icon.png"
+hash = "30aa66deab808b79cb2a56d91d0ad4c761ce4166272974f65627802772111f5d"
+
+[[files]]
+file = "blueprints/fantasy/education/icon_disabled.png"
+hash = "6b3151c49423334d21dc5928f5426c15079ca6ab6d7868080af8351cd9678e08"
+
+[[files]]
+file = "blueprints/fantasy/education/library1.blueprint"
+hash = "d2bdb2cca6a795b62d83a374405567f3ec88b1ed0effa90e46830439e70a8a8d"
+
+[[files]]
+file = "blueprints/fantasy/education/library2.blueprint"
+hash = "8ca33f0c5416304b16b0cadfa09bb7e90dc53b74e07b4484e07c4d509f70f469"
+
+[[files]]
+file = "blueprints/fantasy/education/library3.blueprint"
+hash = "b62a91a692c69b8cd93c908a3093663bb1854aebaeeaf7787c0dd02c1a9391cd"
+
+[[files]]
+file = "blueprints/fantasy/education/library4.blueprint"
+hash = "8723ed0ad92766da89bc050bf456fd88f419ff06612af08078672bc1e9be9fd6"
+
+[[files]]
+file = "blueprints/fantasy/education/library5.blueprint"
+hash = "b3c56e14522dae392350dfa71014795294a602a7bdc7db4df341fad2b3dceab6"
+
+[[files]]
+file = "blueprints/fantasy/education/school1.blueprint"
+hash = "c41c8987e08ca99177bead3c8adc284a0d0e54cff3fd6d4f78d59157e3a63bf5"
+
+[[files]]
+file = "blueprints/fantasy/education/school2.blueprint"
+hash = "15d9632a98db9f6c08a2e1e62f583d1eab1e2d866dc677cb203368eaa363f0fd"
+
+[[files]]
+file = "blueprints/fantasy/education/school3.blueprint"
+hash = "678996a375ac07da6bc77116a20c28cfcad9f23e5c65d7bb8359c1cedc718a8d"
+
+[[files]]
+file = "blueprints/fantasy/education/school4.blueprint"
+hash = "6fc88d7b014f07d4e8960d7bc6d0ea03eb42df2e0c99ee94fee90dc368c23daa"
+
+[[files]]
+file = "blueprints/fantasy/education/school5.blueprint"
+hash = "189f9eaef3c6e4d285926312f8dce88139173499eec866f5a59578cb70438f37"
+
+[[files]]
+file = "blueprints/fantasy/education/university1.blueprint"
+hash = "0280cb1bfb3831e5896b5f4053cea79e811b713f0bc6d67fb7a9ee00b7f8e14e"
+
+[[files]]
+file = "blueprints/fantasy/education/university2.blueprint"
+hash = "4e9f17725950794e2318bee0eea3a23ba624785db87b439279153c07da242da0"
+
+[[files]]
+file = "blueprints/fantasy/education/university3.blueprint"
+hash = "603a0dc55619c700e9a43289c3550ea94fa11843771b13f518ad7d42b2424273"
+
+[[files]]
+file = "blueprints/fantasy/education/university4.blueprint"
+hash = "67e76344a97d35627b8537ff2c743e3de4edbeee09490bb8f98277903a0c7e3d"
+
+[[files]]
+file = "blueprints/fantasy/education/university5.blueprint"
+hash = "6bb37d45f5fea77164bcdd25b28b9a1d461df24bd1f06d9b43ecf06fa6211efc"
+
+[[files]]
+file = "blueprints/fantasy/fantasy.png"
+hash = "911d311dddd1afd9a7d60f93332d5c368218ad06d17aa8f26844d50dc19cb246"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builder1.blueprint"
+hash = "e01af1272516a5f8665a88ee9a3750403ce410751c3ade1d45f2fe208a59f301"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builder2.blueprint"
+hash = "5e581a3c18b0e2d1db9c42efaccf6d8f84283f6386a99ee037051681d9773b4b"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builder3.blueprint"
+hash = "39ca221733b99b468345530de25b75f60a009d337ad471a0be6cc08ff4a66b84"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builder4.blueprint"
+hash = "a8cee3872346ee9a0282fb584d60f8bfdc9f859e3aeb575bdd8c099414ccb674"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builder5.blueprint"
+hash = "1c424cc2ca56892571097e7efd74d2606c112fbe350192a9c3e7088386972f47"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/cook1.blueprint"
+hash = "2d9eccacb22ceefeb1e74874d9c2f8c5651720570745ed3526adf85bd98188e5"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/cook2.blueprint"
+hash = "cafffbb9f705eca55e120961c90b31f28222a6f18aad1fc25fe4196d5b528659"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/cook3.blueprint"
+hash = "fec7212de887b69fb065a407afd4005de9d01c82a7a6d8d0c930181f5a343c50"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/cook4.blueprint"
+hash = "bd992e8371fd52978d0b8086693eb336858654b268a354df610883d8aea35a45"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/cook5.blueprint"
+hash = "1cdc2fa859271ed8abfe63ebe24201fd8fc048dbef6fd9073dbb7d895dc0553f"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/hospital1.blueprint"
+hash = "3df9d0f997bc8b6560f1faf12cb49eaef1e94276db03cdad3fbe3de895a20304"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/hospital2.blueprint"
+hash = "3f1a69606e06f0270a11c4d233bec69df5aa906c14ed4a93a9dd6f292e9bcf65"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/hospital3.blueprint"
+hash = "da017aef184d3063008e5cba843219171becec4939790b56b1d0a4aaf63fd906"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/hospital4.blueprint"
+hash = "fea121c792bf63caeae340c0cbc12db2591338c810732382848164633e98f581"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/hospital5.blueprint"
+hash = "15be44efc958afdee818e81be481f7ac2be0541132e7720ac04dea2837944cbb"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/icon.png"
+hash = "77ed177112d616b8f0b0804fb17047add496ef5b2dec522bc7c7830eb89fbeba"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/icon_disabled.png"
+hash = "0736041e8e8e157799bbf514da8c1c26f7b6bfcf27cd59ca8ba23c88155b94c1"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/lumberjack1.blueprint"
+hash = "d44ec67c51a0bab7879072a3116bfcdaf53c29355efbaf12b5b448c282afab57"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/lumberjack2.blueprint"
+hash = "9d0fb18b31b85acfcdb593d25bcd5545e34f67ac9d5081a27f06461809924628"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/lumberjack3.blueprint"
+hash = "1990e0204a5a463c928cd69b8c9c5c26da4ad976beb5817f92f6f040e9ccfdeb"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/lumberjack4.blueprint"
+hash = "d41628399b029a9c264e2db3b1796b99f3a7684a08c9799c75cdd7efd9098aa2"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/lumberjack5.blueprint"
+hash = "c6b44cec61a8c34320988a0fb3df093f0d7a7164b2d32cc3767e951201156eca"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/miner1.blueprint"
+hash = "2e58ebc5a262e924f6b913c831b5d75abdd27c8ee36737bc941d73649f33e03c"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/miner2.blueprint"
+hash = "10d3a11c07d244fd30cdb7bb0429d4a0e0d99dd6aef872007670bc4528d2bf52"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/miner3.blueprint"
+hash = "4a00b0f2478e6918d5a0753c98b95d5d675c000b17c5a166ed6d3f6a9040f125"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/miner4.blueprint"
+hash = "0c4e53664e9adc4b53009d2c6991b96a669d45c24b64df25d9ffaf67363650a0"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/miner5.blueprint"
+hash = "c010facf16cc52b4e847855afd7e2b1207853415dd1accb6b15ec2d9e88287f2"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/residence1.blueprint"
+hash = "4de04bb66c0014ce5a6a50f6bbc14c42609036cbfc9bb8ec10dff73f7569a526"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/residence2.blueprint"
+hash = "3b86f3a108219f49857b5e0d4765f063239e7c2f92d211e86c304d55545f91db"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/residence3.blueprint"
+hash = "a17797651cd55b6721e607d0c6c6fdbf5bbbf81069ccf01b96ada6657fadd5a7"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/residence4.blueprint"
+hash = "07a960e01949112b074efcb2d633a74f13c144744661cf276dbca3f769af3c63"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/residence5.blueprint"
+hash = "9f16b1084eaf5b76495e1553cee9a6e8ce55ecbfed4a72df76749f3cb7e12889"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/tavern1.blueprint"
+hash = "014e07fec17ba854ff1c1c5be32f2a25722db09777470de30bafe4589346d6fc"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/tavern2.blueprint"
+hash = "1f5b98d634fba2e1fcc7f878a31f6358e56604c466ace71cbef3758c35971e42"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/tavern3.blueprint"
+hash = "3056edaef8eef96d9056a170102802bcbb6ea98d0d37c370663158c87044f9fa"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/townhall1.blueprint"
+hash = "d63426db806b45d84951ce62a9b7c6b474b120ad770dbeed0abc52a88e980f8f"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/townhall2.blueprint"
+hash = "c8d00de7510996e8a9ab18cd9ab23c188cd0448e3009f3d257a73494b82612d8"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/townhall3.blueprint"
+hash = "2cadc2de35a0a3509e34e65b0741d2ff955d55ae7cbea021e8885bf35069c020"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/townhall4.blueprint"
+hash = "825c889baaa0d1501df524f017ca55c91af4861bc9933e7e6d4c771c903b9614"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/townhall5.blueprint"
+hash = "a28ab201ec05d7c08125724c314b126f49c1347a19964e398c76e70af8641c23"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/bridge/bridgeintersection.blueprint"
+hash = "3a38501e384ef1d85aaf5d53370c6b130a6f6d59cc138f3b60144d8a4b8a164d"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/bridge/bridgestairs.blueprint"
+hash = "a055edadfcdf53b5fc06d2972b63ced70563b71fc9285ff30a90af213017ddf8"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/bridge/bridgestraight.blueprint"
+hash = "017d28ec8590f68b5beeaad297892290497e128ce9e6ea55d33d930730440e33"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/fields/basicfield.blueprint"
+hash = "8a1aa76b57179205ff317d6b9171c171fb9b23279950f86706c8cd1004efcf9f"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/fields/fancyfield.blueprint"
+hash = "7bcced09b42d5eaf96473eaec26f4cecc57dcf57e7b4463ed0e5fef22e148d56"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/fields/largefield.blueprint"
+hash = "cb6a2082e659d9bdb61485ee8714b0a5891b13c7953f3296fbbf81e413ff9f6a"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/icon.png"
+hash = "69504b3453fb043d88c055b693e54df9a9c82441245211d67243ac46366a0c40"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/icon_disabled.png"
+hash = "da53f9b7bdb688294f24f32f9c4ebce0e5bc23d8c95c326d4df58346ebbcdb25"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/mineshafts/minermainshaft.blueprint"
+hash = "ef12b7e7ea8386d3403579efacd04346db4bc48fdaa49519570df20ae1e73442"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/mineshafts/minerx2left.blueprint"
+hash = "55017e262f36f7b32c8aff07a44fab7a638285e315d902df108df2e094d4e3c6"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/mineshafts/minerx2right.blueprint"
+hash = "605aca6b7247452522831d4aabb5c74480915bcc1097573228fc1e7498876c7a"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/mineshafts/minerx2top.blueprint"
+hash = "80ff4a400e014b5bc0e5f8b677750b33f789fa9d3340c5537bc35d2a4203e3ab"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/mineshafts/minerx3leftright.blueprint"
+hash = "502dfce8eef872349810f309aaf3f7ab18a171c51d5d0852bf6ddba577cbb881"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/mineshafts/minerx3topleft.blueprint"
+hash = "b989cbbd967ea23f29d64e78122ae5141b74a60f97d9920e6e11a8a7b72e1e3b"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/mineshafts/minerx3topright.blueprint"
+hash = "9d7c638d65d27bcab40305dbe9a2a1e16bd9faf3afa55fbd4bd3eb5e25d25885"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/mineshafts/minerx4.blueprint"
+hash = "b3ddce8f8c963de9034d0b1ce90f578fbfa4e27217f6e45382113a3094370c03"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railbasicbridge.blueprint"
+hash = "db5c1f00c20b63820b391372a73dcd63654e21e90d16cf81f8e1df09b8f53238"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railcorner.blueprint"
+hash = "8775882ff2c7f634e0ce7985e3672cb0df48eb29b1972e6a40543482bba44e11"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railfancybridge.blueprint"
+hash = "91fbe0f19d4ec0c23945e84db4b168bbc923e7a96396f60e1f39a75a219fafad"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railgroundcorner.blueprint"
+hash = "ef0fbeb57d4918b5c5621955b0e9b936ed9178d0780852fa9e4303bc1612a78b"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railgroundenter.blueprint"
+hash = "feb8d4ebae1b3d86e894a380bedc32d9d96bf3c18001fa8d659957eaf4932d31"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railgroundreturn.blueprint"
+hash = "bf85f996e28012a1b167f1551ed3256aed5c21e5cb13df7cc94f2fbdabc4c2a2"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railgroundstraight.blueprint"
+hash = "95a328c21e1fd662d93d04a38ce359244e4ab4a234db2487dee4cd25a0549d8a"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railnicebridge.blueprint"
+hash = "e65d45bf56755d1201a6e32b07bbc1be74f5b8e65532ecca1a989262ffa25b9b"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railraisedcenter.blueprint"
+hash = "6f2c85c4214757f58a9ae64d3e0a908e538a093d45abba3293436dda0fc70ac6"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railraisedend.blueprint"
+hash = "a2977576f90833b08223438f8a01f332794c71e3bf5592fd2a7b40c0f04721b6"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railreturn.blueprint"
+hash = "175eb98f384e9d3952ce4637b20f712ec3ce15fc298bb7d315c76fdeb3f95126"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railstairs.blueprint"
+hash = "a034270fb725e79e912cf46a02912dcd088957773a38f9650ca780b47086ae35"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railstop.blueprint"
+hash = "94aa3d0c7ac7bc209f4e63b7fe79d0e599186442fb4de48dac8ccd43bf4dcb75"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/railstraight.blueprint"
+hash = "3bb59c8faeb0a251c822c112547875862044a2d73be6995327e8ba690fbdd7c2"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/roadrailcorner.blueprint"
+hash = "a589dbd09d5250f78d8e874f4c6d6543597740e6dab3f89b7a205a46841c97a6"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/roadrailintersection.blueprint"
+hash = "74af77a51120c1c9875e211482e1ae911fc41d78facc1897a90b2077fe695233"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/roadrailstraight.blueprint"
+hash = "69b926a1dcf8094a01ebfc8ec176244f97dead91846a71a24158a051d58679e8"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/rails/roadrailtjunction.blueprint"
+hash = "ad9cf54cecc2265bba8fcd164d147d9c57ef6d6e5a0a68ae1289fa0fa5f21499"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/basic/basiccorner.blueprint"
+hash = "0264c37baf41c8865a653c9a1c20bf886094582b34287c6b7eab2fd909ffb9a6"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/basic/basiccurve.blueprint"
+hash = "8754f547ca55bc91d8f7adf1d41180a469e5586c5544f5214d9b796a431f6621"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/basic/basicdock.blueprint"
+hash = "065688d528a0205afe292ce0bc5fcb812a65e784a0a6e0b72e07028c974b8d60"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/basic/basicstraight.blueprint"
+hash = "e4cd3adf5d068c017b48d05b49bb8f5e20af4758826205eaaabb40c33c7f9ffd"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/fancy/fancycorner.blueprint"
+hash = "9d4cc1f9eb33272a96f479881ea699d8898d12c239202f8844f7310bfec6a834"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/fancy/fancycurve.blueprint"
+hash = "1ecb3ad2bbe53b71744c637609b9e311bbec9945362fac46f9baf3c8c4674eb9"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/fancy/fancydock.blueprint"
+hash = "ebdb380d9224fa5e9609299cac3787b12af7c2348762a9cde7d412bdec2a229c"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/fancy/fancystraight.blueprint"
+hash = "07fa58491fcac55409bfeb5cb7cbae169e8980d3d52f53cebc9f8f5e5199c8fe"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/nice/nicecorner.blueprint"
+hash = "0c2f76e807877e0f8d6adc193f81ce9a76c69ef4b563e99ae0185b2316bd1973"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/nice/nicecurve.blueprint"
+hash = "58ebfceaa5a3a0fcc8ec60fae437da078dba8580842072857c7808b9c2d40ff9"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/nice/nicedock.blueprint"
+hash = "549e7346c345645a6890de5413a70c99d28c77b8af64dd810f924bf8e223d5c2"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/nice/nicestraight.blueprint"
+hash = "867f7558b5398ef81802810e8cf6e588981d26c79699c8fc60887935406e1f54"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/poor/poorcorner.blueprint"
+hash = "1ae69197c5111f7d7dab5e4e8b4e9f81a2851618f94a85a3f4f84cd41163d9bd"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/poor/poorcurve.blueprint"
+hash = "9e4b85dfc94a6cd909033d4d868d797fe6e0d10b0ea22270c8bf44ccf2477db5"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/poor/poordock.blueprint"
+hash = "1ea315571d16718e86e292e19348e6eb263f56d18b18b54f9c1dcb329a262f33"
+
+[[files]]
+file = "blueprints/fantasy/infrastructure/roads/poor/poorstraight.blueprint"
+hash = "5de91564b4f602959535acf670597931dd718d81f0c7604bbff2c95bf3eb02cc"
+
+[[files]]
+file = "blueprints/fantasy/military/archery1.blueprint"
+hash = "af2633dc232f05ae7cd016262e17fc08c63b7b3ca1531d1f01e2c9fe9df63552"
+
+[[files]]
+file = "blueprints/fantasy/military/archery2.blueprint"
+hash = "b06c019f53e87a35c1a3aa7b56f673062bce6429e198ed186eef3286e1b5548a"
+
+[[files]]
+file = "blueprints/fantasy/military/archery3.blueprint"
+hash = "fcb83e4c9f71f25b7d02209bfa0b616489d89a00e76453030aabddc72e03530d"
+
+[[files]]
+file = "blueprints/fantasy/military/archery4.blueprint"
+hash = "01f7b7d337e1c03cefb3d19350167206eede9e9d588d4081ed05b62511862c4a"
+
+[[files]]
+file = "blueprints/fantasy/military/archery5.blueprint"
+hash = "bacbd044c3e1d5232f25a3b603e61b5b205158623cc7cbb01ab984d953d1b888"
+
+[[files]]
+file = "blueprints/fantasy/military/barracks1.blueprint"
+hash = "f9af31cbc4b4bff0cacd9314282fb2e394fdb8eded11e6ee1c3c5c9b1d716d96"
+
+[[files]]
+file = "blueprints/fantasy/military/barracks2.blueprint"
+hash = "02b765476a3e8fc2f08b569aef7b38ff2d77859a5d99d56800d4c06b00ec687d"
+
+[[files]]
+file = "blueprints/fantasy/military/barracks3.blueprint"
+hash = "c477f73cbc9d3ddef530d08992873f1a55581c383f4ab63e4259f2283fc30e95"
+
+[[files]]
+file = "blueprints/fantasy/military/barracks4.blueprint"
+hash = "8696517d97bc1769e51551a5c8b608feac425801446f4afe684ffe540015312d"
+
+[[files]]
+file = "blueprints/fantasy/military/barracks5.blueprint"
+hash = "a4fcfd7dc4b130cd58d8d6d43bc97927d4cf8157e130343f14176b4d434873bb"
+
+[[files]]
+file = "blueprints/fantasy/military/barrackstower1.blueprint"
+hash = "f1fc25794a97d9f464a12b6669d86c821050a08beb1b6f57d640c0e1f1c66b36"
+
+[[files]]
+file = "blueprints/fantasy/military/barrackstower2.blueprint"
+hash = "6d54f949d5bfab6b47484554d3a6aeba3c91e1453059f7d4903cfb25f8c2edfe"
+
+[[files]]
+file = "blueprints/fantasy/military/barrackstower3.blueprint"
+hash = "fce2eed8e6e3d8c86555f70adf544ee9ef79f1a8db6f7ac8ffcb7bf63cf4132e"
+
+[[files]]
+file = "blueprints/fantasy/military/barrackstower4.blueprint"
+hash = "3d3ea86852e220c5d9a884d31e750813e794539e032a4b0265018a88f5656ecf"
+
+[[files]]
+file = "blueprints/fantasy/military/barrackstower5.blueprint"
+hash = "247aac8aa8292a265fbff5b7b04b6b1929a5f6855c734bd184142837f90b3767"
+
+[[files]]
+file = "blueprints/fantasy/military/combatacademy1.blueprint"
+hash = "ebdaf986c2cc847f9d35ce83a8ae5ec09b92f64f13c5442fd9054aa1d386b483"
+
+[[files]]
+file = "blueprints/fantasy/military/combatacademy2.blueprint"
+hash = "032c75a2d032e4de8c03bc33545528c5af7b217acfaa4bbda1808bd543c11a14"
+
+[[files]]
+file = "blueprints/fantasy/military/combatacademy3.blueprint"
+hash = "f40cdc6487d873c782f16309d7f1fa44b1fae8fc761b8f7c244b02668022460c"
+
+[[files]]
+file = "blueprints/fantasy/military/combatacademy4.blueprint"
+hash = "23e7a38ad23448643a1e046b5878349b3bd494760ec5d7b23a0d66ab78358a58"
+
+[[files]]
+file = "blueprints/fantasy/military/combatacademy5.blueprint"
+hash = "adcec1535107a77a1b4f0d63fa555a9227413e744655b90284fd678734bb7f0b"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtower1.blueprint"
+hash = "05d4d29e1c184bd2dce01cd64c4fcab34850f148b4ae377ea39653e1b8887db9"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtower2.blueprint"
+hash = "93c8ddba102204b1c522ba93c65940756c9c148579999a1af4aac853c3779f97"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtower3.blueprint"
+hash = "df52ea8568b8c414e7b8a50201cc766ec93faff924aae9fdbb28dbb42d11c82e"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtower4.blueprint"
+hash = "c8e6ad4bdd1b8bb1a862edeb37a2c474dea26125c97dc218b13bb8c25f580108"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtower5.blueprint"
+hash = "1e239fdf1882e19aeb2436f4c42b7caa05a2883772cd2fc36da9612e14641f0a"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtoweralt1.blueprint"
+hash = "634d75ba953c4606fca45b50018de5c284e90e89dc8f9072b61ba39ce609c721"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtoweralt2.blueprint"
+hash = "9196ef6e0989873036ffa1041cdabf5fd96d51d72da72ca6f8d9e9cab4d3a2df"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtoweralt3.blueprint"
+hash = "e8f8895e5364819c7f057e216c1b295e6a734aa62c0af4966119827550c70cbc"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtoweralt4.blueprint"
+hash = "b8cddba24d0ea2bc7d9b9d0213eed11589a3e291388af7b4721ab37c6b80027a"
+
+[[files]]
+file = "blueprints/fantasy/military/guardtoweralt5.blueprint"
+hash = "9ab2f3a0405ba98d75314b4f4f90785b6a8f9caa7bd0ea36849ea58c9eac7cc9"
+
+[[files]]
+file = "blueprints/fantasy/military/icon.png"
+hash = "90942a25efeef8aaff2c9524fedb4416331f21d6298b5bb68822b928210b7041"
+
+[[files]]
+file = "blueprints/fantasy/military/icon_disabled.png"
+hash = "eb8e672107f6998af1817a278454765ad0768d58aafbe621293055681bf7585e"
+
+[[files]]
+file = "blueprints/fantasy/mystic/enchanter1.blueprint"
+hash = "3ccc7624216fe1bee88e5e0e35d92e6e35adb1c60c2c868df8720d84da20e0dd"
+
+[[files]]
+file = "blueprints/fantasy/mystic/enchanter2.blueprint"
+hash = "28f402a360871dc78c82051f6aa537522ccf63f4e6194d9fe6c6614b44b116dc"
+
+[[files]]
+file = "blueprints/fantasy/mystic/enchanter3.blueprint"
+hash = "2df4bbfc37fbb8ea2e7e5ab9c87108a1b52543e91fd545b99c1ef3fe584bc15a"
+
+[[files]]
+file = "blueprints/fantasy/mystic/enchanter4.blueprint"
+hash = "6c179e8d7df5035e2f2162bad1e201c638ff007315d2f258cbbd7c607cb78a72"
+
+[[files]]
+file = "blueprints/fantasy/mystic/enchanter5.blueprint"
+hash = "aa9f00ecfbce103d48a981bc878c1b429fcb5636e11294de016097a5979beb17"
+
+[[files]]
+file = "blueprints/fantasy/mystic/graveyard1.blueprint"
+hash = "00f1869abbab4c34dfb45e43107f32e98ddf728b3b17cf1407522c0eb85132e3"
+
+[[files]]
+file = "blueprints/fantasy/mystic/graveyard2.blueprint"
+hash = "e72ef246365c972ae871620de1a729b569f73467412bcc7818e212716199d56b"
+
+[[files]]
+file = "blueprints/fantasy/mystic/graveyard3.blueprint"
+hash = "e1aec712b8575a076b5673b55129a9c6049952201f3ea48c159a47e714186e79"
+
+[[files]]
+file = "blueprints/fantasy/mystic/graveyard4.blueprint"
+hash = "c14595247e032d2df430b0e4e75e06d50806427868f506d3024d466a5224e562"
+
+[[files]]
+file = "blueprints/fantasy/mystic/graveyard5.blueprint"
+hash = "2db32df92c278afdbc123bff81f168f1805f65456479f606cb32411ef78da4f1"
+
+[[files]]
+file = "blueprints/fantasy/mystic/icon.png"
+hash = "d0f47905476c0dd510e5e45f993e1b09bd7ab9ae1006fba8b3c807eed0f24179"
+
+[[files]]
+file = "blueprints/fantasy/mystic/icon_disabled.png"
+hash = "c034c92197e1b3181bdd6621cb839b3ef6ebf9202bb2fdafb7a1069e465f89a7"
+
+[[files]]
+file = "blueprints/fantasy/mystic/mysticalsite1.blueprint"
+hash = "06e8f3abcc019e0fc1f3f266d15d33302f2593e84ef2ac7cda34c04831d4a5cd"
+
+[[files]]
+file = "blueprints/fantasy/mystic/mysticalsite2.blueprint"
+hash = "656ca3e0694afdcc23bc51087809aba51c415360286aa33ccb3a9e13729ace49"
+
+[[files]]
+file = "blueprints/fantasy/mystic/mysticalsite3.blueprint"
+hash = "df8c37a70b059d32ec1bcf983251a2717d2baf0e6bcd7dde07ef8e131b29d325"
+
+[[files]]
+file = "blueprints/fantasy/mystic/mysticalsite4.blueprint"
+hash = "9137d9f6e475c0e305984b7c9e1c50de04f8ccef9880b52c5c294ce21e355995"
+
+[[files]]
+file = "blueprints/fantasy/mystic/mysticalsite5.blueprint"
+hash = "9c1f6508b3457f9766bc7e3d82a5a7569096ea5e471158f8c88778db548e46b0"
+
+[[files]]
+file = "blueprints/fantasy/mystic/netherworker1.blueprint"
+hash = "1db3e622059adc7b5c08f550d148bbbe69e41aaeed703a6ddca90a2cad2d2b17"
+
+[[files]]
+file = "blueprints/fantasy/mystic/netherworker2.blueprint"
+hash = "9e8b339e1fbe1619d01a65a16fe629d6a633e88062dcd27779d4a5c1b0cbdc0a"
+
+[[files]]
+file = "blueprints/fantasy/mystic/netherworker3.blueprint"
+hash = "d67c1e6c9fff6063cee26f533702eb36395f73f7f438716af4a973de3921ba7f"
+
+[[files]]
+file = "blueprints/fantasy/mystic/netherworker4.blueprint"
+hash = "f83c691989a3a74dfb688912342683ba00c0342aedcc4db4ac04fbaad7f01511"
+
+[[files]]
+file = "blueprints/fantasy/mystic/netherworker5.blueprint"
+hash = "18818f04a14497d4f2860c013b21f5d66621dc1df25a50c8140b04ad01cb6c7c"
+
+[[files]]
+file = "blueprints/fantasy/pack.json"
+hash = "88c1c9cbfd9a8f772913443caf1174cbf579ac905b747e4290692f4326f6d93b"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_gate.blueprint"
+hash = "f04ff0c16246feedae87f50b4269b7474f64976f6d7229d13a828dfc217d84d3"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_round_barbican.blueprint"
+hash = "033e4e2d33ab0bc600962f511d914c615612d0828698d1fb6af6f8070169306b"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_round_corner.blueprint"
+hash = "37377f9f05d3ad88d772f0327f04a5798569f7f13fe79093cc554b83f7382a93"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_round_tower.blueprint"
+hash = "4b9f91c3f07a2d376681537e423914625007731091c306c625f65c7f1076ac4c"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_segment_large.blueprint"
+hash = "81d06e4c3f17d7e40cb45768e40592911d28f16ddb775b170ac6fe9cd91c5652"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_segment_small.blueprint"
+hash = "74e9cf43230aa911176dea57e1a55c59de412a0d07ed8110a43915e9f80affb6"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_square_barbican.blueprint"
+hash = "1efc04c80ea90094820ce05560ea6dd6db6babacca8ec39540f4cef7b9f44259"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_square_corner.blueprint"
+hash = "0cbb8435408e94a906cc24d31a48096012b90c75927b4b32703eaad52bd38214"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_square_tower.blueprint"
+hash = "20cfc82b5e8d78956715f887477ac82cd82ea493f90d1899957497c72c5d30c8"
+
+[[files]]
+file = "blueprints/fantasy/walls/fancy/fancy_stairs.blueprint"
+hash = "f5b6c5355c466fcdb7bbd54446bea05e77594919a3ea931a152c05f757ba34ee"
+
+[[files]]
+file = "blueprints/fantasy/walls/icon.png"
+hash = "1fa9b0683a7a10e8ae57abbe68e7ffee1d6e216e5a6157566f632523585d2452"
+
+[[files]]
+file = "blueprints/fantasy/walls/icon_disabled.png"
+hash = "8bb873bbb32ac623b41e0c4073eb5b61fe294743270f1d302da9329f25def04f"
+
+[[files]]
+file = "blueprints/fantasy/walls/palisade/palisade_corner.blueprint"
+hash = "dd1c53870910b0c7d42f04fd4ba598bd9f2601f9c213737fcbb660033daab496"
+
+[[files]]
+file = "blueprints/fantasy/walls/palisade/palisade_gate.blueprint"
+hash = "d0499ec44fb4e74c248e0ef1874fbc96c95c331e630208cf7a4d9c19531486eb"
+
+[[files]]
+file = "blueprints/fantasy/walls/palisade/palisade_platform.blueprint"
+hash = "b777da26f95d058186bb447b891d80c8f9f56c70bb303cb20bb80926cc2d6ff6"
+
+[[files]]
+file = "blueprints/fantasy/walls/palisade/palisade_wall.blueprint"
+hash = "a1720c4039aedc29f4f09587c6dcc6614a89138e88679f59294160c373d869ab"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "9cf4d31d2325026ec29a0d5b264ae78df51fca448441364423680f3d47e59518"
+
+[[files]]
 file = "config/citadel-common.toml"
 hash = "f198e111c56c4679c5773843a9d1ec50c204764d6b306e5e9f87fbaf6aec547c"
 
