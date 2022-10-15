@@ -22,7 +22,7 @@ jobs:
           go-version: 1.18
         id: go
       - name: Packwiz
-        run:
+        run: |
           go install github.com/packwiz/packwiz@latest
           go install github.com/Merith-TK/packwiz-wrapper@latest
           pw -b -d versions/forge refresh
