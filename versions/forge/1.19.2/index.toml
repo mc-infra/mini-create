@@ -1583,6 +1583,11 @@ hash = "ee3dd775e60662fb8565f2b8fc3fac954d42fe7246ec5f3e827011863a978722"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "ca5775104714b3a090e713fc649cef3985007eea5eb1b4ddf49407dbeae10acb"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "f29314b6e27525761a07f7b74802818ce3da9c51c9f6d21cb81f870121e57db2"
 metafile = true
@@ -2138,8 +2143,13 @@ hash = "8146860e9582a3afffdacfc4ec5a39afe1c12dc83e4a61db60213ae324f2144a"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "9f929617a5519d9b3c74c8d192cfe28923c368130f625d17bbad6a64a84706f2"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
-hash = "8a30d29e53a171b3fd6d12f0fbcd71fd6d4cc849f92eb4cbcf9dfb070c4e6138"
+hash = "8621419e36c3d5da41b25e67e2d6791a8db91da4497a6abe51b1cf2066a5e2c5"
 metafile = true
 
 [[files]]
@@ -2253,9 +2263,8 @@ hash = "c9e9b557615ef44e583725bf2352bc3b1c90f04335ffa17c0bb77cde25b15e4d"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
+file = "mods/worldedit.pw.toml.disabled"
 hash = "8854d1f3b12c758981066d159c3fab9d1bb74c30ff219d78cc6ec399610f06f6"
-metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
