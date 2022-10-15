@@ -1949,6 +1949,11 @@ hash = "b10e436d7626cd7c2bf3f9b2e53389e952651e0002a0a7ed2498fd26413b7d94"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "9116ead38df9119fa9d8103c214482aedab1505554865cac1b3bd385019076bd"
+metafile = true
+
+[[files]]
 file = "mods/load-my-resources-forge.pw.toml"
 hash = "2d901201eba3eaa205513eccd6a314f9042c5d664902b4447c0b47a639f3eb7e"
 metafile = true
