@@ -2148,9 +2148,8 @@ hash = "8146860e9582a3afffdacfc4ec5a39afe1c12dc83e4a61db60213ae324f2144a"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
+file = "mods/rubidium-extra.pw.toml.disabled"
 hash = "9f929617a5519d9b3c74c8d192cfe28923c368130f625d17bbad6a64a84706f2"
-metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
