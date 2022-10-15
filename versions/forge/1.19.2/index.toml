@@ -1815,6 +1815,11 @@ hash = "64e919364086f659b6b9ab8a14c42ab4c76139d100d934971f88d9deb3b4ccc2"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "ef21bf38527c0c6cc79040bafa0af2f09737400812fe6b66c8183f4f079effa2"
+metafile = true
+
+[[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
 metafile = true
