@@ -1,0 +1,7 @@
+name = "krypton"
+filename = "krypton-0.2.0.jar"
+
+[download]
+url = "https://github.com/mc-infra/mod-actions/releases/download/1.19.2/krypton-0.2.0.jar"
+hash-format = "sha1"
+hash = "8d13c2baf725668c66c2f19ed08fb10fb667d61c"

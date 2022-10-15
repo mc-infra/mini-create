@@ -1945,6 +1945,11 @@ hash = "2515f68217da6eed81888a3fad75be77689c05d56ba1eb97cacb4015b98283ba"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "a83e1ef94ae33fe72723782c26b2576b7993435dc29934bb671eebd52fd42644"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml.disabled"
 hash = "82a2dadd6a885fd9d86612f978bdca2f5ad07482c2ea2a16e54c7e6b5040cb6b"
 
