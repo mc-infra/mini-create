@@ -694,23 +694,23 @@ hash = "0736041e8e8e157799bbf514da8c1c26f7b6bfcf27cd59ca8ba23c88155b94c1"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/lumberjack1.blueprint"
-hash = "d44ec67c51a0bab7879072a3116bfcdaf53c29355efbaf12b5b448c282afab57"
+hash = "28daa0c4c02665e4ddb3359cac4cae6b33421cc82be7217a7068235e06724a04"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/lumberjack2.blueprint"
-hash = "9d0fb18b31b85acfcdb593d25bcd5545e34f67ac9d5081a27f06461809924628"
+hash = "2f0277c0791da2dd09fce338d8da3ed82149f70fbdb5a8dfff64d18a693c3273"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/lumberjack3.blueprint"
-hash = "1990e0204a5a463c928cd69b8c9c5c26da4ad976beb5817f92f6f040e9ccfdeb"
+hash = "bbf1ee761812d038872fe09e33bc3fef977f6c0b6c85658eea81ca3d63e037de"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/lumberjack4.blueprint"
-hash = "d41628399b029a9c264e2db3b1796b99f3a7684a08c9799c75cdd7efd9098aa2"
+hash = "a16888842791009a415b8e8695aa22cb055eaa781b66bb9e85cea6eda3701e15"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/lumberjack5.blueprint"
-hash = "c6b44cec61a8c34320988a0fb3df093f0d7a7164b2d32cc3767e951201156eca"
+hash = "28b7e6e657a6338881f384698f0bb2e51e8d29be849c83cfdcd389e66e108fb3"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/miner1.blueprint"
