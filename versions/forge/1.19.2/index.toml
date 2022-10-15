@@ -1873,17 +1873,9 @@ hash = "1b5f491402fdcb2d344c4490d150ee48ac7d3957c99e5c1433d45a57aeca9417"
 metafile = true
 
 [[files]]
-file = "mods/flux-networks.pw.toml.disabled"
-hash = "155f7a0c4a8743e15f9ca63597897e8a7ae34ec31b6d09c43903050f768cf425"
-
-[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
 metafile = true
-
-[[files]]
-file = "mods/framed-compacting-drawers.pw.toml.disabled"
-hash = "559e4f32fee8787c2090ef18a8074582a3a3e5c5c62033b412ccfc0db8e541fa"
 
 [[files]]
 file = "mods/furnish.pw.toml"
@@ -1909,10 +1901,6 @@ metafile = true
 file = "mods/immersive-armors.pw.toml"
 hash = "70c41994b7feae13abea404ea3920734f19c86ee5d3098a70eab4156b54ccba9"
 metafile = true
-
-[[files]]
-file = "mods/immersive-engineering.pw.toml.disabled"
-hash = "7a8cc90cec26c448c64f66f743b53e3fde4c999b81a7905d227b08f32699debf"
 
 [[files]]
 file = "mods/incendium.pw.toml"
@@ -1943,15 +1931,6 @@ metafile = true
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "2515f68217da6eed81888a3fad75be77689c05d56ba1eb97cacb4015b98283ba"
 metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "a83e1ef94ae33fe72723782c26b2576b7993435dc29934bb671eebd52fd42644"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml.disabled"
-hash = "82a2dadd6a885fd9d86612f978bdca2f5ad07482c2ea2a16e54c7e6b5040cb6b"
 
 [[files]]
 file = "mods/libipn.pw.toml"
@@ -2124,10 +2103,6 @@ hash = "cb22106c50af08e7c68b9fe376a42dc8321a415b71d18b565d8cf4fa31ab668b"
 metafile = true
 
 [[files]]
-file = "mods/rhino.pw.toml.disabled"
-hash = "afc003a7bbb6e2398295b0795e8f186244a0f6524c636966f98800ba76951987"
-
-[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "f9dde9cae0e91cd6dc1c2d3dd637f09927ffb5652e10b36f3c42f0f066b7868f"
 metafile = true
@@ -2146,10 +2121,6 @@ metafile = true
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "8146860e9582a3afffdacfc4ec5a39afe1c12dc83e4a61db60213ae324f2144a"
 metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml.disabled"
-hash = "9f929617a5519d9b3c74c8d192cfe28923c368130f625d17bbad6a64a84706f2"
 
 [[files]]
 file = "mods/rubidium.pw.toml"
@@ -2265,10 +2236,6 @@ metafile = true
 file = "mods/william-wythers-overhauled-overworld.pw.toml"
 hash = "c9e9b557615ef44e583725bf2352bc3b1c90f04335ffa17c0bb77cde25b15e4d"
 metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml.disabled"
-hash = "8854d1f3b12c758981066d159c3fab9d1bb74c30ff219d78cc6ec399610f06f6"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
