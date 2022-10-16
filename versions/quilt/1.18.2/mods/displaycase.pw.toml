@@ -1,13 +1,13 @@
 name = "Display Case"
-filename = "Display Case-quilt-1.18.2-1.0.1.jar"
+filename = "DisplayCase-quilt-1.18.2-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e4b62d202544e6d3099108bcc4ac377895ccd59f"
+hash = "5e19d5ba843c745463db04350ff0ae5acb161fc4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3783705
+file-id = 4026727
 project-id = 517791

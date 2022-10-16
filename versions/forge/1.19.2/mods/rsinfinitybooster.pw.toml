@@ -1,0 +1,13 @@
+name = "RSInfinityBooster"
+filename = "RSInfinityBooster-1.19.2-3.0+23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed9b9e961cd2f7b732eb0a81aa86ad8b869a1593"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4012833
+project-id = 446870

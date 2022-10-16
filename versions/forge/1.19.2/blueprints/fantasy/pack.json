@@ -1,0 +1,14 @@
+{
+  "icon": "fantasy.png",
+  "name": "Fantasy",
+  "authors": [
+    "Lil Tiny", "Punk 4Rom Da H00D"
+  ],
+  "desc": "Creative fantasy colony.",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}
