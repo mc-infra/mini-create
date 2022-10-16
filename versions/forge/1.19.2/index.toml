@@ -1776,7 +1776,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "0f6f75208bdcecc74681a362732ffdef846c1a58a56d3900a6a42d7649d29893"
+hash = "84715640e49a6181e12d3d2b76d7ce2bc990a50cd281282c6be383f64d8f9f44"
 metafile = true
 
 [[files]]
@@ -1931,7 +1931,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "c801307053747a958fc5c394cf9375d03ba3f893636552cecbf3ca9cd6b03ee6"
+hash = "b8f2bf999d2a9914ca76172fbc84467268977d5ce4f200e43be55dd5fc5ed5a3"
 metafile = true
 
 [[files]]
