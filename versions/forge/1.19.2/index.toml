@@ -1795,11 +1795,6 @@ hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
 metafile = true
 
 [[files]]
-file = "mods/curious-lanterns.pw.toml"
-hash = "64c80856b40036c2316e813a93533acbd68cf4edd62f6b33c147b5d42cd7041e"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
 metafile = true
