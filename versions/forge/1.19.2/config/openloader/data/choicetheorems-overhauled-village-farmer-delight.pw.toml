@@ -1,0 +1,13 @@
+name = "ChoiceTheorem's Overhauled Village - Farmer Delight Compatibility pack"
+filename = "ctov-farmers-delight-compat-pack-1-1.zip"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "905a0ccdeb461fa5431266f5d2462d9fb432ef98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3955509
+project-id = 628469

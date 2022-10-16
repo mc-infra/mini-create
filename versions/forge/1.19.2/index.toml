@@ -1285,6 +1285,11 @@ file = "config/openloader/.cache"
 hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
 [[files]]
+file = "config/openloader/data/choicetheorems-overhauled-village-farmer-delight.pw.toml"
+hash = "27a238cfc88a642c3681608b140b0cb6e8b9d69153a2b04efcc3f97852232122"
+metafile = true
+
+[[files]]
 file = "config/openloader/data/custom/assets/lobby/lang/de_de.json"
 hash = "de782591805813aab27610bfa8c8cf644fc38cf5e608e76527960032fed84f16"
 
@@ -1942,6 +1947,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml.disabled"
 hash = "7a8cc90cec26c448c64f66f743b53e3fde4c999b81a7905d227b08f32699debf"
+
+[[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "5f62bd00548ee25e56389b3a588ff4a289e7cc6f37116c0538de9dde69bdc64b"
+metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
