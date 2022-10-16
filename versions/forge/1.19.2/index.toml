@@ -1544,7 +1544,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "8deabc1438472ea699c01d3a9244e651e345ea26f8225199c3f255c1d206dccd"
+hash = "d0efa1c9c385b4b257ddf3a447271e0a7eb199f7f562a8db7df8fd286e8fdb5c"
 metafile = true
 
 [[files]]
@@ -1559,7 +1559,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "51498f3b961807fbb2d973226ee89ef4bc74c71ea35cb95d7037b9a6e2e022bc"
+hash = "000218944542aff61f8766f21203dcab1b11a596dc4ee25da917f7a76c013855"
 metafile = true
 
 [[files]]
@@ -1699,12 +1699,12 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "3559ba6df3b08a4a38c197834f6682f2cc659efaf8d7d873f1ca553df8b00e52"
+hash = "a52e9270056ae9bca8c548923cef6e23cc9152a9b888b659bb1ab8f8b8536bde"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
 
 [[files]]
@@ -1774,7 +1774,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "0f6f75208bdcecc74681a362732ffdef846c1a58a56d3900a6a42d7649d29893"
+hash = "b4af96515a0d2f506f605ec20a6d31c4f70f1229437395b021e3747b6f8a4c06"
 metafile = true
 
 [[files]]
@@ -1809,7 +1809,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "c23852aab7f61c170d1449a4fc31f250591ba9454749bff49cf3ff0903d8ac72"
+hash = "67efb7eebce50a72f3875ba22c74bb0c12ea473abb3cdce21a2e734b10525db0"
 metafile = true
 
 [[files]]
@@ -1878,6 +1878,11 @@ hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
 metafile = true
 
 [[files]]
+file = "mods/framed-compacting-drawers.pw.toml"
+hash = "559e4f32fee8787c2090ef18a8074582a3a3e5c5c62033b412ccfc0db8e541fa"
+metafile = true
+
+[[files]]
 file = "mods/furnish.pw.toml"
 hash = "48405d387335052117426635eb2ed4e327f7f3bb1d8e3bd9d180e86cda0dde1f"
 metafile = true
@@ -1889,7 +1894,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fcd721df39f585654261959d6bce1899e6e2831f8e5920c3d96814ce832fa859"
+hash = "1d135cdedbc54252905c826d827ab173169a0ba1766be22d2fb4dc4624e8aba6"
 metafile = true
 
 [[files]]
@@ -1915,6 +1920,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "06472bc0596242ab7d543df364036a456a30cea0b67600b6e491f22da9461182"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "38152281aadd0c1e67aba33ad84a897b3265e27fcc675c4d0721201750432742"
 metafile = true
 
 [[files]]
@@ -1969,7 +1979,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "fcc61f958f38e679bbef3d31b30b3b8829b2610188cd2a5a47baeed657660f5d"
+hash = "98750e5d97d2740dc685a2045d865c78981dfeee7520c4b918799450059715ee"
 metafile = true
 
 [[files]]
@@ -1984,7 +1994,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
-hash = "fa76f51b106966a6f8085826b4936ad4b945036c125e62d5c6b461891d3757a9"
+hash = "992e8a98eebdcb7b2e288809d4d3eb4a0445912dcf02c04b7ef534c750b7e520"
 metafile = true
 
 [[files]]
@@ -2024,7 +2034,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "842327039557a1538a4f3bbb37a391143a518ccd7e5289490b87b9e0c0e47d67"
+hash = "6ad3366999e65854e37d18015dad0784b85c21c9e12414f05ec1ea925cf196aa"
 metafile = true
 
 [[files]]
@@ -2069,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "7f716c6d1c9ef96461acd76fc7282083ee787491b85744bd476220ba3bc912fd"
+hash = "66b03cea62590799dae6c15a182597d0d307b9297469fe12187b5287aafa197a"
 metafile = true
 
 [[files]]
@@ -2108,6 +2118,11 @@ hash = "f9dde9cae0e91cd6dc1c2d3dd637f09927ffb5652e10b36f3c42f0f066b7868f"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items-server-component.pw.toml"
+hash = "fe997a3657a978e10c74a3a0c46017e292f30f5d6eeef3f95daa5e0b9aaa5329"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "af5a96c5708ac52df465fd8e5cde02a8dbb1e283951759ac5b08f3b54c55b19d"
 metafile = true
@@ -2129,7 +2144,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "40f3fd1348981af46bcd3fd41492e22d6e2f4d4cddca8bfc171edf98c42b1b53"
+hash = "197343b70161e0586888dc1ec011f9f376344e9a8b613f0e536d5b3e219d5cb4"
 metafile = true
 
 [[files]]
@@ -2164,7 +2179,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "a76fca1559b1dda0bef1c2eb95ce3df831ec47316c4de3755a9099e359b287a9"
+hash = "1ec38675b9d4735c07816c4cc209b86b01032a536b2e673d28d3e715a2cd0a41"
 metafile = true
 
 [[files]]
