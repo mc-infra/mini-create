@@ -26,3 +26,4 @@ node_modules
 *.mrpack
 
 versions/quilt/*/mods/fabric-api.pw.toml
+/blueprints

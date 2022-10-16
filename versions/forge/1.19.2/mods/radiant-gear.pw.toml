@@ -1,0 +1,13 @@
+name = "Radiant Gear (Forge)"
+filename = "radiantgear-forge-2.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "347a1a571ef0343c6dac3eda31d82c5db1d8691c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4028337
+project-id = 602199

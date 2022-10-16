@@ -1,0 +1,13 @@
+name = "Curious Lanterns"
+filename = "curiouslanterns-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "499580d630f93f3fc56bde06bad78d439ea7e5df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4029114
+project-id = 621377

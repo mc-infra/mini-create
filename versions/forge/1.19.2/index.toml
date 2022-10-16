@@ -1735,6 +1735,11 @@ hash = "15f2f31bd1da485d8fa17ec6409a1b2b63d96df8b1fe0ceed5ed44e8ffcdbbac"
 metafile = true
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "31ccc987a5d973083662a881aa0c35a0f5ae66cc01ee0bb612b23f9bfe4e37a6"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "498a9ec246a852c388c6884221517bfb2c5b838995c8127a7169d9376fe0e68d"
 metafile = true
@@ -1745,8 +1750,18 @@ hash = "5a8c7b1a232d221d972cd2a7d64f658d1ec06ee30dea0865fb09df0e35fb2e09"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "a0bacd4dfca8121f9c40d4793df5fdf0d5fa8a411107f5e2cc7e7f5d9e0d61f8"
+metafile = true
+
+[[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "f3b1f4aac5235835768822f06456cfd70b92f3a44f9a522e2fb76358ca681673"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "71d3967e1e3eac0f2e8f1c55c00ffc153f26c56b92d30962405e07649d8cf92d"
 metafile = true
 
 [[files]]
@@ -1777,6 +1792,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
+metafile = true
+
+[[files]]
+file = "mods/curious-lanterns.pw.toml"
+hash = "64c80856b40036c2316e813a93533acbd68cf4edd62f6b33c147b5d42cd7041e"
 metafile = true
 
 [[files]]
@@ -1827,6 +1847,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "504ad335404f24e546a37c2ff5b024edf85c335354b3627d9544169c6a4e4696"
+metafile = true
+
+[[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "16880144900b23c26f10dc07f68c5abd1b21b480ea8b4af8c69cfd29e062f7cf"
 metafile = true
 
 [[files]]
@@ -1897,6 +1922,16 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "fcd721df39f585654261959d6bce1899e6e2831f8e5920c3d96814ce832fa859"
+metafile = true
+
+[[files]]
+file = "mods/geore-nouveau.pw.toml"
+hash = "49fa303be647c7bc8423a6ebc95e0986211de2252f1b13123abf9ab9cb15ef1d"
+metafile = true
+
+[[files]]
+file = "mods/geore.pw.toml"
+hash = "ea311a930555b643c242a3537ece968ed38ddb01e9a95b3623ba3b935407d4b4"
 metafile = true
 
 [[files]]
@@ -2100,6 +2135,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "a5be73aa9c5366b4039c2fd1770c70f2790194f0a9321ec4fed13de826779157"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "95e7fd2fd2d76bff6dd0f45dc1a467973f8f8f9781ab0925b1b9cf741663725c"
 metafile = true
 
 [[files]]
