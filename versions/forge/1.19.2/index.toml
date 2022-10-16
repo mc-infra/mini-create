@@ -753,36 +753,24 @@ file = "blueprints/fantasy/fundamentals/residence5.blueprint"
 hash = "9f16b1084eaf5b76495e1553cee9a6e8ce55ecbfed4a72df76749f3cb7e12889"
 
 [[files]]
-file = "blueprints/fantasy/fundamentals/tavern1.blueprint"
-hash = "014e07fec17ba854ff1c1c5be32f2a25722db09777470de30bafe4589346d6fc"
-
-[[files]]
-file = "blueprints/fantasy/fundamentals/tavern2.blueprint"
-hash = "1f5b98d634fba2e1fcc7f878a31f6358e56604c466ace71cbef3758c35971e42"
-
-[[files]]
-file = "blueprints/fantasy/fundamentals/tavern3.blueprint"
-hash = "3056edaef8eef96d9056a170102802bcbb6ea98d0d37c370663158c87044f9fa"
-
-[[files]]
 file = "blueprints/fantasy/fundamentals/townhall1.blueprint"
-hash = "d63426db806b45d84951ce62a9b7c6b474b120ad770dbeed0abc52a88e980f8f"
+hash = "f283407f107b871074becb28062d749276909d5aafe9492d9a05a120a9ea144d"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/townhall2.blueprint"
-hash = "c8d00de7510996e8a9ab18cd9ab23c188cd0448e3009f3d257a73494b82612d8"
+hash = "7bc288051b6ce9757b7a59c3e5fb96f1613a2288eeacf09c5ae949d082e01899"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/townhall3.blueprint"
-hash = "2cadc2de35a0a3509e34e65b0741d2ff955d55ae7cbea021e8885bf35069c020"
+hash = "df6c6341cc3fbcc38a5a51fcc5639e68913fe185bfab865cb3c3a34b4f65015f"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/townhall4.blueprint"
-hash = "825c889baaa0d1501df524f017ca55c91af4861bc9933e7e6d4c771c903b9614"
+hash = "da1bd87c252b2e924de2de9e6d12ebaa9c99cd3d964996f61e57a75cf550a005"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/townhall5.blueprint"
-hash = "a28ab201ec05d7c08125724c314b126f49c1347a19964e398c76e70af8641c23"
+hash = "6a94a2e18fa25a5ac5b700eae24e71d740617601d6f2bb2d9f768ccd9bcf69ab"
 
 [[files]]
 file = "blueprints/fantasy/infrastructure/bridge/bridgeintersection.blueprint"
