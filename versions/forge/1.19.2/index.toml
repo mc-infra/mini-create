@@ -1723,11 +1723,6 @@ hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "64fa8bd5f8d2b66998208bdc6ad77588c8c2787e31bf1974eddc963649dbe926"
-metafile = true
-
-[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "15f2f31bd1da485d8fa17ec6409a1b2b63d96df8b1fe0ceed5ed44e8ffcdbbac"
 metafile = true
