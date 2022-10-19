@@ -2323,3 +2323,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "cf185060fc489ed8f2b59f25ebf2b7f79f5caf7cf2b747f318d53882ebc31c56"
 metafile = true
+
+[[files]]
+file = "scripts/ae2_recipes.zs"
+hash = "4dba9bc644a351e5436989f6c8adeb0348fb981c861374d10abb02e5fe667f8a"
