@@ -230,23 +230,23 @@ hash = "6b33c59069e5f2c4571c9c4b1987a63dce2de16179bdc40398a789d2fc5a258a"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/fletcher1.blueprint"
-hash = "b4d026748dd63414d4d59a341860fcfc299bb9024d9b434684da4ef4028f76b9"
+hash = "196237b0da93bb16f4b3476d27a02f2eb89bf210f778e56105e1fd1a77c5f40c"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/fletcher2.blueprint"
-hash = "22b145800d566b35c7683ca2d0a90c313a3f56a54dbcadca0ab903731c1c7920"
+hash = "ae68459551d244e45517cfd9d56f4ec1ca72ebd02d90d1824886f34a09661f2e"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/fletcher3.blueprint"
-hash = "084135fc38a93f771b9bc4c79386b6542d6b0eeaf6274a5afd1b2a0130fc3840"
+hash = "ce7c1b59666a1c577ffdfd43d56bb2f0b9373e1b48c1fcf3b0b6d7f7d67992ed"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/fletcher4.blueprint"
-hash = "e13fac3a85a7ee7c2e3ee48f2ea6ee44d86bf81697ae82e45fb6e1513693ba9d"
+hash = "a8dc083d270edfae1d5cc7ed1e875dd9c6aed3df6f9e4e9a8c538b0811e44fdf"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/fletcher5.blueprint"
-hash = "a4cd7b77dafadd70f2db121865d6c725bf3354f1f637b399dc709e9e1fab374b"
+hash = "d4aa21bdd18e9c9853056f3af252fc80f1cdbc2474f5e30c03f92541423c7d6f"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/sawmill1.blueprint"
