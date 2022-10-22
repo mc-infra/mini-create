@@ -1653,6 +1653,11 @@ hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "8c49f0ee45fa440a20131095866ad4b56f334acf138e2e195a97bc6a873738f4"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "a35bed6ce83fbbc57fa2c41fc90be204151eca133871485d7571df78b4508b5d"
 metafile = true
@@ -1735,6 +1740,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "498a9ec246a852c388c6884221517bfb2c5b838995c8127a7169d9376fe0e68d"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "638807627be63e4926d5e807950047580cd020b6670e77df254e6f3783e22f07"
 metafile = true
 
 [[files]]
@@ -2111,6 +2121,16 @@ hash = "c426e7b9050015f772115e73d6ba555274e63196961fceda002478c40c2addd2"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "38952a2b41b287a19841e860a88065a51e0bfedf9c0711b6d92862ae2f20419b"
+metafile = true
+
+[[files]]
+file = "mods/potato-canon-plus-forge.pw.toml"
+hash = "a9e84cf8eea52af2a9af413e4a003a2651a64b0630cd024f0ddf53a12432cbea"
+metafile = true
+
+[[files]]
 file = "mods/pretty-pipes.pw.toml"
 hash = "45f3d2e58e9da16fa2d5ede7e527f58fd9a38cea5a549d925630f0909f148792"
 metafile = true
@@ -2190,6 +2210,11 @@ hash = "8a30d29e53a171b3fd6d12f0fbcd71fd6d4cc849f92eb4cbcf9dfb070c4e6138"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "1b284399311f1e68a43a57c73913de7236c391b4cc5dbb199612c7fa03da70af"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "ad9140019ba14e89e827c01c59beb416062392b6113684669b61bed3dd7228a6"
 metafile = true
@@ -2207,6 +2232,16 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "1068336c1833c89b64353443acdc52fa0b7b1e1aabc80dddf0ff8792c5f5ac1b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "ae6840b0e534a8cec374740ff432a9edab1e243bca33977f1958190b430fafc5"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "82b58e8ae808ecf1b1019e8c29a91a623165e4ae29abd4f4c8d948b5ae011675"
 metafile = true
 
 [[files]]

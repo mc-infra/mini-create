@@ -1,0 +1,13 @@
+name = "Pluto"
+filename = "pluto-mc1.19.2-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45b127246572c114397955b3b994aa2a8c4d287d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4029607
+project-id = 682881
