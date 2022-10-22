@@ -1484,6 +1484,18 @@ hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "644f4086f5fd2d08a0446f0e5dc08fce975d48a63b4f036b724f4f6101022d0d"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "7335f5eed599da2d51ef40045848a52640e653408f21b730eb786328c4d02e9f"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "ae382538bbe3cdb11b7e272c1da9a79ec34df1ff67c97cdcc3f69fbd3a03b3a2"
+
+[[files]]
 file = "kubejs/startup_scripts/add_tags.js"
 hash = "c5e0b1c539bf06e6f4d9914080e5dd9a2970ded916b31d0614e5f74a57a9683f"
 
