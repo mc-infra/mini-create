@@ -1523,6 +1523,11 @@ hash = "03d9573835666b23a9f49a586c5c439ce01b4377850292f5160f3ac5424b3392"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "12210ba38bbc1f44a8ce0c05c6dfc40b005517d30a90c887390a8a66047e3e2b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "03ebaa7cf5a99bed0b2c3f878b798b58ab5d193cc7b95423594b38032b776ecf"
 metafile = true
@@ -1573,6 +1578,21 @@ hash = "f29314b6e27525761a07f7b74802818ce3da9c51c9f6d21cb81f870121e57db2"
 metafile = true
 
 [[files]]
+file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
+hash = "fb2221f5e20c4e5bb114718acf265ec1e1a69b6e0b1c0df85e69d54e44a399b0"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-nether-forge.pw.toml"
+hash = "7591b88cab72d12fc6facdb2a3f7682dafb0706a943615758b816d4053106127"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-the-end-forge.pw.toml"
+hash = "e891d99a9fea87d8fc003778a09c6dbc94594118cf485f775bb2b73857346d76"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f094bca8f5d15e36dfc6d3e269d3524a6fea6fb67611d00605319c7eaaacf83e"
 metafile = true
@@ -1595,6 +1615,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "a13ff9910fcbd9417f17188a398331bfe971ccaea192ae87b7a5ba8379f16a80"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "d0570ce70308ae2b3e017fe1a7f744249d2cc86741acdf15e9aa7a0cedc65145"
 metafile = true
 
 [[files]]
@@ -1643,6 +1668,11 @@ hash = "3c11cc6a9bf928d269645fa4ab695e5b3724e9e3ddd6292481faac2ba20f374b"
 metafile = true
 
 [[files]]
+file = "mods/brutal-bosses-dungeon.pw.toml"
+hash = "27e9ee92df2989ea842e47387134fd8d3d6f42908f0a858e40371bf75e818113"
+metafile = true
+
+[[files]]
 file = "mods/brvsb.pw.toml"
 hash = "32fbbcb010720b0cdcfa1040185f3ec59574cd648f2765bd5b91cb254330cb46"
 metafile = true
@@ -1660,6 +1690,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "a35bed6ce83fbbc57fa2c41fc90be204151eca133871485d7571df78b4508b5d"
+metafile = true
+
+[[files]]
+file = "mods/caveore.pw.toml"
+hash = "4a637f403eba5524339ad6c915b28e595ca1d19b603ac0f05fcb823666850835"
 metafile = true
 
 [[files]]
@@ -1783,6 +1818,11 @@ hash = "b404946129024c0268447f3a6bd16d4ee955d5474ef44687403b3d62520dacae"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "7d8049d8922d5ee20bcf66859cc03d4febc08d6bd204d7f479557e14a9a715d3"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "784fa396f9bc1df7c3dc0ed97f9019ae7fd56ecf7cfa901163217b6d4bad8dbb"
 metafile = true
@@ -1843,6 +1883,11 @@ hash = "ef21bf38527c0c6cc79040bafa0af2f09737400812fe6b66c8183f4f079effa2"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "87ed62abb99479ec849c5b899831fd0dbed63a304774014e46995b2d9b61711a"
+metafile = true
+
+[[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
 metafile = true
@@ -1873,13 +1918,13 @@ hash = "97513b37a73b67a83f0f6fe6a6ff7330dceadca7f87405e262e9476e6b3b39ab"
 metafile = true
 
 [[files]]
-file = "mods/falling-tree.pw.toml"
-hash = "3251e5386db973f9f07a8b73d28b7676d7fa584d20a33ecab21aa1e4c12fe4e7"
+file = "mods/farmers-delight.pw.toml"
+hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
+file = "mods/farsight.pw.toml"
+hash = "58ecf8f9d6818c9c64c30decdd0126c2b3001539b56e001cf6120879863e8a05"
 metafile = true
 
 [[files]]
@@ -1943,6 +1988,11 @@ hash = "ea311a930555b643c242a3537ece968ed38ddb01e9a95b3623ba3b935407d4b4"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "0fd4e39201d42fc5f347a386b0beedcb7a9e81e3dcf7752d3ae88cd3968e0d27"
+metafile = true
+
+[[files]]
 file = "mods/idas.pw.toml"
 hash = "a75f3423f7748dacdf296b5e62c826784b1f8686db2438ca07e5867651d69d0c"
 metafile = true
@@ -1999,6 +2049,16 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml.disabled"
 hash = "82a2dadd6a885fd9d86612f978bdca2f5ad07482c2ea2a16e54c7e6b5040cb6b"
+
+[[files]]
+file = "mods/library-ferret-forge.pw.toml"
+hash = "a01dad89c8688959c115348d354e662911f5522b114dbfbd2a3012a26de3ef08"
+metafile = true
+
+[[files]]
+file = "mods/limited-chunkloading.pw.toml"
+hash = "c24490bd61b10d6297d3e64f2a9f19a8a281ce0442734ed2ba7902f364dae663"
+metafile = true
 
 [[files]]
 file = "mods/load-my-resources-forge.pw.toml"
@@ -2058,6 +2118,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "ad12a513443b8826036a9dcd267ce6beefec7538b35beb7ab78a5bfe0e05cb87"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "88ad2710aa5bf4484b75c20f447f1f8de0c6a58c5b3afa144a6b79e22f6b57ef"
 metafile = true
 
 [[files]]
@@ -2290,6 +2355,11 @@ hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
 metafile = true
 
 [[files]]
+file = "mods/storage-racks.pw.toml"
+hash = "f3d874224d2251479cf74a23baa36227b005a7b517248b5a08ddac1d7095735a"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "f21d09a6d4194679b0f6ab2f7243fd6b57b1f00f6c6a224eda60d0d084d6ba05"
 metafile = true
@@ -2335,6 +2405,11 @@ hash = "03aefbc359e01156d0fe9bf137fb82314e96553297517b9f0a1917d8569bfc85"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "ecb62b2badc6d31cbc0903f7ff0b6acd76a7f20c4d09b9e550c19b4356f2bdce"
+metafile = true
+
+[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "a3ebdc41a7857431edbba9a442de596317bbf161a176776560ec86c726ef726d"
 metafile = true
@@ -2342,6 +2417,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0f777c428a4899af281ecec4b01970d928a5004f54623c6da7bd2bd807d2cfe6"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "c8e370f481193e82ba707fbf379873245b263ad79ebda1447e222d5dbffa9628"
 metafile = true
 
 [[files]]

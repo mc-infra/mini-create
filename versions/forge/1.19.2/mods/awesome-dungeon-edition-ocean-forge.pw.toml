@@ -1,0 +1,13 @@
+name = "Awesome Dungeon Ocean edition - Forge"
+filename = "awesomedungeonocean-forge-1.19.2-3.0.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "611ffa6c37a909d3e71a3f428cb7e939311f670b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3999346
+project-id = 556490
