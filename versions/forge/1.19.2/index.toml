@@ -1496,6 +1496,10 @@ file = "config/treechop-common.toml"
 hash = "ae382538bbe3cdb11b7e272c1da9a79ec34df1ff67c97cdcc3f69fbd3a03b3a2"
 
 [[files]]
+file = "config/wwoo/wwoo_forge.json"
+hash = "663663a6eb009e5efde6113a141f89d08952a885f82f7674b5be3e7f683ead02"
+
+[[files]]
 file = "kubejs/startup_scripts/add_tags.js"
 hash = "c5e0b1c539bf06e6f4d9914080e5dd9a2970ded916b31d0614e5f74a57a9683f"
 
@@ -2382,6 +2386,11 @@ hash = "a4e4cabab7b3debb9ee5cb548fee5a71a9cd61f9819f270c8d64ef71d94fd243"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "191744e5469404f6959853cd5b778ddb570850f8a62d28247b042af44fc34e83"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "52f4a8d4e56562b734e43f10a44545ed6c595bd85a9c64980ec6107677c1a085"
 metafile = true
@@ -2394,6 +2403,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "eb445d9519a2a81b60706da33663b2fc8201de6d486d98489a0f97fa1b0b00a9"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers-structure-add-on.pw.toml"
+hash = "b94876aa2dd07c84f001e2266f42a0cf837c12f5d3d42f142d7787626c57838e"
 metafile = true
 
 [[files]]
