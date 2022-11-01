@@ -250,23 +250,23 @@ hash = "d4aa21bdd18e9c9853056f3af252fc80f1cdbc2474f5e30c03f92541423c7d6f"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/sawmill1.blueprint"
-hash = "ef40400b0b89b9581156e1ae82472a7e6119e640b2a49adee6a084af185e0f7d"
+hash = "371d0a0c1c3f02d16799a4d09d5edb6875e553c73af0348e8567d710102be7ca"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/sawmill2.blueprint"
-hash = "6429ab120a7028bf4bc5ce349a874c56d8e3471b1fa40f71d6d847b513f7d674"
+hash = "c8ff160251da18cb72a5f7f42e7007b511ef2127230c46ca3903a6c0f145efb3"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/sawmill3.blueprint"
-hash = "5526763f544b3e9a5f4ad84fc59f23cf2cf747b3e65388c2f3b562b5b89906e9"
+hash = "b724a4bb69931111a7a20d750c367c0ea94f9ebea1e034b251fbd792fc825dcd"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/sawmill4.blueprint"
-hash = "7b3211ec8aa992fff6eb7700bfc6ac2b80290be851c8664aa5f8237a476a955a"
+hash = "eea659a6acb7f027d1ae986b913dc4a6d0b937ac01ad6486c16f8d4fab124bf2"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/carpentry/sawmill5.blueprint"
-hash = "748af565bedf40d5fdfb190e032554d1ee392bb2a1c14b595f6b6f4d224efbcf"
+hash = "b7aa7c7fd7df2650a080f753fe6a8894f64439bdc83c759149b55d0049511157"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/icon.png"
