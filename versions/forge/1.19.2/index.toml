@@ -538,23 +538,23 @@ hash = "0819aa9a38091ff2ffdd2bcb61feea12f44350a2b1e969377bf8401b44dd40d0"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/storage/warehouse1.blueprint"
-hash = "bdb404e97713a8bd1b123a80872e753f039a7e744352b641104e8fbb81df2858"
+hash = "79a7ca03ac9652f214df9bac1079f3926fe7b6e5c6260a09285fa07fd4becd82"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/storage/warehouse2.blueprint"
-hash = "98a30392b3709b6178c42fef500d43dd75a0f56a8dc27ada190488021696bc77"
+hash = "79217e09eb343d44e6c325b25b977383599fea4318bb84eea13416211e990d41"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/storage/warehouse3.blueprint"
-hash = "2f053f6d569a3bbc34cdaee06e0a4fa47ecae400443f516c4e2036b031d726fc"
+hash = "415469497aea9391348da1ba4ef67d994d4d7a7fafb11c4e9916410cb7346a7d"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/storage/warehouse4.blueprint"
-hash = "d801362dc6057ef32076c407b03ded54458f55f15720874da8199485771d9969"
+hash = "cd7702ee662689e9bf5d3aaa0bce22cf294e4a2e9d08810049983bb7c968e83a"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/storage/warehouse5.blueprint"
-hash = "e1889737e5e5b26dade3f9841dbc39ec57ef2b2e2c808c5e06d51bfabbde705d"
+hash = "61a92ff9fc11d2336b4d20b863338a2d7da7d5f48e1acd50e131f371685a4788"
 
 [[files]]
 file = "blueprints/fantasy/decorations/icon.png"
