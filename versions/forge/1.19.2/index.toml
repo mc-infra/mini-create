@@ -41,6 +41,26 @@ file = "blueprints/fantasy/agriculture/horticulture/farmer5.blueprint"
 hash = "f228fbe9dd8434efa7460a9a234c9a32e8019d53253f9bd1baa694ae4c517a08"
 
 [[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmhouse1.blueprint"
+hash = "20ec3ab9e771380a8bd3e6b3db0786bdab5e5d049a1d6e6ce9989e26ab58b9ea"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmhouse2.blueprint"
+hash = "e12d1c5c7092b551946053b172ea3dc997f6f2f0390d8711e1028bc8bef48835"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmhouse3.blueprint"
+hash = "62526e82fc79ab7152e071d778004d7c287395f18dea24193c9a42d57b8b7b32"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmhouse4.blueprint"
+hash = "05484184c103a5a2d74d30a80cb571d86d0435643b85fac84e974d3722975abf"
+
+[[files]]
+file = "blueprints/fantasy/agriculture/horticulture/farmhouse5.blueprint"
+hash = "c78214345daeec6107286dddb368c89c003d900cb06883a103c504b925948ff6"
+
+[[files]]
 file = "blueprints/fantasy/agriculture/horticulture/florist1.blueprint"
 hash = "4deab0fd655599b868f459d0409fb582b0e2ea25283780d6486e9c2a5d343b1a"
 
@@ -378,23 +398,23 @@ hash = "fd2e530117f66265d026dedce6b6d841e4b1250be77778196aef97443e80b088"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/masonry/sifter1.blueprint"
-hash = "680100a4aa3dec8d2a11384d479438e91c867f854902abc6af7d1b91bc5e6a2c"
+hash = "79ef4c36e3fe154c5eb84b49a5e21c3fec29adf48d0fd3e97f0da96b1de2830c"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/masonry/sifter2.blueprint"
-hash = "e7cdcba8fd89251edf8fb4974718a34b1c7bd6818a47c7eaf9978fc99e318683"
+hash = "b9f8c440472e42582b75fb149d995fd4966242df553e3ce0fd25b69b4f254598"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/masonry/sifter3.blueprint"
-hash = "437e1720f1edaf83dbafad9c4ded95f6622879b5ae56cf144a580c40384c89df"
+hash = "3a72ff1a7da54e97aec474be778f622328fbe4a6ffa60cd39bd98ca362a8d257"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/masonry/sifter4.blueprint"
-hash = "20fe1f3a00c4c55bda491b673469abc4b389bfd48df9f7726fdc5c40e500aee7"
+hash = "6ac3c055df4486d525cc2b31d703afeb659fa9eeeb4a18f2d488f7bd8ca7740e"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/masonry/sifter5.blueprint"
-hash = "c80276d9dde33e91de9cae093e725c1acdc3aa7339ea9366312cbcd66eb9eb80"
+hash = "d71d2f3d2c538311ee1cbd820c9a0fab944e549c5f71cda4544d4d687751afd5"
 
 [[files]]
 file = "blueprints/fantasy/craftsmanship/masonry/stonemason1.blueprint"
@@ -751,6 +771,18 @@ hash = "07a960e01949112b074efcb2d633a74f13c144744661cf276dbca3f769af3c63"
 [[files]]
 file = "blueprints/fantasy/fundamentals/residence5.blueprint"
 hash = "9f16b1084eaf5b76495e1553cee9a6e8ce55ecbfed4a72df76749f3cb7e12889"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/tavern1.blueprint"
+hash = "13f6b9b5b8c2a323d020cbcfbe8f2971d4250af1220fc6b11507acc650a83aac"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/tavern2.blueprint"
+hash = "657f1c144edde77f2f35034a8d8235548464fe62629ba71d75234d0f8ceb7800"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/tavern3.blueprint"
+hash = "e685f98607be073e6eef6765e7b15a9792a40d378b5d4eb158179de5f9ffee41"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/townhall1.blueprint"
