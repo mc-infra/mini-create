@@ -1581,6 +1581,11 @@ hash = "03ebaa7cf5a99bed0b2c3f878b798b58ab5d193cc7b95423594b38032b776ecf"
 metafile = true
 
 [[files]]
+file = "mods/applied-cooking.pw.toml"
+hash = "9a036fe6eb0b2ad5f8edbfb591867fedd0de5aca22370c1a7151487f270a47cc"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "ca1d519332fb47972436916bf9bf8c7b4e6ce2146f056ec3c71d935e8fee5b70"
 metafile = true
@@ -1811,6 +1816,11 @@ hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "4a64969d76e39614c51bf6c762ebeb91c4ae71c0f23c070c805843121633a6b7"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
 metafile = true
@@ -1978,6 +1988,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "b0f1d81a9e809f8e7f5667bbe40905fdc8b0ad565c5fada64fe9d1ed360b1ca3"
 metafile = true
 
 [[files]]
@@ -2209,11 +2224,6 @@ hash = "35dfd476a644abffce8b0d1c0cd383a47fc4511bd4c709dbc46edfb74c19c606"
 metafile = true
 
 [[files]]
-file = "mods/nutritional-balance.pw.toml"
-hash = "5e05d36bf2d2c819638dfbcbf7bea3b6441308f1c6b4da1859e21d392c46984f"
-metafile = true
-
-[[files]]
 file = "mods/occultism.pw.toml"
 hash = "6ca8d733ad394e32b5783936148979a73ca2beabe83b2cfc653e14eda360b1a5"
 metafile = true
@@ -2395,6 +2405,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "79627431525a3986af78d2d583b2b1dd79907c32f4784bb74d44dd68deb79378"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "6d7c5048a2c500d8c6198aaf1f9f0673f7a8621763b2704d0b3e7563fe25768b"
 metafile = true
 
 [[files]]
