@@ -1971,6 +1971,11 @@ hash = "97513b37a73b67a83f0f6fe6a6ff7330dceadca7f87405e262e9476e6b3b39ab"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "e6f923a462483ca6233b7860d88952594417afa578196d690b7112339f469a6c"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
 metafile = true
@@ -2465,11 +2470,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "03aefbc359e01156d0fe9bf137fb82314e96553297517b9f0a1917d8569bfc85"
-metafile = true
-
-[[files]]
-file = "mods/treechop.pw.toml"
-hash = "ecb62b2badc6d31cbc0903f7ff0b6acd76a7f20c4d09b9e550c19b4356f2bdce"
 metafile = true
 
 [[files]]
