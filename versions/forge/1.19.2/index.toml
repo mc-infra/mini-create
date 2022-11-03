@@ -1591,11 +1591,6 @@ hash = "ca1d519332fb47972436916bf9bf8c7b4e6ce2146f056ec3c71d935e8fee5b70"
 metafile = true
 
 [[files]]
-file = "mods/applied-mekanistics.pw.toml"
-hash = "7b55bcfaff16d90518a95e8566d27aa766700b049eecc486827510eeb8c068d9"
-metafile = true
-
-[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "1510ae4689809d36ed37b81f8bdef180ba8b3eda83b1bd8e8cb79ea8e371d4b0"
 metafile = true
@@ -2149,16 +2144,6 @@ hash = "dc7d4795bd7f609801a02534611b6f9c0db6b564223665f696b0a683a8caefb1"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-additions.pw.toml"
-hash = "f06ae2c55e9ea3ac2da144c4f96a4dfb7368a3c331454dcfae3f0bda1b7513bf"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.pw.toml"
-hash = "0ffbd6ea67b31857422d1987060a0211a16fbcc3d4c15ebe9a946cbdca217005"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies-for-computercraft.pw.toml"
 hash = "cf4036da487618e38f217e6de9d9ac1167074b291a2d8d50529fa6c0d5fd10eb"
 metafile = true
@@ -2186,16 +2171,6 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "992e8a98eebdcb7b2e288809d4d3eb4a0445912dcf02c04b7ef534c750b7e520"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agriculture.pw.toml"
-hash = "dd40d6e5d75bdaa95e25990a7266d1829d319c87cca884b257460b68c662162b"
-metafile = true
-
-[[files]]
-file = "mods/mystical-customization.pw.toml"
-hash = "9b0e7d2810efcdb222607a78cf1b4a201c023dafccabe1db661e86ad746779cc"
 metafile = true
 
 [[files]]
@@ -2311,16 +2286,6 @@ metafile = true
 [[files]]
 file = "mods/reblured.pw.toml"
 hash = "325f45b8a930daa729880b5378442de8f8d130da1f029cdd1eeb9a3c64b0f745"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage-addons.pw.toml"
-hash = "76c979281f6f7b7ad2ad42f362184b2d52beb73e2a17bfe4a0eedcb1a684a098"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "cf08be979d4f5da28cbee7e74dc4dd514e70e953f38e3cab05401a37aa9689c9"
 metafile = true
 
 [[files]]
