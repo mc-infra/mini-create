@@ -1,0 +1,13 @@
+name = "Move Plus"
+filename = "moveplus-1.19.2-2.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f606ddebc8430c8204a4c0f2305004906bb4fbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929002
+project-id = 237758

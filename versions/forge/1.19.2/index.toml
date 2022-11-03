@@ -1301,10 +1301,6 @@ file = "config/computercraft-client.toml"
 hash = "2c8af9abc3b7e60f4ba530c723e17e255d9081a7723a64222393a8fc1401f0f4"
 
 [[files]]
-file = "config/itlt/icon.ico"
-hash = "a16c19963f5be316fef8533770907779f6e4abdb2a18121157712cf7cb7ba408"
-
-[[files]]
 file = "config/openloader/.cache"
 hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
@@ -2119,11 +2115,6 @@ hash = "6d7a5777487a3ffbfe06a569105dbeb0f9f36e93706378455d6977c85274b1e8"
 metafile = true
 
 [[files]]
-file = "mods/its-the-little-things.pw.toml"
-hash = "3f8d4e5a4d57d0f8678f51b5fe64e59eb658fe7fb619c0e8692f7c453dce8e8c"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "223c068a67e77d8597b06c16c14780484f56440b507a9bd8b85f132133f77dbd"
 metafile = true
@@ -2185,6 +2176,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
+metafile = true
+
+[[files]]
+file = "mods/move-plus.pw.toml"
+hash = "e9b8b15e03eec8c22d39bfebd03dafd5af855c3234f63714f28d2c62d2ce219b"
 metafile = true
 
 [[files]]
