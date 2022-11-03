@@ -2115,6 +2115,11 @@ hash = "6d7a5777487a3ffbfe06a569105dbeb0f9f36e93706378455d6977c85274b1e8"
 metafile = true
 
 [[files]]
+file = "mods/its-the-little-things.pw.toml"
+hash = "3f8d4e5a4d57d0f8678f51b5fe64e59eb658fe7fb619c0e8692f7c453dce8e8c"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "223c068a67e77d8597b06c16c14780484f56440b507a9bd8b85f132133f77dbd"
 metafile = true
