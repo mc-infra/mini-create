@@ -2348,6 +2348,11 @@ hash = "d650e3c7664e4d19863a7d453bf762e1ace553d358e00a0031df58ab008c35d1"
 metafile = true
 
 [[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "ae42648e9af29641f6615009d2a1d462b556017ef5872d430bb965fcf8432089"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "1068336c1833c89b64353443acdc52fa0b7b1e1aabc80dddf0ff8792c5f5ac1b"
 metafile = true
