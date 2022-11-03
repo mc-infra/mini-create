@@ -1976,11 +1976,6 @@ hash = "2862eaffcb20700cd2036e54339c94e49776c929dd5e46ec338b142bccce4788"
 metafile = true
 
 [[files]]
-file = "mods/extrastorage.pw.toml"
-hash = "97513b37a73b67a83f0f6fe6a6ff7330dceadca7f87405e262e9476e6b3b39ab"
-metafile = true
-
-[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "e6f923a462483ca6233b7860d88952594417afa578196d690b7112339f469a6c"
 metafile = true
