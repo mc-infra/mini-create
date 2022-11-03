@@ -1294,7 +1294,7 @@ hash = "9cf4d31d2325026ec29a0d5b264ae78df51fca448441364423680f3d47e59518"
 
 [[files]]
 file = "config/citadel-common.toml"
-hash = "f198e111c56c4679c5773843a9d1ec50c204764d6b306e5e9f87fbaf6aec547c"
+hash = "eed7af0c2adf2d456069f41b0ab58f1f8eefbe1b13c33a3ffcea16a151948384"
 
 [[files]]
 file = "config/computercraft-client.toml"
