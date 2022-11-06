@@ -2289,6 +2289,11 @@ hash = "9f5e65eb4286adb235f23f42dfff11c4486a776003ac03f7c58df34a3ba1ddd9"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "9d53a86abc4a65b795c36bf4588b4d86ca12abddedfa0a0be03967294ad09997"
+metafile = true
+
+[[files]]
 file = "mods/potato-canon-plus-forge.pw.toml"
 hash = "a9e84cf8eea52af2a9af413e4a003a2651a64b0630cd024f0ddf53a12432cbea"
 metafile = true
