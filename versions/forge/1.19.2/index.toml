@@ -537,6 +537,26 @@ file = "blueprints/fantasy/craftsmanship/storage/deliveryman5.blueprint"
 hash = "0819aa9a38091ff2ffdd2bcb61feea12f44350a2b1e969377bf8401b44dd40d0"
 
 [[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliverymanalt1.blueprint"
+hash = "be01e74ec6fd81dd66355cd4356bc0e5e0c48141edc52802afd6f6886a62882c"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliverymanalt2.blueprint"
+hash = "736fd676365f042b74d7878485f3e87a98596733f08df0dc4ec7f13f74567764"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliverymanalt3.blueprint"
+hash = "574ac00ed42fbf3393023bc3892ee4fff5708996e783c44bf51ba914df0a2230"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliverymanalt4.blueprint"
+hash = "df08b425628e064c541b921061abe68f500bf5340ed2b67470512e60015fc778"
+
+[[files]]
+file = "blueprints/fantasy/craftsmanship/storage/deliverymanalt5.blueprint"
+hash = "7a5953a12caeebf63b715d3fd0f3eb7b6903dbc71ad6d692f9a3a77a454d98aa"
+
+[[files]]
 file = "blueprints/fantasy/craftsmanship/storage/warehouse1.blueprint"
 hash = "79a7ca03ac9652f214df9bac1079f3926fe7b6e5c6260a09285fa07fd4becd82"
 
