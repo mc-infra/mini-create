@@ -2189,6 +2189,11 @@ hash = "4138f43dc95b66d7bc1ee97bec1f48b9eec342424908012b81b7180b0fa13b67"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "d8b358a5ec37dcf39c7317e1ba80738ff2f7811f45d5c4382597e8558e68680e"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "c11bf2b2a539d83709331caa7b2a0203f6a2eb8cc8c8fcd9423ba45a58a64093"
 metafile = true
