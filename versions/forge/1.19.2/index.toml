@@ -665,6 +665,26 @@ file = "blueprints/fantasy/fundamentals/builder5.blueprint"
 hash = "8e4edb5942967143ae2e7cf4b2f370444b3eb8ddd2b15621cd3061ee5685f069"
 
 [[files]]
+file = "blueprints/fantasy/fundamentals/builderalt1.blueprint"
+hash = "12087476defd41b1c072d7f38204592e3e05d3b375daa96fb92e2f42aae332dd"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builderalt2.blueprint"
+hash = "9305bb761c1b40e2a5070a6ad18197eff693d1a033cf8e47e1f414aecb799761"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builderalt3.blueprint"
+hash = "555b11c544ffdb37f25866aacb65ad26d438f5cfb412087eac1b1570ff105294"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builderalt4.blueprint"
+hash = "81d247317e7a9573ef8d686a4019b0a138a409382cfdf6b4f0ae754e294d34c6"
+
+[[files]]
+file = "blueprints/fantasy/fundamentals/builderalt5.blueprint"
+hash = "b3e6fc7202ee3db1ec807d2aade6f68e7e4e4143616cc07e46ee22865cfb1f2a"
+
+[[files]]
 file = "blueprints/fantasy/fundamentals/cook1.blueprint"
 hash = "2d9eccacb22ceefeb1e74874d9c2f8c5651720570745ed3526adf85bd98188e5"
 
@@ -734,23 +754,23 @@ hash = "28b7e6e657a6338881f384698f0bb2e51e8d29be849c83cfdcd389e66e108fb3"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/miner1.blueprint"
-hash = "2e58ebc5a262e924f6b913c831b5d75abdd27c8ee36737bc941d73649f33e03c"
+hash = "9b5881fd1e2d822db1e0ccc91be0aa0359d0f0d2c4222bee1fa1372647808869"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/miner2.blueprint"
-hash = "10d3a11c07d244fd30cdb7bb0429d4a0e0d99dd6aef872007670bc4528d2bf52"
+hash = "4d942d4cacf80ff8a4a69d22724ac3c4852e98bd7a24fb5b7b6e04c37f3410ed"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/miner3.blueprint"
-hash = "4a00b0f2478e6918d5a0753c98b95d5d675c000b17c5a166ed6d3f6a9040f125"
+hash = "f3611da3324fa8326e438fc190cbdcbff121bfc0552bfd71940e65f065fd2238"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/miner4.blueprint"
-hash = "0c4e53664e9adc4b53009d2c6991b96a669d45c24b64df25d9ffaf67363650a0"
+hash = "81692673ede438576a4cb518e0b02369d1838c86ecf1796c3ed2da07bfa97aa0"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/miner5.blueprint"
-hash = "c010facf16cc52b4e847855afd7e2b1207853415dd1accb6b15ec2d9e88287f2"
+hash = "c5ec06bb44d97613f0f6bbfb7b4f890cb878b8f96aacbc86e1a0b053c8720cd0"
 
 [[files]]
 file = "blueprints/fantasy/fundamentals/residence1.blueprint"
