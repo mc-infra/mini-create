@@ -1,13 +1,13 @@
 name = "Delightful"
-filename = "Delightful-1.19-3.1.2.jar"
+filename = "Delightful-1.19-3.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "36a4b7024343fe4d4f1e3c0663fe408801261465"
+hash = "7b1bc8b3871cae2e069eac08d0eb2d1ae7fe7dcf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4050334
+file-id = 4083221
 project-id = 637529

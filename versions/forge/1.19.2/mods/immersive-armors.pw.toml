@@ -1,13 +1,13 @@
 name = "Immersive Armors [Fabric/Forge]"
-filename = "immersive_armors-1.4.2.jar"
+filename = "immersive_armors-1.5.0+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0226b1b3a0fb158765fdd982306788e97688bb93"
+hash = "be11062f103e2d3cf06f5969de52c11d0d3bec0b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3921020
+file-id = 4095709
 project-id = 580681

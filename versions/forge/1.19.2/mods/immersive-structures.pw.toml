@@ -1,13 +1,13 @@
 name = "Immersive structures"
-filename = "[Universal]Immersive_Structures_v2-0-4.jar"
+filename = "[Universal]Immersive_Structures_v2-0-6.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "89a98bbea70602cb51d845e5c51e488d251c6a01"
+hash = "f232ceced52368101db0294d8130f8908fc84ece"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4028422
+file-id = 4100374
 project-id = 637201
