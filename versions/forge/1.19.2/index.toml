@@ -1669,11 +1669,6 @@ hash = "03ebaa7cf5a99bed0b2c3f878b798b58ab5d193cc7b95423594b38032b776ecf"
 metafile = true
 
 [[files]]
-file = "mods/applied-cooking.pw.toml"
-hash = "a6d81668556c7d4768e1904b488174138c56a91182f22d533eb9ebb251eb3ed2"
-metafile = true
-
-[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "d2e0b626fbc6d1bc37eccbb3b93796ac44d377c171bd3a701edd9cbce47bcad3"
 metafile = true
@@ -1926,6 +1921,11 @@ metafile = true
 [[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "97e7eac2aab642dc0dee549e0ddb0b50c90b962ea8e2e76fa784dcdfcf489122"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "61ffc162ba8b38160c93b388718f29af9520ba4cda733ade6e80966b597a5cc4"
 metafile = true
 
 [[files]]
@@ -2193,6 +2193,11 @@ hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "d6a5e769aba7ff60bbae0a413a314fdcd2a1a84dca82a5005eba77c757040ed0"
+metafile = true
+
+[[files]]
 file = "mods/inventorio-forge.pw.toml"
 hash = "4a62e1b9a7f3c2b858b014e14a3bd1b79d637f41ee42a6e541304053fc4b27c3"
 metafile = true
@@ -2279,6 +2284,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "c4ce8a94f9b56c5afe792f655030f4a4dcf84de01443d40788d78c410377ac10"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
 metafile = true
 
 [[files]]
@@ -2456,6 +2466,11 @@ hash = "9a4c1d9ee2fd12cf08d54f13ab53c7416a64a32921f44014647c50f58aa65e7f"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "3a1c74f883fbeafd83f783f772af78d39373871eff9ffe5c406a67a15d902d87"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "1068336c1833c89b64353443acdc52fa0b7b1e1aabc80dddf0ff8792c5f5ac1b"
 metafile = true
@@ -2538,6 +2553,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b53e3b79cf8d2991c3882dd4f412141a4d6610e72c45c757bdf5cc06da2efbc8"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "29cb5b33d82d045486651230f372e2412b087d97c5f1edc239cbd82e2b53d029"
+metafile = true
+
+[[files]]
+file = "mods/tetratic-combat.pw.toml"
+hash = "3b06afd1e63e37b80d4f769a15e327b9a573ab88e44766c464ae031079805676"
 metafile = true
 
 [[files]]
