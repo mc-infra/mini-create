@@ -1730,6 +1730,11 @@ hash = "78f0b6c62f0089050f8e9b6ab97de7af066d3789d4f9218ec086b530ca45598c"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "679ff153724bf9aec89645d48765f108fd75362e387b6e33e920e6ec5f33fba6"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "70586524d54fab4e7201b558bd48ee5c546300ecfd6e6a8a888dc6935def13c4"
 metafile = true
@@ -1861,7 +1866,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
 
 [[files]]
@@ -2334,7 +2339,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "98d30845a6c8d7a8eb32eaf08e3aff0a60d98fbca41a2952332c2edd548fb1be"
+hash = "f1bfd5d59d29859867faa7de284585b8396be20cfbfe66bbb833ccdaf7f0ba56"
 metafile = true
 
 [[files]]

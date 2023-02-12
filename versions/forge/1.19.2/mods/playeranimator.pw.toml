@@ -1,13 +1,13 @@
 name = "playerAnimator"
-filename = "player-animation-lib-forge-0.4.2.jar"
-side = "client"
+filename = "player-animation-lib-forge-0.4.2-test0.jar"
+side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/blp8J65W/player-animation-lib-forge-0.4.2-test0.jar"
 hash-format = "sha1"
-hash = "97485df0b8e22e29dfcd8d3c3b83005a81e63f19"
-mode = "metadata:curseforge"
+hash = "cbb7caabc4c06767aa5f364a5d213147c0360f44"
 
 [update]
-[update.curseforge]
-file-id = 4357568
-project-id = 658587
+[update.modrinth]
+mod-id = "gedNE4y2"
+version = "blp8J65W"
