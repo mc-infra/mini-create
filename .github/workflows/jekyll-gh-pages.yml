@@ -50,10 +50,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - uses: actions/upload-artifact@v3
-        with:
-          name: pages-staging
-          path: ${{ matrix.branch }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
