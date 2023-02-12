@@ -2219,7 +2219,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "d93b24738d19f8c9611c05f30a74e615f9412a959bb3a4a16661d31be08a3493"
+hash = "15bab7aef2da1c1bf579bd728a270fca71cf9ba457fa4ac1065ffd2c4c692bf8"
 metafile = true
 
 [[files]]
