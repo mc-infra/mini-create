@@ -1909,11 +1909,6 @@ hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
-file = "mods/cooking-for-blockheads.pw.toml"
-hash = "4a64969d76e39614c51bf6c762ebeb91c4ae71c0f23c070c805843121633a6b7"
-metafile = true
-
-[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
 metafile = true
@@ -2086,11 +2081,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
-metafile = true
-
-[[files]]
-file = "mods/farming-for-blockheads.pw.toml"
-hash = "b0f1d81a9e809f8e7f5667bbe40905fdc8b0ad565c5fada64fe9d1ed360b1ca3"
 metafile = true
 
 [[files]]
@@ -2473,6 +2463,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "1068336c1833c89b64353443acdc52fa0b7b1e1aabc80dddf0ff8792c5f5ac1b"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "06f467249cab1d4643ac57b6829782357adc7dde45b0720acce08e8de56261e5"
 metafile = true
 
 [[files]]
