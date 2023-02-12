@@ -1377,6 +1377,10 @@ file = "config/ae2/common.json"
 hash = "9cf4d31d2325026ec29a0d5b264ae78df51fca448441364423680f3d47e59518"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
+
+[[files]]
 file = "config/citadel-common.toml"
 hash = "eed7af0c2adf2d456069f41b0ab58f1f8eefbe1b13c33a3ffcea16a151948384"
 
