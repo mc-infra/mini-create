@@ -1,13 +1,13 @@
 name = "MineColonies for ComputerCraft"
-filename = "Colony4ComputerCraft-1.19.1-2.3.1.jar"
+filename = "Colony4ComputerCraft-1.19.2-2.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2697a88e826d00a4162cedd72cab0f8c97d8878b"
+hash = "63d5fea09fbb251740f95976dad061baafb50000"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3984877
+file-id = 4119319
 project-id = 445290

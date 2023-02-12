@@ -1,13 +1,13 @@
 name = "Create Deco"
-filename = "createdeco-1.2.11-1.19.2.jar"
+filename = "createdeco-1.2.12-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a307c7e1244c0c6b0ab5cdd9d50dd3f675e7d84b"
+hash = "be1aae5a8d7a33577e604cb50f6dacec16c83fae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4016361
+file-id = 4183385
 project-id = 509285

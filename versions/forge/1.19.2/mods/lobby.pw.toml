@@ -1,13 +1,13 @@
 name = "Lobby, Fishing and Mining Dimension"
-filename = "lobby_1.19.2-7.0.0.jar"
+filename = "lobby_1.19.2-7.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5652d42e4ca64ecff5d807f367178480cd00dde4"
+hash = "3b15242220b067f96a36affe4e167d060be2b196"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3931205
+file-id = 4162895
 project-id = 567798
