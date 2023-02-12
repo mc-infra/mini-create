@@ -30,7 +30,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          path: ${ matrix.branch }
+          path: "versions"
+          ref: ${ matrix.branch }
       - uses: actions/upload-artifact@v3
         with:
           name: ${{ matrix.branch }}
