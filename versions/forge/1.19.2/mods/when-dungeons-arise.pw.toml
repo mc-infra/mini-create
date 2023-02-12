@@ -1,13 +1,13 @@
-name = "When Dungeons Arise - Forge!"
-filename = "DungeonsArise-1.19.2-2.1.54-release.jar"
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.19.2-2.1.52-beta.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/8DfbfASn/versions/wtEUJaeq/DungeonsArise-1.19.2-2.1.52-beta.jar"
 hash-format = "sha1"
-hash = "9f49ef7156a8c29483e3111a851bc6e5fa184c3b"
-mode = "metadata:curseforge"
+hash = "edac46e106985feb9db77d82f60ca89b56274c72"
 
 [update]
-[update.curseforge]
-file-id = 4151747
-project-id = 442508
+[update.modrinth]
+mod-id = "8DfbfASn"
+version = "wtEUJaeq"
