@@ -1389,10 +1389,6 @@ file = "config/computercraft-client.toml"
 hash = "2c8af9abc3b7e60f4ba530c723e17e255d9081a7723a64222393a8fc1401f0f4"
 
 [[files]]
-file = "config/openloader/.cache"
-hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
-
-[[files]]
 file = "config/openloader/data/custom/assets/lobby/lang/de_de.json"
 hash = "de782591805813aab27610bfa8c8cf644fc38cf5e608e76527960032fed84f16"
 
