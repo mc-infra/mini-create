@@ -1809,6 +1809,11 @@ hash = "6207006280fbdff86b69edf459d4c4fc4ae03363bdc433aa091b4c4eed544f8b"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "8ac22860822445b025b3149042120b46d30685646aa81c5396b8fab096ed766d"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "a7b56915dd6a1886298d03c44bb49c9e0d170986493faa7cbe1c6b8f0880093a"
 metafile = true
@@ -2044,6 +2049,11 @@ hash = "64e919364086f659b6b9ab8a14c42ab4c76139d100d934971f88d9deb3b4ccc2"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "fb77cff418d82d6a45d0dba21c67044055c1c803a0027e559568146f0bdc45b2"
+metafile = true
+
+[[files]]
 file = "mods/eccentric-tome.pw.toml"
 hash = "75960027d446fca46fd5f3eaf81c9be4a212283c61e12043280a6b6893a5d224"
 metafile = true
@@ -2237,6 +2247,11 @@ hash = "728a6d55553b54f9e545ba6ea0a8ba4b97067caa05d6c1f7ae5c0d367d5d249b"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "d93b24738d19f8c9611c05f30a74e615f9412a959bb3a4a16661d31be08a3493"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies-for-computercraft.pw.toml"
 hash = "7a2c165539640ebcdf4846b9025c913abb38f7bd1a142815399dd9c025708441"
 metafile = true
@@ -2324,11 +2339,6 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a1e3ad26ef9afc2515b5f530cfd00e8a43675375d4ce9252cc6dcc90ad8d3957"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "58e06eeb61c9640f48bca3a95ca50af757792719146a33a7a1a31025e875858a"
 metafile = true
 
 [[files]]
@@ -2588,16 +2598,6 @@ metafile = true
 [[files]]
 file = "mods/william-wythers-overhauled-overworld.pw.toml"
 hash = "c075471a142d4c00fb8833976d2a9852423be8e9a356d005103b8c18b59e175f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "28abbc86e422d9f8263dd45132bdab8fa8ce4e2f9cb415997f821e0ab0e02235"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "3d0e7fcc4b54e29b4ee0a73d0114a23505560a2779b7e25c34a26da62b203498"
 metafile = true
 
 [[files]]
