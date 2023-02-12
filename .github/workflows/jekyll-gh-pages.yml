@@ -33,16 +33,16 @@ jobs:
           path: ${ matrix.branch }
       - uses: actions/upload-artifact@v3
         with:
-          name: merged-branches
+          name: ${{ matrix.branch }}
           path: ${{ matrix.branch }}
   # Build job
   build:
     runs-on: ubuntu-latest
     needs: merge
     steps:
+      # Downloads all artifacts to the working directory
+      # - dev branch -> ./dev path
       - uses: actions/download-artifact@v3
-        with:
-          name: merged-branches
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
