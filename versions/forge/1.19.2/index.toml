@@ -2213,11 +2213,6 @@ hash = "c24490bd61b10d6297d3e64f2a9f19a8a281ce0442734ed2ba7902f364dae663"
 metafile = true
 
 [[files]]
-file = "mods/lmd.pw.toml"
-hash = "fb7ee36017aa54672ea37cf307855ca845197f3a5e8ee211bc35832678ad015d"
-metafile = true
-
-[[files]]
 file = "mods/lobby.pw.toml"
 hash = "728a6d55553b54f9e545ba6ea0a8ba4b97067caa05d6c1f7ae5c0d367d5d249b"
 metafile = true
