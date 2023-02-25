@@ -3,11 +3,11 @@ filename = "carryon-forge-1.19.2-2.0.5.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/joEfVgkn/versions/2jx3bUuL/carryon-forge-1.19.2-2.0.5.10.jar"
 hash-format = "sha1"
 hash = "a31b5f5c1837ae71f9c3917b67c3ae9b383c1cc9"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "joEfVgkn"
-version = "2jx3bUuL"
+[update.curseforge]
+file-id = 4375891
+project-id = 274259

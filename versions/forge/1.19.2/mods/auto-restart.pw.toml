@@ -1,0 +1,13 @@
+name = "Auto Restart"
+filename = "AutoRestart-1.19.2-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc9bc2c5e242fd670904bf2b26de8dbfe2fe1770"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3932581
+project-id = 389711

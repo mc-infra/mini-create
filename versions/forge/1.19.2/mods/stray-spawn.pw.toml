@@ -1,0 +1,13 @@
+name = "Stray Spawn"
+filename = "strayspawn-1.19.2-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b92a00914bcd81f56250afa64b9a67ddccbfa97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4301402
+project-id = 348172

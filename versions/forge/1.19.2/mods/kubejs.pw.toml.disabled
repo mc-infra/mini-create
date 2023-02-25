@@ -1,7 +1,0 @@
-name = "kubejs"
-filename = "kubejs-forge-1902.6.0-build.9999.jar"
-
-[download]
-url = "https://github.com/mc-infra/mini-create/releases/download/v1.0.0-survival/kubejs-forge-1902.6.0-build.9999.jar"
-hash-format = "sha1"
-hash = "e9c6a01dd887dcb87cdc0644eae2d96d105a96e7"

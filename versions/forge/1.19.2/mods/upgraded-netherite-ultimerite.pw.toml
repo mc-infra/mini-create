@@ -1,0 +1,13 @@
+name = "Upgraded Netherite : Ultimerite"
+filename = "upgradednetherite_ultimate-1.19.2-4.1.0.2-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "856c8ad2f2e18a5835a8d27403cd5a5d62e535ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4036850
+project-id = 566868

@@ -1,8 +1,0 @@
-name = "ctov-farmers-delight-compat"
-filename = "ctov-farmers-delight-compat-1.1.jar"
-side = "server"
-
-[download]
-url = "https://cdn-raw.modrinth.com/data/CdRC4fyI/versions/cAJ0K7Ga/ctov-farmers-delight-compat-1.1.jar"
-hash-format = "sha1"
-hash = "31692aacdbb7160de3b23226a19f6ca91721c2b1"

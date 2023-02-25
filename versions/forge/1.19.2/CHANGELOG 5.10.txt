@@ -1,0 +1,23 @@
+- added Go Prone, crawling is back,.
+- added Tom's Create Storage resource pack, with some tweaks.
+- updated Forge to version 43.2.4
+- updated many mods.
+- enabled carrying villagers like spawners and chests, for small animals use cages.
+- added The Hill to the built-in servers list, IP: szymonlach.ddns.net:25565
+- tweaked many Tom's Simple Storage recipes.
+- added a couple advancements for Tom's Simple Storage.
+- fixed schematicanon crashing servers.
+- fixed crash with Create's belt.
+- fixed overlap between quiver and toolbox keybind, press X for the quiver UI.
+- reduced pebbles in coarse dirt texture.
+- fixed some start-up issues with some graphic cards.
+- disabled quiver rendering on fighter skeletons.
+- removed unplayable built-in servers.
+- fixed andesite and copper casing doors transparency issues.
+- changed glowshroom block texture.
+
+
+
+- added Auto Server Restart, by default only restart on crash and if empty for 30 mins.
+- updated Forge to version 43.2.4
+- fixed unwanted characters in chat formatting.

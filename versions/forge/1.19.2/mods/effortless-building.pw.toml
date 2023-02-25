@@ -1,0 +1,13 @@
+name = "Effortless Building"
+filename = "effortlessbuilding-1.19-2.40.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84ed682727044cc73f788c472af77a41fe584607"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4369798
+project-id = 302113
