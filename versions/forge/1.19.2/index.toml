@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG 5.10.txt"
-hash = "9b3d1e925d20a34eda024871aa06a46231ffa491fcf530fb1443518855d8972b"
+hash = "f56ccfe50592bd3c50e02c335f24b7a9829d3f7427dd96671d04abab659a8d05"
 
 [[files]]
 file = "README.txt"
@@ -1389,6 +1389,10 @@ file = "blueprints/fantasy/walls/palisade/palisade_wall.blueprint"
 hash = "a1720c4039aedc29f4f09587c6dcc6614a89138e88679f59294160c373d869ab"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
 file = "config/NoChatReports/NCR-Common.json"
 hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
@@ -1765,6 +1769,10 @@ file = "config/alexsmobs/warped_toad_spawns.json"
 hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "1dd2b1824ce4071c9f3004b32581dc3920bb6ae1ae5e66dc4c7a83a06aac2a18"
+
+[[files]]
 file = "config/beautifiedchatserver.json5"
 hash = "b8a711e17f4f22f40a23680ea7825115de37f58c5abaeff4eb4b2f976a132143"
 
@@ -1849,12 +1857,20 @@ file = "config/biomesoplenty/generation.toml"
 hash = "872d94df282fd9d2b1e3664b36732684273e8fc8b366cb7cad84c96bd2119a7d"
 
 [[files]]
+file = "config/blueprint-client.toml"
+hash = "89ef9f568d793018db983b9f944e85876a4cebd408f8f4d2182b3c38fa44ef7e"
+
+[[files]]
 file = "config/blueprint-common.toml"
 hash = "d335fd00458005d989d55a6615073d5b390ea08d5e1d129229518f90d5d3ef9b"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
 hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -1877,12 +1893,44 @@ file = "config/connectivity-common.toml"
 hash = "7941dc7f761c7d5296c0d29d0184c3c63c41f73b605cec9ec1ddbc12664f475b"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "216780c55d78d8c98a270bc4c509b87ebb7b64c05dfecd4d874d0431090fa029"
+
+[[files]]
 file = "config/create-common.toml"
 hash = "b2a49a7bbb48c346464a3bb17b72ebfa9eca06410f04bc0f518b5e049ab155fc"
 
 [[files]]
+file = "config/creeperoverhaul-client.toml"
+hash = "5e3d7da7aa6694dfb9664faa3bac07d9af9fb20b1e37d3cd77e716aacc439119"
+
+[[files]]
 file = "config/creeperoverhaul-common.toml"
 hash = "a9309d523c03eb73480aaa416d7acf478e1c76bbecc60f15b12a404dede761bf"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "f7b6947805559511a423f8ef9fe8b64051440cd545c7bcbc82cc862365c52657"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "3f483e677752febfd50ea6d3306b65173fd27fb99e32f24978acbca7380d0502"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "488dc9bce56f9cdb24243b5f8227bf4e3db34d3db7ce396eab027410dc39b705"
+
+[[files]]
+file = "config/defaultoptions/optionsof.txt"
+hash = "8f173d72d808475f8f83ecee09bdeb3ca0aa831334e298ba9a0905a86f497248"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "b4815f0713043ecc2cb215095ad4423c58ea6b842a01205a9dcf30ed05dd91ab"
 
 [[files]]
 file = "config/dragonfight-common.toml"
@@ -1893,12 +1941,28 @@ file = "config/dramaticdoors-common.toml"
 hash = "e7b35db58174efe273f1eff6af4b5c551d38bab8d5f89a9482a5f05453fbe689"
 
 [[files]]
+file = "config/drippyloadingscreen/config.cfg"
+hash = "9a833d452d070e5a6243f65deaba4a1c53751dce7b8227ba52b1a91a5e4eece6"
+
+[[files]]
+file = "config/drippyloadingscreen/customization/LoadingScreen.dllayout"
+hash = "1f1eba90c6ce13b8c790685ccf533a0bd56146ac1f71b201dcf0b01f3cf157e5"
+
+[[files]]
+file = "config/drippyloadingscreen/locals/en_us.local"
+hash = "09108361eb5ab1be4b0387b8f31d3b2af3be151c048b78d75e54ca451459db04"
+
+[[files]]
 file = "config/dustrial_decor-common.toml"
 hash = "65bee35380cc3b7c4e10b90524d1ec7a81e2591fcae3e29c0459a5f9cb871eeb"
 
 [[files]]
 file = "config/effortlessbuilding-common.toml"
 hash = "1887a3cf8e735f5882642075d6cda6062d7132b69be332623c6e4e14985d55e3"
+
+[[files]]
+file = "config/enchantwithmob-client.toml"
+hash = "6e3634685cbc5bd5c26cb3e88f1283eac44b4c11a056fd9230d76fd33f10fa1e"
 
 [[files]]
 file = "config/enchantwithmob-common.toml"
@@ -1913,6 +1977,74 @@ file = "config/everycomp-wood_types.toml"
 hash = "1296735c6025c221e0fc3a42037c2bef43e3bc440bb296a8802caaa7c6634676"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "5020a7777c869844b902444742c0e787623d85976aea99d874028715dae88a75"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "2842d4d4d2dd9a51d952af563639fd846716ef1c3a947aa5d0572212957a5ab2"
+
+[[files]]
+file = "config/fancymenu/customization/LoadingScreen.txt"
+hash = "ad0409ff177339ffcfda4086998a15d5dc38f7b986dac45d2fea81cf3c9ad860"
+
+[[files]]
+file = "config/fancymenu/customization/MainMenu.txt"
+hash = "f9bebf9c2ec1b947ed81231758541619a1cff4551f6b90dc0a280d09c5f33289"
+
+[[files]]
+file = "config/fancymenu/customization/PauseMenu.txt"
+hash = "2cd840cf8ff2294815306147ac2c983c8aac14c7b2969c0dace20aca9af57bb6"
+
+[[files]]
+file = "config/fancymenu/customization/ServerSelect.txt"
+hash = "10375747f33f79acde6aafee23ef338fe2be73fa21b771a1128dc28ba1357815"
+
+[[files]]
+file = "config/fancymenu/customization/WorldSelection.txt"
+hash = "3292a2a31f2a5c91616923c52f2459247fe7ac4e18a1dc5cf7a31528c95cb33d"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "6e5f6a7fce57921106335d54801ca78557bfb7db45bb10122240ec9fb6503b34"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "e4da486fe50a579c1d34e90ab3b51a0c2bb80ac2c66dbb84e6b64a03c59bfff7"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "74eed050b4d6e96444852a2e5e7ec03f1762dc0b1f44ee6469cd9bbdbaacf7cc"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "3992e7675243c3eeec9330c5ac17b22fea226af34b132fdae56c189cabbdfa82"
+
+[[files]]
 file = "config/farmersdelight-common.toml"
 hash = "ed7cec2d792c9387bf6871fb6fb67f0b949f4d85224420ec7915fc4189caf738"
 
@@ -1925,8 +2057,16 @@ file = "config/ferritecore-mixin.toml"
 hash = "bddbf817688cf9e35c0e1b516f7e702c175027f10e660c5b19339e7e88d872ff"
 
 [[files]]
+file = "config/flywheel-client.toml"
+hash = "d4b7fea7c064428b8d16c174e792a57e938f68d927cc107fa65c940ddcd40ccf"
+
+[[files]]
 file = "config/fml.toml"
 hash = "74d7146432143a1cba2919b17c8b082234b9968e90a9fb339c7098196f57b1ce"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "534d9fc367bb58ded17ad2820df913dee00eb6e64ef9270c3a8e491db585f548"
 
 [[files]]
 file = "config/forge-common.toml"
@@ -1939,6 +2079,10 @@ hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
 [[files]]
 file = "config/forgivingvoid-common.toml"
 hash = "be18f390a7eb9310c5cab6d194737116fbe48545712951574deb8b1a76e91b61"
+
+[[files]]
+file = "config/guardvillagers-client.toml"
+hash = "b4babda91c3d6c00fb78eadaec92fccf24bc576e13b4666519e7ebeb7cc18f34"
 
 [[files]]
 file = "config/guardvillagers-common.toml"
@@ -2021,6 +2165,22 @@ file = "config/jeresources.toml"
 hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
 
 [[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
 file = "config/moreminecartsconfig.toml"
 hash = "fdec495605b550819150e3dcc0e3c8d8cfe767f0994c2863c98ba5272b803bbd"
 
@@ -2031,6 +2191,10 @@ hash = "500466fed27e708ad35176a422a93bb562500258b37fbf80bdfdcbccbc7a8f46"
 [[files]]
 file = "config/nohostilesaroundcampfire.json5"
 hash = "c21f17d1546f2b25d580bac1daff2d9268f772fa3ae7c52a7e482e5db8c41928"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "49da051149e5075675e43e0ad0a6748a56591a726f9cc6b90520d50d1214ad9d"
 
 [[files]]
 file = "config/openloader/data/custom/assets/lobby/lang/de_de.json"
@@ -2239,6 +2403,10 @@ hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
 
 [[files]]
+file = "config/oreexcavation-client.toml"
+hash = "1aa58ad8d66998f21b6ac861f1cc72454cd8a5ef81e7eb6e59db5f50d25ac3be"
+
+[[files]]
 file = "config/oreexcavation-common.toml"
 hash = "99477ac516a268280ccd80681215d3bdc496268962c7c3c6fee5494649330297"
 
@@ -2423,16 +2591,1560 @@ file = "config/paxi/datapacks/Random Tweaks/pack.mcmeta"
 hash = "e60b18f2340b9572591a0590335ea57cd6934d8cb42ecdaa0efb0cf0bc514e75"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/dead_leaves.json"
+hash = "d0fc51dfed2636d45a809ccf81043439ecb17c7d4c0bdc8b3f541b554cd6d87f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/fir_leaves.json"
+hash = "719630461fd9c9e12cf74ce61d74ef121f6bd6263d1dff8d9967e04f2929dde0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/flowering_oak_leaves.json"
+hash = "a48545d5052f97a48cbf18d0551473e81d3ffc47a325e65ad232688eaa8f220e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/hellbark_leaves.json"
+hash = "8dcd0f949c86031f2ea2da505fdd6be2347c8b41cda42ae093a086e49b18f265"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/jacaranda_leaves.json"
+hash = "ab7ece88dfe5a9500318e3239b402b3f567818bd60dd7bba8aa461ad15662835"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/magic_leaves.json"
+hash = "075f05c91e1f875921aacba13f079ab16007391a2a02db610deabeb4c0ec52cb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/mahogany_leaves.json"
+hash = "82e6c483480a3c1d95a3592d35fb794cb2c1f43da0d0501d3f6f417e42fff80c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/maple_leaves.json"
+hash = "9910ba4c4eb46468c6f5ffcd4643bface40d160f93d281d2eec916e132b8ac4d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/orange_autumn_leaves.json"
+hash = "20b3a47cba6173247a1d6bbaa62c43e2bf4456ebaefd62d7cd0a34b8cb4e2640"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/origin_leaves.json"
+hash = "295583750d6efe6da022e670e696c18b3e0f4d7dd8d1894b46913bc266d0d140"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/palm_leaves.json"
+hash = "b26937be48fcdf7dbb8f6a8fa9a232e617b9e88f64386f840ec702724aa1a8b2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/pink_cherry_leaves.json"
+hash = "1a684100c15201c9361d817c366fe3d7377519601e38359f905278db90eadc69"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/rainbow_birch_leaves.json"
+hash = "d0953c74298748ee9f3e8f855092fe37c765816e5b4fc68170f51dae084b391f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/redwood_leaves.json"
+hash = "031d3ead3cbd07dfbfdac0f3f3b9c688f32af56d9934b06da1d2e0d316961356"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/umbran_leaves.json"
+hash = "42cdf6ca06463cdf58400723d5cd408e3237652e07b04351970a20a3af1cef83"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/white_cherry_leaves.json"
+hash = "c528622c56d2617e6e997be3ea1365e6b94e2ce29e5018b01bd05efebd24926b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/willow_leaves.json"
+hash = "461977df413f251bf7e01602b3b43a6a68956e7c171c159582adbf316cce8171"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/blockstates/yellow_autumn_leaves.json"
+hash = "2c4797af2f987106874c4adcc13fec3fee6e016ad57109591de023b1f031f7b8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/dead_leaves.json"
+hash = "0a6ae64e1034fe3da78b39494eacbe54405481a69d4fa06fc4cd942c4fd209d5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/fir_leaves.json"
+hash = "a3fb90b6e01b6466852e5c76dad288271db7ecb44261fc1668994fa499d82607"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/flowering_oak_leaves.json"
+hash = "312586748c8c1e3a26107782cf320d61d431631b2c55b2ec460dfbb7f457f07c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/hellbark_leaves.json"
+hash = "8bda8c5e051e4542adf1c61c98387e4079658938f5146372502c93f6d8e09111"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/jacaranda_leaves.json"
+hash = "fb2db75ae24beaaca7dd2e50761cac0530116e21c5457f3f4905db5c855d11d3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/leaves_overlay.json"
+hash = "8d039ab9a0e2b753855e64d9a419a25b832afb42e9dfce6ebf304114410da767"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/magic_leaves.json"
+hash = "90afb1796f02c5c8c27641cdc85cfcd71a9b2dc077585fec414be0f3d7a4f0bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/mahogany_leaves.json"
+hash = "1ab91be28905cc3d6ef4fb128c0f028735fc29f7a775685a6b1907eda7882403"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/maple_leaves.json"
+hash = "c56b948b7dd50f2f56e314983bcec959e8a97e7cfb0c57ed643961a2924b91ac"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/orange_autumn_leaves.json"
+hash = "7a0917ac70a2bb0903271c33156d5d4c010cbf254d1ca1aca78a96614d78443e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/origin_leaves.json"
+hash = "9ac099ef03159e428f100563fb5880706330e7bca018bc430b5ea4276391ebc3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/palm_leaves.json"
+hash = "73ac1bca1e6d0e25dbda2572616f92fdfa4714bad3ded67f19b5f79eb2d5d9bb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/pink_cherry_leaves.json"
+hash = "64b51f02020e5ebd9af9506e483482e4c399166e1d5bbf5b677de0c75919f950"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/rainbow_birch_leaves.json"
+hash = "506e4225572fb738495addfcebf37c59ed153c4f0256dc4e668bdc6fea768b30"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/rainbow_birch_leaves_inventory.json"
+hash = "b702e5e0cdfa9f4c3af2c2efd45a60f87eb64bee2edbda77d85de72e3546630c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/redwood_leaves.json"
+hash = "2f40946a0b48f93d1c90703142f9201af4772e018604ed9d7171923268ac8c22"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/umbran_leaves.json"
+hash = "b7230a49ec44aba999bea006086d9d46f9533949d0f3f41788263a8787584141"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/white_cherry_leaves.json"
+hash = "1312eefca99b56dc01b4c36ac407c6978f8bfcb3c68778f52eb0352191e2056c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/willow_leaves.json"
+hash = "affe1a275d55eca518945d0e4d487bc27b2879e60ca930f96f17b6d93c3f825f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/biomesoplenty/models/block/yellow_autumn_leaves.json"
+hash = "03d4fe77242f8139e928ea3b2434061010c38b38643a0c251e70bb4008fccf33"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/acacia_leaves.json"
+hash = "cea0d28a10beb903f64bcccb4b603c6457da18856dcee3289df1bfe406901ebb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/azalea_leaves.json"
+hash = "7eb8dcfc1163c20356703dcda45451bcd852b0464169a684b3e5949426d286a0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/birch_leaves.json"
+hash = "cfb13333d7efcd3f04a275b62f4e69004804d7c29136441a77757b989dddef30"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/dark_oak_leaves.json"
+hash = "f79ae75b3ac3524c22d2e6d5c80d1c6b2e49aa6e5afbb2f517ef9c807eb6fe2a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/flowering_azalea_leaves.json"
+hash = "2f135f818723f99093a4f5af9509620b2432deafae7292b0ee10e7f92a63a722"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/jungle_leaves.json"
+hash = "4e3b2755357a590c3b8595fbf48e24c60b82e40b398e643ac68d40873fe89340"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/mangrove_leaves.json"
+hash = "d0a8eab375c68b0293e85e9deec644aef94948a65338ddca4fae3fd7b9ad1ef4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/oak_leaves.json"
+hash = "f2075a4ff4ca1aee85eb8c921695421951c6f6eb4aa86e579c19d0d150ef6afa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/blockstates/spruce_leaves.json"
+hash = "78770359b72fe96be590659b4fb628ace47e764ee2907b004649e58c91a3b81f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/acacia_leaves.json"
+hash = "b890c454e92836d01c2722ddae111677559041a19c93ce5c5a779e097cca8fab"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/azalea_leaves.json"
+hash = "06fe9924444340c3c6f2bcc38fbbeeb3e97205388f7c38fbc598ea763a2d10f0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/birch_leaves.json"
+hash = "5744637b0e3a067eaf1e453a0200dad5716492b0e78fbac22312dbef31a65307"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/dark_oak_leaves.json"
+hash = "76d94e78978962240a065f473e6b6695c1dd173a5c23baff22deb8909c75c354"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/flowering_azalea_leaves.json"
+hash = "f6d850dd04842ec03440d5843c092efe802613ef682197010d8db480a84f1e9a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/jungle_leaves.json"
+hash = "6f377da63e05b6bfb4d3c119614d2bfc01677a1374786a9b69cb172637475b72"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/mangrove_leaves.json"
+hash = "be9a333fceaae0b2c409d9872d180e2505b1ab48f941d018336af862ae9abb3a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/oak_leaves.json"
+hash = "204bc27cdfedd3922394c3ed42d7e9ec8cb3091aaa72f9f141920b98f35e9e42"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/block/spruce_leaves.json"
+hash = "c82b9e8c89a8ba298d0bc44ef98aaf2cc87ec21914adc24b08ea9e5e9dfaaa4e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/item/acacia_leaves.json"
+hash = "4b3f4aae1a095c0fdc649560047b532b862cd6c3d357a4cb57ccc5dc8b5ad614"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/minecraft/models/item/mangrove_leaves.json"
+hash = "ced707be0b83d6a0e78df91cf5290ed0ea0a460594df4bde9c763b34b2516805"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/blockstates/ancient_leaves.json"
+hash = "8ec75b7d78f8f2a44a277a47cf17681d501fbc6f29c2f7b35aee1e7306dc1c6c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/blockstates/blue_blossom_leaves.json"
+hash = "532b2b0ae8b74b55372d4eb701baa4743bab3cccfca60f21da54cd861e6c6762"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/blockstates/lavender_blossom_leaves.json"
+hash = "bbd88dc2d26c00135f695775338dc986f39f76bf67d4025f7846599e8682a40c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/blockstates/orange_blossom_leaves.json"
+hash = "4d843a9738da7036222319579e6413337037ceba4c0db5e0f39c338e2484054c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/blockstates/pink_blossom_leaves.json"
+hash = "89f4da56a9eddf3cd8580b7e55c72a96e43ae888eb95c89280a9f131dc5b2c0c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/blockstates/red_blossom_leaves.json"
+hash = "322e5e70c13aa5c90b401d866d793e4c447714c222a85e9d2edacc8877923cfb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/blockstates/yellow_blossom_leaves.json"
+hash = "506763aa2bae8489d811128383884ed79057c126e9e2b1c92d036224b9663e8e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/models/block/ancient_leaves.json"
+hash = "9513aed62531be6917b0bfe2ba35be4eadc390fdbad17c5779d5331c0950ebb3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/models/block/blue_blossom_leaves.json"
+hash = "91acb4d08959516ac4c0f50bb87aef52cabe87e259cb5f2d3a1d5aa26efa3b23"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/models/block/lavender_blossom_leaves.json"
+hash = "12b28a448a8c989a57a3b434bc2d95837687f8e156f74f14463087c1061000c5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/models/block/orange_blossom_leaves.json"
+hash = "c52292193835daabda157bf427622475065a070134b1cdd7e58e9be05e1f0729"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/models/block/pink_blossom_leaves.json"
+hash = "feab59525871c3128da0d91ab642f854b4021d63f852deb1b934564247a5fa22"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/models/block/red_blossom_leaves.json"
+hash = "a2c6f69eb6088adf0dc4bfd20c6a6613b0b449925648825326ea1c0043cd7d4e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/assets/quark/models/block/yellow_blossom_leaves.json"
+hash = "44f85d1044b2084d28a52c1f98e7e596a9748df42f12e3798325e8d4f04277dd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/pack.mcmeta"
+hash = "c1bf9f9bec8fbd7e9e3370d56742b46b3b7649a2ab68198ba4aa5b9d6b8468fa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Disable Bushy Leaves/pack.png"
+hash = "db76e3c541b013b673d9756f03cf466bfad1215f79262ec731c65897cab0ebff"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/alexsmobs/models/item/mysterious_worm.json"
+hash = "e573f4b65ed5e155cfc261d2ec965b4937eebd9382db3887f4dded39312b5b27"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/alexsmobs/textures/item/mysterious_worm.png"
+hash = "d97d0e48d3ed06977dd955de9c000fcaf0f16a620a42a09910034af09359b4ea"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/alexsmobs/textures/item/soul_heart.png"
+hash = "aec20b7cfacb8a73835bfd652f2156537704b495e19e10787534af08e40f10ef"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/alexsmobs/textures/item/tarantula_hawk_elytra.png"
+hash = "d68a1b5089b1bda51c87cc72c3abeee1e9b95a1ab6f44b33f7b2d3f31854c4d1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/alexsmobs/textures/item/tarantula_hawk_elytra_broken.png"
+hash = "e322e7ddd6dc545ec06ba0aaf3df410a61b5544595496a6dfc7ecb0b4a522f12"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/alexsmobs/textures/item/tarantula_hawk_wing.png"
+hash = "b35a3dcfa5571dcd1d883b8c8e39b20423c122a37e414cc047c9b77b6ad180da"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/alexsmobs/textures/item/tarantula_hawk_wing_fragment.png"
+hash = "242fcf0ddf61f55c7a7e39634737af41563263bfa9914d1e853ac992c2729956"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/lang/en_us.json"
+hash = "20c7cfd65a4761119ec23573d5acb0d395be7bbe0a4289e77f40bfbf09d0f798"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/cherry_wood.json"
+hash = "761b105d80ab8ed23a3d710b9e5554d178535b8bbd321fd4a2784de428828463"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/dead_wood.json"
+hash = "0d7d683645dd64765470d8eb4f436ae0aa9cd088cf15d92d8b321a74a4874362"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/fir_wood.json"
+hash = "775905b80d38a9d9556b0c568f80ff37e21c8a33fcb473f793639b3541288ac6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/hellbark_wood.json"
+hash = "f2df20b866c3c70d6dc8c8b3d1d74d3a0d35c9ee126ed8abbc342bc414f04351"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/jacaranda_wood.json"
+hash = "73c3ff8614c5ed746d0e82b9c1b2c51efc0ae992b168d22fde4151c40af9554b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/magic_wood.json"
+hash = "2464ee70543a8c9aef7063fb91d87728ddb7c7f3f97e735be59d17888fd32fb7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/mahogany_wood.json"
+hash = "47519031f5ff0f6d7c94afdf86d5f7a5635009b0425ee9193ec67fe884cf82aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/palm_wood.json"
+hash = "e236cfd2a4034b141c26e6b6803d5bafe754873bc24599621881adfeb74c8e3f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/redwood_wood.json"
+hash = "4d55f156b6495c8fbb7a9db2934168caf8c73ed332def5046bfa0622c7b73fcc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_cherry_wood.json"
+hash = "592d34e612c470919a4c8cc1c8a6cfc579789baf02a30ce743d15ce9425fca7a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_dead_wood.json"
+hash = "bed6ef40fdea09a1ec0461d2a31d1640611018b95339e4cb87917d573a197d06"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_fir_wood.json"
+hash = "cf107614393d4dfa54dd35934200e588bffac7b629ea0a43ac68ce71909789b2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_hellbark_wood.json"
+hash = "6c787095b6e2dfaf1ecbafa9072d2ad74150aa40505e4a1c2eb9ddcc3f1ac7fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_jacaranda_wood.json"
+hash = "7bd4919099243380e1ceab28ebdeebfe3f815e0a0db8b9e208529519fcacab94"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_magic_wood.json"
+hash = "3123aaa857d060e2dbc90bfd70a8fd13b9d8e00bf66fddb17e4561b7f64985f0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_mahogany_wood.json"
+hash = "e98d758e977d2c381d3539313abbbf72950c48c4e9d08c096a2c7ff8a174f2d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_palm_wood.json"
+hash = "562930b6f94768d076cfb71ed7b82d6a2b4953f091b8d38938c7d9f074be00bf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_redwood_wood.json"
+hash = "65588514150c1991c664aa63059b827761b3d7a128566dfe03b5610ddd7cadb2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_umbran_wood.json"
+hash = "de89c5e6d62bc1237d5db9e8a84d58c880b65f1dffe105cf75950a61b437665a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/stripped_willow_wood.json"
+hash = "5add241e6dfe0f3449a70fe0491fa94551f151a8b4248ca00afd8f2ebf479d0b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/umbran_wood.json"
+hash = "11d43553cbf001a65dfdd42c4bf6f9b932083b94e446da6ce9c44338237dec97"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/models/block/willow_wood.json"
+hash = "2a17efc80b8dd5329a7a6ca8b7409677250607d0ed404ead993b839aba39085c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/cherry_bark.png"
+hash = "eca895b0e27929497b4bff14ffc21fcd68b97f63d59bfb9785181efb4936dc13"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/dead_bark.png"
+hash = "b7a4f234cdb6ed81f9d9a6b736a8ce6485b8601e36f7d43057f407445dedb649"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/fir_bark.png"
+hash = "ac6d92f8d828c7a8b15c2291796fe20d9c119fd8b3555cdead632393bb906cb4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/glowshroom_block.png"
+hash = "8ac85b694d8e9bc9628c0da55edde739b43d705c227e4887d7a4a0481ee5a8b0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/hellbark_bark.png"
+hash = "f856999ae95298893b0b622d31dcd0cdc4f7df43d9b80c9b478c226fd0ea9d2f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/jacaranda_bark.png"
+hash = "8f8e906e1ddebd5e6e9e37c1a172aeef99c49995ebdccf1a4d433ff45d0b0a18"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/magic_bark.png"
+hash = "de61060a019b6f50878fe0b6c8c7ad65940b69e779c14a10db290629e6c64141"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/mahogany_bark.png"
+hash = "94b9d0f235b6285e2e76ebc0a582557847edec26a02fd855ec728978c1604f0b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/palm_bark.png"
+hash = "3367f46c143df18f1a434313be0a50621352de091d351ed67b4c0a5bae14bcbd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/redwood_bark.png"
+hash = "38419c5daabc628b1c8de3283fa3496dcffcf6b3cbf1941cb7d4413ac0be5130"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_cherry_log.png"
+hash = "41e13f31dc5a3a06e5c61389274d5368253008546f06a79ae00b6223d1702174"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_cherry_wood.png"
+hash = "d3532fd70b9ebb853fe7578d7bd68849ca8ebd62769df620aaa9afc57658b57d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_dead_log.png"
+hash = "8322299b32f37373c6b905f15e1ac3aa8a3c39c25866f4f22331134fa2930cee"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_dead_wood.png"
+hash = "839c8e8800a8a3d3e5355313d17bbecf49346fee7ce3515f9f0b5eb027df9e7d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_fir_log.png"
+hash = "21878768722e179a635d250221dd34f7b27622669affe164eef5384012a551fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_fir_wood.png"
+hash = "315f67ca932259a63d99214300fe64b5660885c406cccd0d585086d02543c041"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_hellbark_log.png"
+hash = "1b1bbe90a5c1d00c74ea04ccb9e4198e1ec60e4dfe0db47962d9532dd20b1bb3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_hellbark_wood.png"
+hash = "75d2c0e11039908c833e1ba009deba682ce28f73406d783f3a0f985abe6ec2fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_jacaranda_log.png"
+hash = "e26a6704cd0e841b1681241ede8bd7518addf40d2d4f1932269f421846410ce6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_jacaranda_wood.png"
+hash = "3bc25d293106c4a652a4844ba57fd13c6886b29adc5466c428a56257adbb14ec"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_magic_log.png"
+hash = "fcbd113c89db5e89531827bd96bbf77e4db47ead35e9b5ef2186424feeb5dbf0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_magic_wood.png"
+hash = "7a337a0acbe4d06d6a74c75e04073ae9534972248e095e7f71bec905f3bc9b30"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_mahogany_log.png"
+hash = "a1734c8faeade2cb7ed8900c482234b4c78cb0a7cd876252e9e72168408efd6b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_mahogany_wood.png"
+hash = "2e0376ce252b54abe7f315f82e95a988e4305c8325304f20894bf4e00b035074"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_palm_log.png"
+hash = "31caf599981ed36543c5a577e0ddba2d2a42d7c56ddb5639842649a6607ab31c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_palm_wood.png"
+hash = "772f6b3d4aded17e2cb21b40a4471b4f906ca01ae15f6ca3c00c87d848b4229e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_redwood_log.png"
+hash = "92485ef97ac802dbc26c8f0e83aea5595ed5d649166c60bdd9faf9ecdf8f1d0e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_redwood_wood.png"
+hash = "903d46f375ec9a5a5f47b444f726b4d1179a32d2465ea06544636fc5ee5c0e8e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_umbran_log.png"
+hash = "d6572d7b8a3c02b8012f32a4dc3131c5bebdedaadff769116d7302406328c090"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_umbran_wood.png"
+hash = "581f31ef830a5a00424446006179589afb145a6b2cafec9cccc7afd876e3b899"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_willow_log.png"
+hash = "42a62ca11573671aeac4594f39338f16ea27e6da8bead27921a3c64ea15a2469"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/stripped_willow_wood.png"
+hash = "b1b3679845e5d5d95d454f1e9834929238c669c874fbb57674ca868b962edcfd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/umbran_bark.png"
+hash = "f4e32a58e1039379457376dc5391fb7c43974e82f823dc95852b16646a706a75"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/umbran_log_holes.png"
+hash = "d731eb7d4bbd26bd1ce70ec1000d7e9b6b15db159e5ad0af211cc9a17c1ee926"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/biomesoplenty/textures/block/willow_bark.png"
+hash = "6760627dd5f6d760d5bb16cb9834bb87dac98dbf318f055cac195b4bb8679993"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/create_things_and_misc/textures/blocks/red4.png"
+hash = "3cad4c27502ae47ad3071c259035374c4fff3f9edc63ffbcfb4ebb0281ee48c2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/create_things_and_misc/textures/blocks/red5.png"
+hash = "e433a266baa4a0bc4fcc5622e559042d308db24e801ecb921d27bc37704389e5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/create_things_and_misc/textures/blocks/red6.png"
+hash = "77ea7544a5bdc105ad137a99bd0d5c5a0449edf7996e12a5b3df016e066caea5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/create_things_and_misc/textures/blocks/red7.png"
+hash = "ff505c1e6997b497cf86ce4b8efd75c4e68f79179282dc6454e27634a1e406d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/dustrial_decor/textures/block/black_light.png"
+hash = "b7822c131e513097951386cffae6ee4cadda420d0cbb471bb1b5e213b9d52ad1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/dustrial_decor/textures/item/cardboard_chestplate.png"
+hash = "9115e1b506207348d5c01c93de15c3f30dde99f1fa181ce5ea670d18f703e43a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/effortlessbuilding/textures/items/diamondrandomizerbag.png"
+hash = "684a0774f2e35207fc0ee6877991d594d2ef48d1cc5dda98c1cc354eeb2f157e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/effortlessbuilding/textures/items/goldenrandomizerbag.png"
+hash = "5bbf22bbabe7afe0bdb821080fe12e4ac2df295af536dec81383b957d0f32bec"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/effortlessbuilding/textures/items/randomizerbag.png"
+hash = "e2b3ea99883288558b87df37323e36b145debfe3fecd1ff34e518055899a0919"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/farmersdelight/lang/en_us.json"
+hash = "820a4fdf4115585a465753579d5d1f8c1df10aaf52c3f6efc71e048b648bbfc4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/models/block/ancient_wood.json"
+hash = "1aa1ee17a98f8051cb484d50ea6466222c146045a80ff5184c4505119fffe5d4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/models/block/azalea_wood.json"
+hash = "03b5c6acb25483dbf39e8ccd6966d204da36f263d6ce0911ecf50b8f97b4e2d7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/models/block/blossom_wood.json"
+hash = "81f362f80a528053b97fb85c2a5360e3fea8bd5ee4628bf3596d797a38e3204a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/models/block/stripped_ancient_wood.json"
+hash = "54810c61ed928f79772cceb1035cc92a10cb898f5322db8859d88fc8b7cd8349"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/models/block/stripped_azalea_wood.json"
+hash = "ac2a14e8e1c20d9bbe52fbbac9c3768cffd998150cdbc99abec80ff6144935c9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/models/block/stripped_blossom_wood.json"
+hash = "116c1f2dded43abfdf7ac606fcc73a31ffc333ddd2a7ead2ad1419c46b169b19"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/ancient_bark.png"
+hash = "69487219fb5679709c91598005811ec7ac3fa1cdc247477a5f30a21334ea5878"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/azalea_bark.png"
+hash = "76e6ac77eaa53297800bd4a3038427a249b3b827bf18afcd01823f7620ffb909"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/blossom_bark.png"
+hash = "221b4dcead6b6f907b376c23e731d453c90d29976a8288c88ee52feb3f7912df"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/stripped_ancient_log.png"
+hash = "55cbc09d5f7d5b847d0602af799a9222ac9961fa001fc2410774b96d23bc48cf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/stripped_ancient_wood.png"
+hash = "088d0b654eaf3dcd1f7c65594c8b53626cbc488f81a8d2c811fdfa4aa430066b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/stripped_azalea_log.png"
+hash = "2d0f98a7a4387d5af22a6a71b2eaedbbdd13f522115e10cd7efc989b6ed8d206"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/stripped_azalea_wood.png"
+hash = "93893901626a9b4740fb983881b8aa4db387766c72a27c3ccfb8e4a16f785124"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/stripped_blossom_log.png"
+hash = "9f3fda18568c49fb1307d70a21fe50fa19004ca922dcadbf5fb372468d47c075"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/quark/textures/block/stripped_blossom_wood.png"
+hash = "a37efdda154759519515a87e54132c1236af32a2565abf790a2a45fa7d042481"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/supplementaries/lang/en_us.json"
+hash = "fd967efc805e81170f02701ce89d3e28e33419331741f398d81cdf2c04175286"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/models/block/cable_connector/base.json"
+hash = "de2bd82773201064a563f46dead3a5db87f47de94aaf36b25321659a06ffc571"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/models/block/cable_connector/item.json"
+hash = "c28c94095d018fe2402c2e0cb7cc1f783488ce12662f7ed36adef49e9485efd1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/models/block/crafting_terminal.json"
+hash = "2e2d162478d4f20a71c73861b475d8f1e1bee19a5203602a55de30b5b36c5d07"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/models/block/inventory_connector.json"
+hash = "4d8f6f9bd6f67f2f7f6e905aed9d0ec33aaeff88399b14500646c696f3d56dcd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/models/block/inventory_hopper_basic.json"
+hash = "e62804aab5f5ca02aa28afcdbf304c3a4e20f3f852a809aaea7c074ec0504f36"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/models/block/storage_terminal.json"
+hash = "84840644258c3d718dc1217a88165d32cbb144ac53cbb6e6ddaf7061550f46a6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/crafting_link.png"
+hash = "48a53dcfbe96b46959e515296e8b10b2bc8575f0049aba34d0c85e7471491898"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/hopper.png"
+hash = "2f08bb9fb03941888fff0fdebdd1970bf67634054955cf149a20a6e1ba12f137"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/inventory_cable.png"
+hash = "2aef796165a0d919a6a2001ac414de3cfb307ec051ad1b55a401696a1ca6283c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/inventory_hopper_basic.png"
+hash = "d2ee877bbc391f6f635a9a26ddc6898bb6472fd0317dddb397f0d1cff4327493"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/inventory_proxy_bottom.png"
+hash = "5ccc489bc422273a3c1d62d2498735d1071a542535c57162f26e7b05b8485c1a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/inventory_proxy_side.png"
+hash = "4610559b610c8cdf12c5c4b5b4eaf0be581e26e99919808594a78b3042167ae2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/inventory_proxy_top.png"
+hash = "1d46900be70f508830d556fdbdb6cace7283d5031829ad2f73e59c3bffb66bf4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/keyboard.png"
+hash = "2f26017444c82e412be9f6f504f82c6eb215af207208b45c409682ed0d7a7a5c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/opencrate_bottom.png"
+hash = "e07de425e806bd066d765f939a216a61be23861469d61a5b54fb3426cd9e8282"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/opencrate_side.png"
+hash = "67b63dd7a93cb62a3ff7d874783824e89fc93c332a92fdfdefbc3ed4b8ff1342"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/opencrate_top.png"
+hash = "e088328b684ec27790347ad8b2f7906716ee0b64f6ffe558f92d22f347bbb9ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/block/terminal_link.png"
+hash = "79c26cf20110a8e22f5860814577145846fb5578a5ad80c795e15210403c9738"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/item/adv_wireless_terminal.png"
+hash = "060161bd209cb7ff6c1649f5d9dbb0de84531e854f65cdc3047d4ad6fef75ec1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/item/paint_kit.png"
+hash = "c1b460c77205ca1688e7ad491d4f3a5b04340f3836640501485335cfffddba5c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/assets/toms_storage/textures/item/wireless_terminal.png"
+hash = "7010330160f4af3b97c2cd99ef529b724dffa11a320e99cc202fff51aae7227c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/pack.mcmeta"
+hash = "dc1a054d188ca77f0f6325e8e2055f9afcadc902cac2b7b2b1bce73336e35c0f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Modded Tweaks/pack.png"
+hash = "47acbebcdd506e44063fabdc5c043944ef458d4bbee8f31e0434a817f24b421d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/blockstates/bee_nest.json"
+hash = "2a3f85421a9fdb96ebedcb649c412594197b7819fc8073aa0957447be9c6e367"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/blockstates/beehive.json"
+hash = "fb1e48f6736468f6948ae0de1afaa0878958d327e55699addeb7a560b20fc253"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/blockstates/peony.json"
+hash = "b9913c4a49c0ec1554f6d9954bd027c1db21336654e0951f7d9ed88019f88e5d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/lang/en_us.json"
+hash = "06c7a6a1399e321c6420175ea40e641d4c3cb89ce0d9db21bc334ed078043a50"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/acacia_wood.json"
+hash = "16f84914af6c1ebb602ed34c4bf58e40fd44942e30e26930669c06bdd85eda54"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/bee_nest_filled_1.json"
+hash = "e4d2169cc848c390aae57cce60d12398b577392ad081c8478a561810f7b3a438"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/bee_nest_filled_2.json"
+hash = "6405d91487ca21a2b183ef10c4a24e0c5c4852b5d51cb82c3916906385a3ec89"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/bee_nest_filled_3.json"
+hash = "9f4eb13b8132dbe095ec7c897adaed7e046b62ff2f15a1738e4ac97416f8d1cf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/bee_nest_filled_4.json"
+hash = "c3383e596bc15761adbfb07cf6cfdd91b0f40261a9744af215ea95bf753b2442"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/beehive_filled_1.json"
+hash = "86a57380df923d2a7985d058a74579943e0aea30c8d47e8c23685128c415be4c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/beehive_filled_2.json"
+hash = "10c66eecc32347675d1ccb7defe79fa5fc86d2b27b42ccae11e82b09c77fd699"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/beehive_filled_3.json"
+hash = "8327b007bc129b4e1bff9659cc095cd44139ba4304d388f2d51d3705f9305ab7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/beehive_filled_4.json"
+hash = "f24ecf536668d4df67c0cbc2ec1728037ed9b71cbc63c84cef2145fad02cfb03"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/birch_wood.json"
+hash = "a1669c7c4b99792a7964df8eaa7d3d8f6eef19f7603918132bbf31ec84469480"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/campfire_off.json"
+hash = "937aab4aae6be431e2fba68a89183bd42dc2ffdd2a6cf08097e527d048f76b72"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/crafting_table.json"
+hash = "d68cf111e14835a89667b1c5592676f4bb725a00b6f877ed6106b091457bd40e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/crimson_hyphae.json"
+hash = "c77d19315acabba9b0d5886767dc26d8c8b50d1ce0aa433a4b76b8b120ad8374"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/dark_oak_wood.json"
+hash = "832b2d4d71c1426e75000dd2114fa81b9f47e0d20f1a0bc441a9c5c679170d4a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/fletching_table.json"
+hash = "2fba706c1eb0acf1499fab5eba8bf2d79f6ba801087c9b22f4155e452eafa65c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/jungle_wood.json"
+hash = "94d8b04754768e8af32ded712b9a2605f542c5b6324f942b484da6d582440e58"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/lodestone.json"
+hash = "9e790bbe49643b3f7b4a7e16e2e54c606a1d13982896ca7b4570bd8f33638a8d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/mangrove_wood.json"
+hash = "675403bf873f7dec9e00dcc6283f482aed0a1e5186811dee1880d416c833a42c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/oak_wood.json"
+hash = "358eca9d68cffdd692df15bc9c93a166271a6e8b8cef2edceb658943e3b22bd9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/soul_campfire_off.json"
+hash = "937aab4aae6be431e2fba68a89183bd42dc2ffdd2a6cf08097e527d048f76b72"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/spruce_wood.json"
+hash = "7ca098e3dd54bbff2f5fb609b20f89a16a13a050ffae9f6f429c52004b92be0d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_acacia_wood.json"
+hash = "494976c0c028af01d2b318df355e454b2c000fc52695a260e83ddae99471fae7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_birch_wood.json"
+hash = "49aa1021496444618b342ebbcf46f7bc943fc2a038c7e2e032fd4f5297ded9af"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_crimson_hyphae.json"
+hash = "1e2ed0f3e43210692cc0a1859e808fcbf3bad1592c50b89106b4f0a430711b23"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_dark_oak_wood.json"
+hash = "1ceb713230e3b9dc8123cf41cd6322b152ab780e80919b47f1573fc6b34b6a17"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_jungle_wood.json"
+hash = "971ea81f24dbe642372a5e1c4ddcdde0edcf5c7feb65d3728dc3236acae1194a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_mangrove_wood.json"
+hash = "199d9fe21edebca5d2600aa9a34fcc8fa241c916e46f50a9b38a7f708c783f96"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_oak_wood.json"
+hash = "b32450b573724eea5f16eae0d11d3b430431a68481f219c2168dd6394a88ef69"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_spruce_wood.json"
+hash = "f3846c8bd7ee9abaf5c3784e255f0090168b20259b490ff6f88e84f5e5f7e16b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/stripped_warped_hyphae.json"
+hash = "6dded0e94c08eeb41d5d9740a092df498392062b2621b33f4109c7fd6378cff3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/sugar_cane.json"
+hash = "a96915ef9cc2851506633f292d53689374efa6211a153d996188461284246f6d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/template_campfire_off.json"
+hash = "83aa1f17522f7866444142f7bdfbbf9ab384c740e57c86c22c3f939fd484611f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/models/block/warped_hyphae.json"
+hash = "7b68bd2fd797319b89126f277097d197b919aea80e99ef3e3ba8d02630af50bf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/acacia_bark.png"
+hash = "6e08d316d8dd4335e420f05cc905a05262c4a291bc2ccd4700cc36cd675f45d7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/bee_nest_front_filled_1.png"
+hash = "5b01d66f1516f90ed6c0421661b7fe7dc2a2f79cdda966cdb6a8112cf4ba1d4b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/bee_nest_front_filled_2.png"
+hash = "fca60fcc32e04fb451436145b31ae2c83788fe1bf85efc0a4fc1e6c424d5d153"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/bee_nest_front_filled_3.png"
+hash = "3f2c5a73d8c56e346182ee59c2fccfadd3a635b519b94d44d7f7b8b1d9f164c5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/bee_nest_front_filled_4.png"
+hash = "16954a3776c7cdc56f3af11f976297da771d63e86cf62fa1748458c3e282434f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/beehive_front_filled_1.png"
+hash = "9639a93e590cf0b1b18d10cf22ca8f1502a9516c05091dec253c17c802fcb5a7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/beehive_front_filled_2.png"
+hash = "c46b9bb9d5ae21d44c4403e3d00a7e5f3c899ccde617f8d139097ec1b370c9a0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/beehive_front_filled_3.png"
+hash = "feab750c807d225eec0b518db628514eb87ee896d4c3502821343b62de8be002"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/beehive_front_filled_4.png"
+hash = "72e5002144d690e39cbd0ddadff715ae523c51c8ccea4803bc417e69fba80648"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/birch_bark.png"
+hash = "8948d66dc6b6a3ca57c43258a046318ba4e65ae33c4f25fd467663b0e4589750"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/cartography_table_side1.png"
+hash = "7d9e6d11934dfa2a59b8dec9c8fcceb332f433fe9b8ec314c50971800cf28a52"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/cartography_table_side2.png"
+hash = "2ddc4f34f44cb132af206829b28e1be0339a4d26b7a0a7e1f22fa940d4c62d84"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/cartography_table_side3.png"
+hash = "7d9e6d11934dfa2a59b8dec9c8fcceb332f433fe9b8ec314c50971800cf28a52"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/cartography_table_top.png"
+hash = "8b4c4890075005f260b53d44071982cbb0d4e5a428afc27669edd1dcf8763b52"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/chain.png"
+hash = "44c712141c2914ef9d49143d5236b9f138810f947ab9c9992618e3b11d902ef4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/coarse_dirt.png"
+hash = "7c98b1554390c77d07225ef90133e1732d1edc5910411c75208b24abfdd2bb34"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/coarse_dirt1.png"
+hash = "a4966a1e6305b27366c702d59a5984a2f8852c501ad60597b24a85071345582b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/coarse_dirt2.png"
+hash = "d56ad1d76ea4397d0e9ced8868a05cfd6b64674cb8cfae13901f3c9bade8462c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/coarse_dirt3.png"
+hash = "70c0b1066a8df3982b77ec24164ba72a560ea9ecfc47dbcc33d85f91bf6145f8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/coarse_dirt4.png"
+hash = "88060b78803da3b222952f04dc1ddea6b795d2d6e00e69d93adf4267d09c1ee4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/coarse_dirt5.png"
+hash = "2f8459bbfd658bff4d2a9588ca8a853540dcf752c7f77e5bcdf11b1445ce983c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/coarse_dirt6.png"
+hash = "833960f5d8a9c7d7d34c85ce9ee8e02210e5ca80c69abd0986fa5ac286b0852d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/crafting_table_bottom.png"
+hash = "1901e6d4704a99566e8603c1d1042c120d109ea7dfc420d22b5139a19c2d8bec"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/crafting_table_side.png"
+hash = "0d8bfd66bb9369da51ccb6846561c8fe6d3fa18d7ccccecf644260a8809e4452"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/crafting_table_top.png"
+hash = "c6fce50b6179eb1e3ca7d2f747c37004e8c567e20a14eda5897793430413c8c2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/crimson_bark.png"
+hash = "2d0055b7a26f91608ba9e705ce5399223818a0e9dfb25a9bbce9e621648ae614"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/dark_oak_bark.png"
+hash = "4c2e7ac1a451f43e65bb7c3c0e18669c8f69835182b1918e061e02896604d598"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/fire_0.png"
+hash = "3c9bd20cbfaa58ce53dd31b036b2216bd7fabab0d5aaec61c6e6feed103cf2ea"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/fire_0.png.mcmeta"
+hash = "264e3b93450a755a1270e28d456208e89cf520cae41de35453ab701f60a5dc3a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/fire_1.png"
+hash = "6529107352a15e6c12e2c5c15eb1801a497ed2e94b28d3d5db7a4881d238325a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/fire_1.png.mcmeta"
+hash = "264e3b93450a755a1270e28d456208e89cf520cae41de35453ab701f60a5dc3a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/fletching_table_front.png"
+hash = "6c7c7109d40d3272368f912ba106559e2fa9ea94716f7bc1153e5472a5082d12"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/fletching_table_side.png"
+hash = "7365ed2f5eb1a686c9e953551fc294af994d7a43483da5d36efa1314142240d7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/fletching_table_top.png"
+hash = "bd6217138524db12e3220924d1c3f3c2e87c339856f77c8719c7f62cf1a39518"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/grass_block_side.png"
+hash = "ddb930b4758f48567e0cbd1fab6a1c38de95055c04c843217798d7ada30395d4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/grass_block_side_overlay.png"
+hash = "be214c4e6bc7318467bcd56926a00707d4da71d1ee864e6ef41c0895b0141f62"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/jungle_bark.png"
+hash = "881319c31659e6b6eac65515e5161c6321f34162f31d9be1984afe310b4039d4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/lantern.png"
+hash = "2c1d1d2cba9f9ce717b23404be7d2977ce706f807e9874fc255a7b4a3114aaf4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/lantern.png.mcmeta"
+hash = "ccc2eb7492b1179c1b6400b0c58a32171aa429c86ee2aefc6cdd912f53e5b438"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/lapis_block.png"
+hash = "e7b4f056e401266edc5db083ee12b38f582dccda04753e421737ac35519636bf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/lodestone_east.png"
+hash = "881881dd5089b8f79ac69b4fbb4bf7a81c7dc9b5e196f7d0c0b27826f499870b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/lodestone_north.png"
+hash = "c582bad6db08b04e57a6d9a68f9c98e6bd9645d7e63c1e98a8e6e2ee6938dfab"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/lodestone_south.png"
+hash = "2dbd05090679f160cceff5accdffcb857134df677ffe6ee572dc0e4df55f4eb5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/lodestone_west.png"
+hash = "c2a3c35fcc216b75c3c567bce746eb8717b53cb0aa8f75198c4b13bf7627e688"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/mangrove_bark.png"
+hash = "68f4924c864d740bda168c632efd8459abe7f19e651c65032a18b3e44df7a418"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/oak_bark.png"
+hash = "b143bba2c6d1d69183a2114e016f428fd64429dc2d446e3913883918fd87af27"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/peony_bottom.png"
+hash = "d3c26e4e378311faf15105166381bc2447a2e764718b8a174d16cd4ba93ec45e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/peony_top.png"
+hash = "503e78f65cbf2eb16f3be9df4e4ce3638463389180697207f12d71ad0f79ebca"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/podzol_side.png"
+hash = "1b1d6b316b6913c4efea24459bfc152f66428fafd2d2f9e6425d8cff163625d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/prismarine.png"
+hash = "759cdac70557d57d3c437ca35c1d826b936de78fbe79dbab6ec85592912f5c1b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/smithing_table_bottom.png"
+hash = "083a4b78f42cf130f1e682c89e7f4426caf73da78adc2ab74693061ab9ae1062"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/smithing_table_front.png"
+hash = "1f9852626308b96f02e9701c50d4403e89b1a850d9bb34a2ac2735acd7f49677"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/smithing_table_side.png"
+hash = "7a3aedc13fd05c95b96df539b5428a56775afa5b815ecfb36087367e7d635fb0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/smithing_table_top.png"
+hash = "c681e817cecac38eb0c67f19f6cc6a31adadd208faab5024f76f8cc1993edf07"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/soul_fire_0.png"
+hash = "394da743dcad6ac3cef9b77b01bbc136e61a9943a8661a9d2454d91a7adbd8ec"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/soul_fire_0.png.mcmeta"
+hash = "658d67c1b3206e23a401d04ec196512b72702b7b8c6fa0200c6c66250529bbbb"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/soul_fire_1.png"
+hash = "3768e478f17c1114772e7ec7d0e8259d623267fe5071f174e5ea0a8bac4875af"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/soul_fire_1.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/soul_lantern.png"
+hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/soul_lantern.png.mcmeta"
+hash = "ccc2eb7492b1179c1b6400b0c58a32171aa429c86ee2aefc6cdd912f53e5b438"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/soul_torch.png"
+hash = "f14a06492263e171cb55aeaea58c7207c7fd24271189cea84b10808d77b2094a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/spruce_bark.png"
+hash = "15147f37287a15e404445d004ae479cc0fdf9967482837dbd006ec465a980a0e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_acacia_log.png"
+hash = "de2e9b20838c08fc8d1b49932dea8208fa5b093462d760772dbb2547c0b4fdb2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_acacia_wood.png"
+hash = "8d1bf5eb1fe7935b39069f7b32f944e93ffc437192221ff58c1a03f5c9583efa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_birch_log.png"
+hash = "8c8d906ef5717b7c8c8de85c10fa278f1d947d6d92164da4c183ed1340abf427"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_birch_wood.png"
+hash = "371a85660ab32e296b5bd705787497867a6d4340ae950b959c3341bee1da6340"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_crimson_hyphae.png"
+hash = "55d4afa7c33f14161f464f5c4eaf749962ad1846d8edd7ba96b303bcc0ea6f5a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_crimson_stem.png"
+hash = "5b80041b7e889d85ec5f4803eb4e8f79f0f662c20dd6d92cfb905cb404672591"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_dark_oak_log.png"
+hash = "40498f91f93002d7ad7dc3c2fbdf61f97ac9196de795eeabf53f420a34381c4f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_dark_oak_wood.png"
+hash = "0745505d5436d5859c7d900c9f210582c9317fa2feaedff08f97939f02470fe6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_jungle_log.png"
+hash = "e8a14ccd0579824c5236e169367cf262770f52473eeda34b693b8a269691bc8b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_jungle_wood.png"
+hash = "c49d01795686c4ebd4a4222d8070ce98912628016851b1ac4c26198a33aec7dd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_mangrove_log.png"
+hash = "fed0655af1459b7d7fe571cfefd24865e4187368c9633ef8b6c8885c15ccd806"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_mangrove_wood.png"
+hash = "bcbd4ae0ac7c31918d82c2b71407ddce3e1e93f34a2b54074e4eee4d3c3566c7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_oak_log.png"
+hash = "40a91e1c75a1133ed2364765801a0cfbe4406b13f6a1c57fcd19fe20a42e33f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_oak_wood.png"
+hash = "0a6cff3a45a202af630cf479ccc5830e68a0c8c5641c317d05b50ce0ea858686"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_spruce_log.png"
+hash = "fff8b8e2f6bab6c2d6d8c96d96c68eeb9be29d04f58c52a3d7087339cbcdfb08"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_spruce_wood.png"
+hash = "e660d773c3acd708f4529a447d0769b446428c09b3e3f610b34882ecbe63490d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_warped_hyphae.png"
+hash = "fc43646c49dda6d15e30110b6553d3bde75afdc04d73299be69188e0da8ffbc0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/stripped_warped_stem.png"
+hash = "6fa917db664bb81595d82284803cb308189afc76d96ba48f2ffa84eaa50b492f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/torch.png"
+hash = "a38ed59cc05cca51120019f3bfa98e574126907a1c8e710803f50a3f63c133aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/block/warped_bark.png"
+hash = "49b081b1de11f157dc9a5e3277ebcd8a4d496ec3c74b31d628d5ed270ba0d18a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/entity/creeper/creeper.png"
+hash = "8ccfce5da7bacc47ad6578580ddb0e1eb0afe419f4578056e308d3d8c980022e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/entity/enderdragon/dragon_fireball.png"
+hash = "527a072236e29dbf077e8a10cf931083833109a70731d08ee82e1d0a2128d590"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/entity/illager/illusioner.png"
+hash = "fe1d193ff49ed8e2be0d5ad977953af4c2f4bf1b4c8c3e509d71b12af0ef6290"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/entity/phantom.png"
+hash = "acec14454995c94dee426792e3e3cce3cdce763c838260e4614abbb76f3ec862"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/entity/skeleton/stray.png"
+hash = "9d467811493a08c4a9a0bd8810c1b6df097a09b6c8d6f63fc631f93aaec74dc9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/entity/skeleton/stray_overlay.png"
+hash = "241dd280613b05efae33191f9cd5146283d7ae905b9d1ffa8d05a6977885389d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/entity/squid/squid.png"
+hash = "e2223d0bb12c2ac0a1dc1ed44ab8b9708aca30c35f2e11a06a3273586000cc98"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/entity/zombie/zombie.png"
+hash = "3f949ac65e00c7dfd5b6e51cc35f2d8a42c1be3c47f05fc6e1f6cd01a26c5c9b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/environment/moon_phases.png"
+hash = "c73df5842d59d33c52186edf80a0681fb92ece8829c0fe8fd2de04293aa9b09f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/environment/rain.png"
+hash = "972fe3fe3e96137db29017f0529eef4b071768d6237c8d99480ff33b9cd8ff68"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/environment/snow.png"
+hash = "a117e2043c34e5e06828715cd96306e884c78bb31f4475a264e684a8e5a6d49b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/environment/sun.png"
+hash = "53c1a66f72b64863aa89715a5d42328b7f03f9a39fcb55784093f8d3cbb0ef76"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/font/accented.png"
+hash = "a0f1651c85ef15b1b62a10a0d30a52c4d9df67c057f300ede7618fc0a6517547"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/font/ascii.png"
+hash = "60d71f34849c2795775e46a2b95a362489ffe3842b1a20fd3b1a48b0dcfd3b62"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/font/ascii_sga.png"
+hash = "d0e0080af77b3f77dfc454ca8f44f99f8d62464c3c8b29c829933103d4e08c4c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/gui/options_background.png"
+hash = "e914ad7c78eedda019c53b3fb83c1146004f2e4887a65f7b4860088d9bfc7c48"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/diamond.png"
+hash = "8b3f5bbcaa2f22738231da0233048cebe5465543f89a8c524084d307c674587f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/flint_and_steel.png"
+hash = "a5c48ef822d7181470ed49a9ebbfc467416e8344b61acf0778f19c0d9dee2cf3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/gray_dye.png"
+hash = "34110d5d6e35c783d10f088dffe4a05dceafc29acd70206ff71f74f2527cb27f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/leather.png"
+hash = "f25b7279d9a60ad57f63d0cb39444d6ae5a07793e9c8f708f3307bb8241e9f9e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/lime_dye.png"
+hash = "f20087b0b883c656c0d81daf6b52eaf62d55ca0d9294b2011f035e594635816c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/magenta_dye.png"
+hash = "d779f7ca10e28b97108bd93a3d404e04daab925aae85fca4c19cec4be3c8b356"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_axe.png"
+hash = "aa1c6ff73e24c7a6fd06bc3ae59b4961ffd08d22fb51b7e2b93678ce82d5a1aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_boots.png"
+hash = "165f358064a52c31bccc0d60475f58ed9e07e8cc8f8e6d7476d605a743c87869"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_chestplate.png"
+hash = "93728dc0e2bb1cd6bd9c788168766b4464185f43d1b31c106914d32d3e56fb89"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_helmet.png"
+hash = "79117a0656e4cd53950ad25aaa073991db83e65be3363de5c1f899b959912d61"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_hoe.png"
+hash = "d0ce0f1fd989c8ce408b9db865ada6b89bcb4632aa0b5ca595096fe7b74961fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_ingot.png"
+hash = "5327f4aec6f68e8821478084c7c9bdecf6a78649a91fa8a838d9d39db5262a7b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_leggings.png"
+hash = "1f34156db7767c3deca47832b285c5c07d83088bb163d6f8f5d2dfc7d9c94a5f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_pickaxe.png"
+hash = "d1c1bab69b30a5a36d5c8229fd2ac7c0f3a970e4a9845d4c25e1179b3f50195a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_shovel.png"
+hash = "53bdac629511db4ef375325f069e84cf9eecec7a08585b7f82477e66bfe9bd9b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/netherite_sword.png"
+hash = "8293e5f33847659e2910fe998651aff3fb8b1806307047ba5dbb987243d27fac"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/pink_dye.png"
+hash = "e7bf14eb134fe198f2f524f3a26a2cfc35eab6b96d22a2e2fb706cd50e043bcd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/item/purple_dye.png"
+hash = "f5832c6a644a31efe72955f5c4be3d34a2acd400f9a662bde9b3cb1309f6b905"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/models/armor/netherite_layer_1.png"
+hash = "1ad07847f1d545f9d131c239c855b6e6144d8fd8ce24a91af28d284e59cf557a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/models/armor/netherite_layer_2.png"
+hash = "3d06c32921702d8da7a05fcb87b8dfdf07117158296763122bfba2a2083db34e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/alban.png"
+hash = "366dd1d104f867a6bedcd5d43b31b4946e6fab0d7c2e0056eb3e5367a855b7dd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/aztec.png"
+hash = "e088c8b52f53fa018ee51db702930a2c77c315e388712aebe0ad7ccf68690131"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/aztec2.png"
+hash = "a6fca62eef2a8f2942e1e859b0102e490a8dfbc78f2503453ad35d39ab439e9e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/back.png"
+hash = "8db78fdf6cb93ebd26a9579981243667b616732489744cba9ffa50b4af4be08d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/bomb.png"
+hash = "17f9ffb002acddb8912c28a52841376620f795a36650b2388bfe9fd1edcb5d2a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/burning_skull.png"
+hash = "8bdc88c7490feb5df6f6ca19d877335a9872e9d44bd5a0c06c0e69b05d8370b5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/bust.png"
+hash = "951b1ba55f53ef2a51e43c07ad849e8c2fc26c495190a445024e692a4ffcbf7a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/courbet.png"
+hash = "b8e4cb376a168d93874998cc2a65fdd9581a2313f623bd9fea2185920f97363e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/creebet.png"
+hash = "1aff95b071d435083952488126d73fff12acae7aa1012c1e34aa396ac8ab9943"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/donkey_kong.png"
+hash = "0918cf7c326a040555a3eb39bc685d408c6e5eeefd8478a91d170abbce77326e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/fighters.png"
+hash = "ba12193a9e5f50a0b6d15efc9e60ff4efbd456e59f145297bf7fc9c686aaf598"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/graham.png"
+hash = "9c00ed05009e26e5481f53e6f1f9ae163ae27c838283ad54fae39a95e2868a9e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/kebab.png"
+hash = "3065cd9cb579b38ebdf6ce77ee7d09a035c8ccbbad15729b8de2e461f8b9e374"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/match.png"
+hash = "9ca33287464a94fa5b790773ca93f8280051a41a0c43e9d022ab83bb56d23e05"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/pigscene.png"
+hash = "7ab3f478802d3ddcc8ba0bdc9f2a6c42eaecb1f0d9acef58a23d7879f040cda5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/plant.png"
+hash = "ee89351cb590c8e86e0215a48c516e9b05709378e6e5b066cbc7207ecd3a6c7e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/pointer.png"
+hash = "a96c7e16cefe487cb06cd2ac238e38925128a08d4ab0716ab4ad1a390b34c595"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/pool.png"
+hash = "dc51b9e542407baaf2a22f13af5683ed2fbc43c7995c86a2c349ce1cab25341a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/sea.png"
+hash = "9a68e01b950384bda86954a461f7888d1537f8d456dfc980d1c045974535132a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/skeleton.png"
+hash = "13d936f3275968c60ef5e2fcd503002e1adbfc292e26caaedc569ff780dd6ad0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/skull_and_roses.png"
+hash = "a5e92d926a79618ea185ddb61585508967a7c33fe27e4d7be2bd2c3265d458bf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/stage.png"
+hash = "d42484e1ebcfaff75b9a8e06c99ac11c64a60b020527f5a490db9e76c819901d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/sunset.png"
+hash = "9fb98c22a78b64f5ca38fe148998785c5a6996ceae368ab6e716993f81bcdba6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/void.png"
+hash = "c73b92379d86b69aa3fff455b0838dca42348e31d55f660f1196394c11b1d346"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/wanderer.png"
+hash = "dea15f36eb010571c806204c1ace596f50d4a13541bc46e83fea09c6797e7a2c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/wasteland.png"
+hash = "e3c60b9f3040815a4cf0dd7c01c535aa620713e81a72cda34044e46283583d3b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/assets/minecraft/textures/painting/wither.png"
+hash = "87aaa3cb12a094a28041008fba0cd5ab8cb303d06b096de0673f44705608cae5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/pack.mcmeta"
+hash = "ea1f7d4252fc8a38b726d467ba1aa142b7446187ecab3a08ecbda97238bee499"
+
+[[files]]
+file = "config/paxi/resourcepacks/Vanilla Tweaks/pack.png"
+hash = "c8468bbd1caa61f292eea64d8ab1dcfdc6320a15b037ab69b75fb7d9fce8dbb6"
+
+[[files]]
+file = "config/paxi/resourcepacks/meta/background.png"
+hash = "095bdcc521ef8fe1fc0c0b135d417263f23ff5f3bdcf90e85736ef48bdd35b32"
+
+[[files]]
+file = "config/paxi/resourcepacks/meta/logo.png"
+hash = "95569e15e6e2a73a4d0287a75a43c9f75b941176e37b561c305dba1cdeb8a016"
+
+[[files]]
+file = "config/paxi/resourcepacks/meta/title.png"
+hash = "4c6b87901cda981113588ec39717996ade53c0290193de16c8b36889011c4607"
+
+[[files]]
+file = "config/paxi/resourcepacks/meta/title_buttons.png"
+hash = "8ddad466488d79b78e737fda76d6708877d42b48cb84aee44e50cb3d37187380"
+
+[[files]]
+file = "config/paxi/resourcepacks/meta/title_buttons_hover.png"
+hash = "a226dbda8143fee03ed9f10978899126a0a3710a1f2946b4d5362eabc5f4f650"
+
+[[files]]
+file = "config/paxi/resourcepacks/meta/title_buttons_hover_small.png"
+hash = "a9348eaa2abaddf005295e99f786bea055ac733c9213d6d8af2a2293995db39b"
+
+[[files]]
+file = "config/paxi/resourcepacks/meta/title_buttons_small.png"
+hash = "2e5f968534eacccf9e64231bbb7d02b3986bf0479323be36c2cb2363607e53b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/meta/title_transparent.png"
+hash = "2ede0d287f51ea721c2d0401ace784bd9a405213538820720d7d3b04dd538fc3"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "636368ee37522f74c6354d0e88d0102539ee2a53c6ab86f26eeb566eaae530cf"
+
+[[files]]
+file = "config/railways-client.toml"
+hash = "3c6b7c5a57e8fd090285b4be2aa4b0ae2cb91a028ce1ae199d88c0c99859c62f"
 
 [[files]]
 file = "config/railways-common.toml"
 hash = "68cc9f605983fa6baff04f8fc98c1cdc8a6fa704700d49e4842631accf3bdfa9"
 
 [[files]]
+file = "config/rottencreatures-common-1.toml.bak"
+hash = "aaf62b2dc1f311a97ce24acf14cd7312bd81a357d454bd19fe8c218f682caa93"
+
+[[files]]
 file = "config/rottencreatures-common.toml"
 hash = "aaf62b2dc1f311a97ce24acf14cd7312bd81a357d454bd19fe8c218f682caa93"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+
+[[files]]
+file = "config/savage_and_ravage-client.toml"
+hash = "cfce37e604b733543ab4b9052f50d57f00e912dc90b6e6ea1933f7d275b6c632"
 
 [[files]]
 file = "config/savage_and_ravage-common.toml"
@@ -2527,8 +4239,20 @@ file = "config/sliceanddice-common.toml"
 hash = "99b193d5d7a1f89fbfbb064a81dd61550a5364cc46fb6ffa42158866461e72a2"
 
 [[files]]
+file = "config/solsweetpotato-client.toml"
+hash = "792f70862f39864c2347b0f155d38b5ff5e53def23768b56bc60d9077482e254"
+
+[[files]]
+file = "config/sophisticatedbackpacks-client.toml"
+hash = "5b4cfcdc19aff61e19c783ad1f78d7b176ecb5ec9bbaec60dff549acac01aa62"
+
+[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "b5e039356a12dc49c80fa1bb2291f44f486be707bf80efb73dc9822a0ab46dcf"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "48e045efb78607ff217eb278f817f1036039d99e38715ef9a9c6e1f5bafbc24c"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
@@ -2549,6 +4273,10 @@ hash = "75e88faf4d3975f1762de0e954e3e87122ca3ab003c4bec75f9e672367846b1c"
 [[files]]
 file = "config/strayspawn.json5"
 hash = "dce01a31c60e23819db3821f24a65d5065763f99f2cb6049adca80520684421d"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "c0e392857c0f67a5a2c9ffb92b342692e62d2499cd0f470519940a56c94c7a7d"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -2587,8 +4315,44 @@ file = "config/treechop-common.toml"
 hash = "ae382538bbe3cdb11b7e272c1da9a79ec34df1ff67c97cdcc3f69fbd3a03b3a2"
 
 [[files]]
+file = "config/upgradednetherite-client.toml"
+hash = "6ffd94b84d497ee5bd8cca5e47a09be7e1b417a3a8dc72d177520bbfa92c075e"
+
+[[files]]
+file = "config/upgradednetherite_ultimate-client.toml"
+hash = "6ffd94b84d497ee5bd8cca5e47a09be7e1b417a3a8dc72d177520bbfa92c075e"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "eb480e5a35380e0bde179661ead7cb2fc8021fc283cf7e5cbdb4b0509cd0b681"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "ea93938439ce27bcf74a8e67ca5e9b441583dff44a1e8f942beded5529bc7e56"
+
+[[files]]
 file = "config/wwoo/wwoo_forge.json"
 hash = "663663a6eb009e5efde6113a141f89d08952a885f82f7674b5be3e7f683ead02"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "29449ee5b6ca2378ae4913e48cc81c4c6e2dd5eab82ce99d46501509205ba247"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "42cbf11edb9e6da32d9d4d1b1effaaf94f7cbfbe93231f2d88d4bca5cad78be8"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ee2b1d8d04e77432ffd9616dd0f3c9fca81affe72c750027c33e2620caefd522"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -2610,6 +4374,11 @@ hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "e83a90a5cf68abc34b30252825b16e0c95ca9245cf99788265020d6fa106e86a"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "da7ddd616f8df7c0ef0314d82e3a8f7a2d5c28c3b7a478e79a0c605d49a7b7da"
 metafile = true
@@ -2627,6 +4396,11 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "802880a54a5f68cd1464be842acd9a7d474a31284de1529f67366a24c1e29466"
 metafile = true
 
 [[files]]
@@ -2710,6 +4484,11 @@ hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "27ce0f6ec9e15d9136c369315acc3c5ebd88f0c1ef8c4eb1cc33a636f6694fc1"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "3706735f6424024756ffde90d492a904db415ef24e05cb2b646901dc7caa39db"
 metafile = true
@@ -2720,8 +4499,18 @@ hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "589811220383729ea17edc4a87188130df3612be52e6abcf2deb466e5f548af0"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "33dc84276adae6a7f71eb826afb84b1ae6a14e3842e849d2a74dfcc3480f20ed"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "7a8979ea57b300924d5e6106401d40c94f1cc60e96b47e98c69952e4bc09b0ba"
 metafile = true
 
 [[files]]
@@ -2742,6 +4531,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "15ec930ce0519321748df2efd650af394803aa9c22e7c09b841c4b77033095df"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "f3f5f9c8a12dd8c52f0f8ab1c7a821390a08c4b472e7da277d2a55d42911314c"
 metafile = true
 
 [[files]]
@@ -2830,8 +4624,18 @@ hash = "825ecd73e0dfd4726aa26a74448b839cd50813615743e7ed14807af3dd2196f0"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "c097a4165a61f279c1ccc200356869896b665c27023e8fe5008e29018ceb0ff0"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
@@ -2850,6 +4654,11 @@ hash = "c658fc93eb013dcb2bfccd597f02442c14a0ef60759ac9102ab623ee16b38f68"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
 metafile = true
@@ -2862,6 +4671,11 @@ metafile = true
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "595076677e3bfe12ac64b0d9ba81c6a18df0c1e8bc68d364786152c5a6ca6372"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
 metafile = true
 
 [[files]]
@@ -2890,6 +4704,11 @@ hash = "87a9981fb934fde9aaf6db02ba3513955bd359aab6c4f4f8427e8b6bd8e30602"
 metafile = true
 
 [[files]]
+file = "mods/radon.pw.toml"
+hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+metafile = true
+
+[[files]]
 file = "mods/redstone-pen.pw.toml"
 hash = "ec15948b495a5745d988be1c0b74824deed0908bdd7ff9fc990fa948a565cea7"
 metafile = true
@@ -2897,6 +4716,11 @@ metafile = true
 [[files]]
 file = "mods/rotten-creatures.pw.toml"
 hash = "3dd7e9906c670fc3380094f3273d702fdbdad02ffa35ffaf2e8c5bd4ce3de2a3"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "d6a02b617d73812b20a2f8e483ea9791ecbf8de2649611bde123b6bb5d9ce365"
 metafile = true
 
 [[files]]
@@ -3005,6 +4829,21 @@ hash = "7ecd2833daab34c090ad5754b2c55923dd086367b4fdeb1117c9f9c5fe785a30"
 metafile = true
 
 [[files]]
+file = "mods/wthit-forge.pw.toml"
+hash = "57e587362fa8eb24e35e42926767b9011f764378b73f5d897dbac80267706b8c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "28abbc86e422d9f8263dd45132bdab8fa8ce4e2f9cb415997f821e0ab0e02235"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3d0e7fcc4b54e29b4ee0a73d0114a23505560a2779b7e25c34a26da62b203498"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "116a4b989d52e277313ddec28122afa4e9059e493517f74216aacbd16fa32944"
 metafile = true
@@ -3032,6 +4871,26 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "20222a2e823e88c1732d6b346478738fd0518f15c211de8c0ff82fbec8dbfd4d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-simple-storage.pw.toml"
+hash = "53e515d3026aefe81f8d27ae582c91a7db5662fa1ec39e7d7ff7ba424dd52715"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-modded-compats.pw.toml"
+hash = "df59dd0208b65661b036bfc08b14125b10498d93c6da5d2acc6626d6b3ad5402"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true-modded-compats.pw.toml"
+hash = "7aa06cc378142fd47deb8624824e0b8ff252dab4a7a799151d8561116cd55c96"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
 metafile = true
 
 [[files]]

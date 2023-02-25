@@ -15,9 +15,3 @@
 - removed unplayable built-in servers.
 - fixed andesite and copper casing doors transparency issues.
 - changed glowshroom block texture.
-
-
-
-- added Auto Server Restart, by default only restart on crash and if empty for 30 mins.
-- updated Forge to version 43.2.4
-- fixed unwanted characters in chat formatting.

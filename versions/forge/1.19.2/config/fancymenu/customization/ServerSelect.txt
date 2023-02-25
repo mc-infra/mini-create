@@ -1,0 +1,112 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MultiplayerScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  identifier = %id=346948%
+  orientation = bottom-centered
+  x = 4
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=346948%
+  width = 68
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=346948%
+  action = setbuttonlabel
+  value = Join
+}
+
+customization {
+  identifier = %id=450948%
+  orientation = bottom-centered
+  x = -50
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=450948%
+  action = setbuttonlabel
+  value = Direct Connection
+}
+
+customization {
+  identifier = %id=580972%
+  orientation = bottom-centered
+  x = 53
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=346972%
+  orientation = bottom-centered
+  x = -130
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=346972%
+  width = 60
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=426972%
+  orientation = bottom-centered
+  x = 75
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=426972%
+  width = 60
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=504972%
+  orientation = bottom-centered
+  x = -123
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=554948%
+  orientation = bottom-centered
+  x = -67
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=554948%
+  width = 68
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=554948%
+  action = setbuttonlabel
+  value = Add
+}
+

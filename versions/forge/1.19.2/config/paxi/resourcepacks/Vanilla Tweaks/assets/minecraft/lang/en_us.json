@@ -1,0 +1,14 @@
+{
+  "item.minecraft.skeleton_spawn_egg": "Archer Skeleton Spawn Egg",
+  "entity.minecraft.skeleton": "Archer Skeleton",
+  "subtitles.entity.skeleton.ambient": "Archer Skeleton rattles",
+  "subtitles.entity.skeleton.death": "Archer Skeleton dies",
+  "subtitles.entity.skeleton.hurt": "Archer Skeleton hurts",
+  "subtitles.entity.skeleton.shoot": "Archer Skeleton shoots",
+  "advancements.adventure.sniper_duel.description": "Kill an Archer Skeleton from at least 50 meters away",
+  "item.minecraft.stray_spawn_egg": "Fighter Skeleton Spawn Egg",
+  "entity.minecraft.stray": "Fighter Skeleton",
+  "subtitles.entity.stray.ambient": "Fighter Skeleton rattles",
+  "subtitles.entity.stray.death": "Fighter Skeleton dies",
+  "subtitles.entity.stray.hurt": "Fighter Skeleton hurts"
+}

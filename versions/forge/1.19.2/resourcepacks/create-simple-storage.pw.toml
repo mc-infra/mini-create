@@ -1,0 +1,13 @@
+name = "Tom's Create Storage"
+filename = "Create Simple Storage 1.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c4b31d1a3bdaae0c072752f9a0baac74be58b710"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4296160
+project-id = 776419

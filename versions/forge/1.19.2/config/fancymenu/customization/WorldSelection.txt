@@ -1,0 +1,78 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.WorldSelectionScreen
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=346948%
+  orientation = bottom-centered
+  x = -112
+  action = movebutton
+  y = -51
+}
+
+customization {
+  identifier = %id=346948%
+  width = 110
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=346948%
+  action = setbuttonlabel
+  value = Play
+}
+
+customization {
+  identifier = %id=504948%
+  orientation = bottom-centered
+  x = 2
+  action = movebutton
+  y = -51
+}
+
+customization {
+  identifier = %id=504948%
+  width = 110
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=504948%
+  action = setbuttonlabel
+  value = Create
+}
+
+customization {
+  identifier = %id=582972%
+  orientation = bottom-centered
+  x = 40
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=346972%
+  orientation = bottom-centered
+  x = -112
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=424972%
+  orientation = bottom-centered
+  x = -36
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=504972%
+  action = hidebutton
+}
+

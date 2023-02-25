@@ -1,0 +1,295 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/paxi/resourcepacks/meta/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\paxi\resourcepacks\meta\title_buttons_hover.png
+  backgroundnormal = config\paxi\resourcepacks\meta\title_buttons.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 0.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 62
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\paxi\resourcepacks\meta\title_buttons_hover_small.png
+  backgroundnormal = config\paxi\resourcepacks\meta\title_buttons_small.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 0.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 62
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Quit
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\paxi\resourcepacks\meta\title_buttons_hover_small.png
+  backgroundnormal = config\paxi\resourcepacks\meta\title_buttons_small.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 0.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\paxi\resourcepacks\meta\title_buttons_hover.png
+  backgroundnormal = config\paxi\resourcepacks\meta\title_buttons.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 0.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\paxi\resourcepacks\meta\title_buttons_hover_small.png
+  backgroundnormal = config\paxi\resourcepacks\meta\title_buttons_small.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  seconds = 0.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 133
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 7b9a3452-b803-4ed4-8fc5-9bcd1de2d2c81657381540792
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = f933c1d1-5b9f-48b2-a868-369c9340cf231657381540797
+  y = 237
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 305
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = ace7792a-00a3-47ac-899e-ef154a9110911657381540797
+  y = 259
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 370
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = ca7e600c-ba1d-4c77-9ed2-d05ce409d3071657381540797
+  y = 169
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 130
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 607b3a96-efbe-4825-a95a-def89bc1c42a1657381540797
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = fd9263a8-c11a-4c4d-bb30-1a6a5c38490c1657381540797
+  y = 0
+  height = 30
+}
+
+customization {
+  path = config/paxi/resourcepacks/meta/title_transparent.png
+  orientation = top-centered
+  x = -123
+  width = 249
+  action = addtexture
+  actionid = d5dd9ef5-1dc3-4570-98ba-0f48bcc54cb21645781770413
+  y = 20
+  height = 83
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink
+  backgroundhovered = config\paxi\resourcepacks\meta\title_buttons_hover_small.png
+  label = Website
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 2
+  width = 98
+  actionid = a78cac06-2b1f-4df4-af23-4c3ff0fb3d271640807774478
+  action = addbutton
+  y = 38
+  delayappearance = true
+  backgroundnormal = config\paxi\resourcepacks\meta\title_buttons_small.png
+  value = https://www.curseforge.com/minecraft/modpacks/create-flavored
+  delayappearanceeverytime = false
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  action = addtext
+  actionid = 73743ecf-98ea-4909-9de3-b708296749e61640808014065
+  y = -11
+  scale = 1.0
+  alignment = left
+  value = Create Flavored 5.10
+}
+
