@@ -24,6 +24,6 @@ node_modules
 *.log
 .vscode/*.log
 *.mrpack
-
+.vscode
 versions/quilt/*/mods/fabric-api.pw.toml
 /blueprints
