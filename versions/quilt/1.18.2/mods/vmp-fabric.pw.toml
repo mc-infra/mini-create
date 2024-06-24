@@ -1,13 +1,13 @@
 name = "Very Many Players (Fabric)"
-filename = "vmp-fabric-mc1.18.2-0.2.0+beta.3.99-all.jar"
+filename = "vmp-fabric-mc1.18.2-0.2.0+beta.3.105-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cc61dd7317c3a30be707707c7ec438ae2aa0cb9d"
+hash = "04619db35db8d42f30fb1872d658b9c919264288"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4015400
+file-id = 4029309
 project-id = 552542

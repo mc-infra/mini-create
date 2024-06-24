@@ -1,0 +1,13 @@
+name = "Better Combat [Fabric & Forge]"
+filename = "bettercombat-forge-1.4.4+1.19.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "7380151acd3104911e363285f5f85855bfd6310e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4015138
+project-id = 639842
