@@ -1,0 +1,10 @@
+{
+  "sodium": {
+    "text": "Sodium",
+    "description": "Performance: Mods",
+    "mods": [
+      "sodium",
+      "indium"
+    ]
+  }
+}

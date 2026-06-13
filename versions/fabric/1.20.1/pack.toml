@@ -1,0 +1,13 @@
+name = "Create Micro"
+author = "appkins"
+version = "0.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c69c5a3556a79a3a98485f9fb811714f183f9b680b8537cdb054e23521d1f703"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
